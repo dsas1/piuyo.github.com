@@ -1,0 +1,1657 @@
+{
+  "data": {
+    "nanodegree": {
+      "id": 906666,
+      "key": "nd045",
+      "title": "Data Science for Business Leaders",
+      "semantic_type": "Degree",
+      "is_public": true,
+      "cohorts": [],
+      "version": "1.0.0",
+      "locale": "en-us",
+      "color_scheme": "color_scheme1",
+      "enrollment": {
+        "product_variant": "STANDARD",
+        "variant": "STANDARD",
+        "static_access": {
+          "static_access": true,
+          "access_expiry_at": "2021-10-29T02:44:17.460Z"
+        }
+      },
+      "nd_units": [
+        {
+          "id": 10382
+        }
+      ],
+      "hero_image": null,
+      "forum_path": "",
+      "summary": "This course provides business leaders/managers with strategies and guidelines for how best to solve the human capital, technological, and management challenges of building data science into business",
+      "is_graduated": false,
+      "is_term_based": true,
+      "is_default": true,
+      "project_deadlines": [
+        {
+          "due_at": "2020-11-11T02:21:19.315Z",
+          "node_key": "fe9c30c9-7eca-4de1-b8eb-bc5b95c7fbc6"
+        },
+        {
+          "due_at": "2020-11-12T02:21:19.315Z",
+          "node_key": "0051a3da-930f-47a1-bd41-d7fe3bd324f4"
+        }
+      ],
+      "user_state": {
+        "node_key": "nd045",
+        "completed_at": "2020-10-14T02:21:32.843Z",
+        "last_viewed_at": "2020-10-14T02:21:05.450Z",
+        "unstructured": null
+      },
+      "aggregated_state": {
+        "node_key": "nd045",
+        "completion_amount": 0,
+        "completed_count": 0,
+        "concept_count": 140,
+        "last_viewed_child_key": "5815016a-a4f6-49f3-b3ad-3f97d4efdde1",
+        "part_aggregated_states": [
+          {
+            "node_key": "5815016a-a4f6-49f3-b3ad-3f97d4efdde1",
+            "completed_at": null,
+            "completion_amount": 0,
+            "completed_count": 0,
+            "concept_count": 16,
+            "last_viewed_child_key": "1d67e78d-e1a0-4db6-ad00-ffa154d9197e",
+            "module_aggregated_states": [
+              {
+                "node_key": "1d67e78d-e1a0-4db6-ad00-ffa154d9197e",
+                "completed_at": null,
+                "completion_amount": 0,
+                "completed_count": 0,
+                "concept_count": 16,
+                "last_viewed_child_key": "9615107b-afee-4da7-a152-ef5d9bd5a919",
+                "lesson_aggregated_states": [
+                  {
+                    "node_key": "9615107b-afee-4da7-a152-ef5d9bd5a919",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 7,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "82d21b83-a3a9-42ce-9f06-d5ac8b35d642"
+                  },
+                  {
+                    "node_key": "d03deb6d-3aee-4331-b4ed-67b8cd2ec8bb",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 9,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "7b46b9c9-0d5b-4975-bab8-c6d265f06d9c"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_key": "53b1140f-4a57-4126-93c9-fc542eb08962",
+            "completed_at": null,
+            "completion_amount": 0,
+            "completed_count": 0,
+            "concept_count": 112,
+            "last_viewed_child_key": "d6c61e85-f5aa-4cab-bbcb-1a1215ca196e",
+            "module_aggregated_states": [
+              {
+                "node_key": "d6c61e85-f5aa-4cab-bbcb-1a1215ca196e",
+                "completed_at": null,
+                "completion_amount": 0,
+                "completed_count": 0,
+                "concept_count": 112,
+                "last_viewed_child_key": "2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c",
+                "lesson_aggregated_states": [
+                  {
+                    "node_key": "2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 12,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "7adac5eb-f935-4fd0-8ef7-2c602ae2b218"
+                  },
+                  {
+                    "node_key": "aeeb90b8-6dce-4d0d-97a3-a51287c197bf",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 27,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "7cea217b-1231-4d48-aeda-5d589ef7b2b9"
+                  },
+                  {
+                    "node_key": "6d851b74-5354-4fac-a90f-fc6004a17b96",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 23,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "066e1efa-1964-4aea-bf9a-ce99377d279e"
+                  },
+                  {
+                    "node_key": "2735e9c7-9652-4ca2-ba3a-364b8aa46813",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 29,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "ea25eb3d-233a-42e3-821f-68c956b91da0"
+                  },
+                  {
+                    "node_key": "9d029835-11f7-4476-af10-6ac4199d5d12",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 17,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "f2b27859-7192-4948-9b27-85e691c9e10c"
+                  },
+                  {
+                    "node_key": "9d476fa8-b767-4866-b535-1f73b5961fd2",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 4,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "8b1de5a4-83d0-4c79-b59d-bbcc9d504796"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_key": "72496915-1a02-4ff9-abf3-52909c7a317e",
+            "completed_at": null,
+            "completion_amount": 0,
+            "completed_count": 0,
+            "concept_count": 12,
+            "last_viewed_child_key": "afa39660-0af0-411b-8b0e-85f3eb6326de",
+            "module_aggregated_states": [
+              {
+                "node_key": "afa39660-0af0-411b-8b0e-85f3eb6326de",
+                "completed_at": null,
+                "completion_amount": 0,
+                "completed_count": 0,
+                "concept_count": 12,
+                "last_viewed_child_key": "20707806-8f14-420f-b613-4196199a88c1",
+                "lesson_aggregated_states": [
+                  {
+                    "node_key": "20707806-8f14-420f-b613-4196199a88c1",
+                    "completed_at": null,
+                    "completed_count": 0,
+                    "concept_count": 12,
+                    "completion_amount": 0,
+                    "last_viewed_child_key": "c8c3fbd0-b7ba-471e-85b7-eb2b1c3820c0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "resources": null,
+      "specializations": [],
+      "parts": [
+        {
+          "id": 1053412,
+          "key": "5815016a-a4f6-49f3-b3ad-3f97d4efdde1",
+          "title": "Welcome to the Data Science for Business Leaders Program",
+          "semantic_type": "Part",
+          "is_public": true,
+          "version": "1.0.0",
+          "locale": "en-us",
+          "summary": "",
+          "part_type": "Core",
+          "locked_reason": "not_locked",
+          "locked_until": null,
+          "content_ready_date_ms": null,
+          "resources": null,
+          "image": {
+            "url": "https://video.udacity-data.com/topher/2020/August/5f32cca1_noun-data-collection-2450573/noun-data-collection-2450573.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "specialization": null,
+          "modules": [
+            {
+              "id": 1071798,
+              "key": "1d67e78d-e1a0-4db6-ad00-ffa154d9197e",
+              "title": "Welcome to the Data Science for Business Leaders Program",
+              "semantic_type": "Module",
+              "is_public": true,
+              "version": "1.0.0",
+              "locale": "en-us",
+              "is_project_module": null,
+              "forum_path": "",
+              "lessons": [
+                {
+                  "id": 1056303,
+                  "key": "9615107b-afee-4da7-a152-ef5d9bd5a919",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": null,
+                  "title": "Data Science for Business Leaders Program Introduction",
+                  "duration": 0,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": null,
+                  "lesson_type": "Classroom",
+                  "image": null,
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1017735,
+                      "key": "82d21b83-a3a9-42ce-9f06-d5ac8b35d642",
+                      "title": "Welcome to Udacity",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1017737,
+                      "key": "429d8f29-a42a-4dc4-a482-bfd57c95c2b1",
+                      "title": "The Udacity Experience",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1056304,
+                      "key": "4ce07fe8-075f-423a-ba50-9d8828254fbc",
+                      "title": "Welcome to the Data Science for Business Leaders Program",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1056306,
+                      "key": "b8e08816-8c74-4dce-9e95-747265c51bf8",
+                      "title": "Pre-requisites",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1056308,
+                      "key": "ad825348-63ad-45c8-a9c9-42a44695a01b",
+                      "title": "Meet Your Instructor",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1056312,
+                      "key": "cc07a754-4c4d-4fd9-beaf-27f566256906",
+                      "title": "Career Chat with your Instructor",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1056310,
+                      "key": "af804d4e-5657-488e-a64e-dc64bf81333e",
+                      "title": "How to Succeed",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 718657,
+                  "key": "d03deb6d-3aee-4331-b4ed-67b8cd2ec8bb",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "You are starting a challenging but rewarding journey! Take 5 minutes to read how to get help with projects and content.",
+                  "title": "Mentor Help, Peer Chat, and Careers",
+                  "duration": 30,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b39acdb_1-3-learning-online-getting-help2x/1-3-learning-online-getting-help2x.jpg",
+                    "width": 592,
+                    "height": 640
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 718664,
+                      "key": "7b46b9c9-0d5b-4975-bab8-c6d265f06d9c",
+                      "title": "What It Takes",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1021285,
+                      "key": "ce0fb21a-73a5-4f9b-8ffa-0335059917a7",
+                      "title": "Getting Help",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 782140,
+                      "key": "6324e0bb-4deb-41b3-b605-99e07af894cc",
+                      "title": "Mentor Help",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1163855,
+                      "key": "5f942e16-64ef-4b24-9de4-f4a8d2369c2c",
+                      "title": "Submitting Classroom Feedback",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1163845,
+                      "key": "445f9136-5662-43b8-bb60-a9e810310a09",
+                      "title": "Help Center",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 908233,
+                      "key": "6f52a708-af17-4b67-bff0-b487b048bc93",
+                      "title": "Udacity Support Community",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 831981,
+                      "key": "99232e4b-299c-40f5-a985-3162da96288e",
+                      "title": "Career Services",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1028834,
+                      "key": "d895e8dd-e35a-419b-b1ea-a2953e03d951",
+                      "title": "Plagiarism",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1163864,
+                      "key": "52823ce0-8170-425d-b817-f8395f8ea77f",
+                      "title": "Quiz: Plagiarism at Udacity",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1053413,
+          "key": "53b1140f-4a57-4126-93c9-fc542eb08962",
+          "title": "Data Science for Business Leaders",
+          "semantic_type": "Part",
+          "is_public": true,
+          "version": "1.0.0",
+          "locale": "en-us",
+          "summary": "\nThe goal of the Data Science for Business Leaders Executive Program is to equip learners with the understanding of strategic, human capital, and technical requirements that power the ability of data science to deliver enhanced business outcomes, as well as the strategic execution skills to develop an organizational data science strategy that unlocks this potential.  This program focuses on the unique knowledge and skills that business leaders need to unlock the value of data in their organizations, or enable a more data-driven department/organization that leverages data to inform strategic decisions for business operational improvement and growth. \n",
+          "part_type": "Core",
+          "locked_reason": "not_locked",
+          "locked_until": null,
+          "content_ready_date_ms": null,
+          "resources": null,
+          "image": null,
+          "specialization": null,
+          "modules": [
+            {
+              "id": 1072102,
+              "key": "d6c61e85-f5aa-4cab-bbcb-1a1215ca196e",
+              "title": "Data Science for Business Leaders",
+              "semantic_type": "Module",
+              "is_public": true,
+              "version": "1.0.0",
+              "locale": "en-us",
+              "is_project_module": null,
+              "forum_path": "",
+              "lessons": [
+                {
+                  "id": 1037544,
+                  "key": "2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "In this lesson, you'll meet your  instructor and learn about what this course is going to cover.",
+                  "title": "Introduction to Data Science for Business Leaders",
+                  "duration": 120,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2020/July/5f2254bf_data-science/data-science.png",
+                    "width": 480,
+                    "height": 480
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1037530,
+                      "key": "7adac5eb-f935-4fd0-8ef7-2c602ae2b218",
+                      "title": "Meet Your Instructor",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037535,
+                      "key": "c064ea57-a363-48f7-bc02-d01447c01642",
+                      "title": "Prerequisites",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037543,
+                      "key": "5177f0bc-9cba-4c82-80a0-9cc73f11d72e",
+                      "title": "Introduction to Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037532,
+                      "key": "262d95d9-8f21-4c5c-ae40-8b827e9a7363",
+                      "title": "Data Science Is Important",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037531,
+                      "key": "3905068d-3122-4e6c-b1ba-13cf4ad61a3d",
+                      "title": "Business Stakeholders",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037540,
+                      "key": "667e9799-1c42-49a3-9313-2cc369ea2949",
+                      "title": "When to Use or Not Use Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037542,
+                      "key": "d911c129-3e1a-451d-bbbe-daf85cff6456",
+                      "title": "History of Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037534,
+                      "key": "d7d18e2b-8d85-44a7-9830-7a6dc3ae4364",
+                      "title": "Course Outline",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037537,
+                      "key": "4079702a-4527-4401-8b57-b9514c3ae954",
+                      "title": "Tools, Environment & Dependencies",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037533,
+                      "key": "6a70e95d-81af-4c83-aca8-23476b9b238a",
+                      "title": "Project: Build a Data Science Strategy",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037536,
+                      "key": "57b3a761-6ec5-4ba0-8f83-180e4af463a4",
+                      "title": "Good Luck!",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037541,
+                      "key": "9ccc04b4-be73-44a9-999d-72c6c9bf32d0",
+                      "title": "Lesson Glossary and Additional Resources",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 1037668,
+                  "key": "aeeb90b8-6dce-4d0d-97a3-a51287c197bf",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "In this lesson,  you'll learn about the principles of data science to help you build a solid foundation. ",
+                  "title": "Principles of Data Science",
+                  "duration": 240,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2020/August/5f32cca1_noun-data-collection-2450573/noun-data-collection-2450573.png",
+                    "width": 1200,
+                    "height": 1200
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1037642,
+                      "key": "7cea217b-1231-4d48-aeda-5d589ef7b2b9",
+                      "title": "Introduction to Principles of Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037644,
+                      "key": "952d889b-11f1-4823-ad38-25e3aee74e23",
+                      "title": "Overview",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037661,
+                      "key": "12dd2a4d-8eb6-4a8d-aef1-d63ec21bede5",
+                      "title": "What are Data Science Skills",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037657,
+                      "key": "b83bbb47-071c-4061-9b6e-534112c7c2c0",
+                      "title": "What Is Data Science?",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037641,
+                      "key": "f08bee1e-7498-4995-8905-9361d393311c",
+                      "title": "Quizzes: What Is Data Science? ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037660,
+                      "key": "a5062254-e1e4-4e74-9b2e-41c1a2e31e78",
+                      "title": "Who is a Data Scientist?",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037662,
+                      "key": "50846f26-8689-41ab-9fe1-8c6817491fda",
+                      "title": "Quizzes: Who is a Data Scientist? ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037648,
+                      "key": "1bac5439-5f24-4795-9106-ad6478ca666e",
+                      "title": "Exercise: Who is a Data Scientist? ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037652,
+                      "key": "eee6501d-1add-4938-a174-6960991f5aca",
+                      "title": "Who is a Data Scientist? Exercise Solution",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037646,
+                      "key": "0436ce27-de7c-4c42-8f61-8bbf3f938c7d",
+                      "title": "Data Science Approaches",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037666,
+                      "key": "841b3630-31d5-4558-9597-29a26c926181",
+                      "title": "Quizzes: Data Science Approaches ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037651,
+                      "key": "03b27ab7-1e44-4ab1-84ac-7bca052be963",
+                      "title": "Types of Data Science Problems",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037650,
+                      "key": "a13bebbf-26cf-442e-8868-30ad0d89ebcb",
+                      "title": "Quizzes: Types of Data Science Problems ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037649,
+                      "key": "aaa28482-ee23-4d53-bd98-d7c38003d765",
+                      "title": "Exercise: Types of Data Science Problems ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037653,
+                      "key": "e6a2f4f1-54bb-4f7f-8f7c-e24dd5ac9654",
+                      "title": "Solution: Types of Data Science Problems Exercise ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037655,
+                      "key": "a345a8e4-d4ee-45bf-ac66-06507ceacf32",
+                      "title": "Data Science Process",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037665,
+                      "key": "62640e4f-762f-493e-a817-0cdb4249513e",
+                      "title": "Quizzes: Data Science Process ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037658,
+                      "key": "e186f4d3-4bc6-44a4-97ed-3b1a11662eb3",
+                      "title": "Why Data Science Initiatives Fail",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037654,
+                      "key": "e43dbaba-be0b-4f97-b6d8-95116e77053c",
+                      "title": "Quizzes: Why Data Science Initiatives Fail ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1039111,
+                      "key": "ffccce7b-d457-4b8b-9998-ac8b7005d742",
+                      "title": "Exercise: Why Data Science Initiatives Fail",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1039113,
+                      "key": "133ae2e8-c157-4ab1-bd75-578578dcecb0",
+                      "title": "Solution: Why Data Science Initiatives Fail ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037667,
+                      "key": "2f401e74-2827-4f75-ba15-8fa6fae122f4",
+                      "title": "Foundational Requirements for Data Science Success",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037643,
+                      "key": "18e6087e-083d-4d9c-b5a5-8003af80f934",
+                      "title": "Quizzes: Foundational Requirements for Data Science ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1039118,
+                      "key": "c0a3b3d7-9968-42ed-83b8-60cf04d52122",
+                      "title": "Exercise: Foundational Requirements for Data Science Success",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1039120,
+                      "key": "116eca6a-4bd6-425c-9a5b-1525a9d14773",
+                      "title": "Solution:Foundational Requirements for Data Science Success ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037656,
+                      "key": "fbe57161-81c8-4676-a9e5-5694112665a9",
+                      "title": "Lesson Conclusion",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037645,
+                      "key": "e63eb3de-8f52-4f45-9cb9-7b92230605d4",
+                      "title": "Lesson Glossary and Additional Resources",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 1037914,
+                  "key": "6d851b74-5354-4fac-a90f-fc6004a17b96",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "In this lesson, you'll learn why data science is vital for any business and how to make the case for a solid business case to others. ",
+                  "title": "The Business Case for Data Science",
+                  "duration": 240,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2020/July/5f2257af_business-icon/business-icon.png",
+                    "width": 480,
+                    "height": 480
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1037891,
+                      "key": "066e1efa-1964-4aea-bf9a-ce99377d279e",
+                      "title": "The Business Case for Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037887,
+                      "key": "3627fdac-ba5b-4984-ae5b-4602f7557582",
+                      "title": "Big Picture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037889,
+                      "key": "f1b14525-8e07-4e12-8394-96922302bbe0",
+                      "title": "The Business Case for DS",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037897,
+                      "key": "6796c434-e777-4ffb-b7bc-cb7db616510c",
+                      "title": "Key Success Factors for Data Science Projects",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037892,
+                      "key": "429f3d6a-86fb-49db-8e6b-fd093521f8a4",
+                      "title": "Quizzes: Key Success Factors for Data Science Projects",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1052091,
+                      "key": "1ef1f0ac-c205-49d8-b038-efb13a906bda",
+                      "title": "Where  Do We Start: Introduction",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037896,
+                      "key": "b2c8aff0-04aa-41c3-9010-183e0405dad5",
+                      "title": "Quizzes: Where Do We Start? ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037895,
+                      "key": "449a4cdd-f36b-4dc6-9b11-6f5a30b93f31",
+                      "title": "Where Do We Start? Choosing Projects",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037903,
+                      "key": "ecf17be4-ca62-45be-89bd-456ab0cafbfb",
+                      "title": "Exercise: Where Do We Start?",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037901,
+                      "key": "4e683d35-83cb-4235-a4cb-2520907b972d",
+                      "title": "Solution: Where Do We Start?  ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037899,
+                      "key": "fe85b813-9155-4f3e-a935-a6783c3fe2cf",
+                      "title": "How Do We Start?",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037910,
+                      "key": "e1d8f107-9f4d-4f54-9b31-abc45fa19013",
+                      "title": "Quizzes: How Do We Start? ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037898,
+                      "key": "b8209c2f-9359-4df5-bf76-b8a14a95171f",
+                      "title": "Keys to Creating a Strategic Roadmap",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037888,
+                      "key": "419615e4-2ebf-403f-b470-7f451e5a1c61",
+                      "title": "Quizzes: Keys to Creating a Strategic Roadmap ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1042929,
+                      "key": "e3db467b-fa7b-4ea6-8442-76a63823d9c8",
+                      "title": " Exercise: Keys to Creating a Roadmap Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1042931,
+                      "key": "28373e0d-32ca-4e15-8325-68d8a1ab6d62",
+                      "title": "Solution: Keys to Creating a Roadmap Exercise ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037909,
+                      "key": "13647fdc-829a-44fc-9093-42847889ce19",
+                      "title": "Setting Expectations",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037900,
+                      "key": "9b4c2aa0-8552-424b-979b-5ad47936bb19",
+                      "title": " Quizzes: Setting Expectations",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037905,
+                      "key": "b0b6113b-e99e-4d46-9c64-54cfafbf00aa",
+                      "title": "Exercise: Setting Expectations ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037904,
+                      "key": "f54eb99d-eff3-4aec-bd5e-13207f81876f",
+                      "title": "Solution: Setting Expectations Exercise ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037908,
+                      "key": "a0a855e6-c547-4fbb-a3e0-9c26aca7e81e",
+                      "title": "Choosing a First Project",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037913,
+                      "key": "36187fff-5f9f-4a60-9ceb-92de333d9665",
+                      "title": "Lesson Conclusion",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037893,
+                      "key": "156d317b-93f4-460a-9880-89efcfa1d40b",
+                      "title": "Lesson Glossary and Additional Resources",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 1038100,
+                  "key": "2735e9c7-9652-4ca2-ba3a-364b8aa46813",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "In this lesson you'll learn how to build a data driven culture and team.",
+                  "title": "Human Capital of Data Science",
+                  "duration": 300,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2018/February/5a7920bb_1-13-udacity-explores-human-robot-interaction-robot-ethics1x/1-13-udacity-explores-human-robot-interaction-robot-ethics1x.png",
+                    "width": 500,
+                    "height": 500
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1038074,
+                      "key": "ea25eb3d-233a-42e3-821f-68c956b91da0",
+                      "title": "Human Capital of Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038075,
+                      "key": "8f3e3192-a766-45eb-9ede-cf1559d4b29c",
+                      "title": "Big Picture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038084,
+                      "key": "91d0ef1c-5662-4aa9-8982-a1a5df96901f",
+                      "title": "Human Capital",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038076,
+                      "key": "ff7f093e-7ee0-4119-8079-70fd0cc2608e",
+                      "title": "Organizational models for Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038077,
+                      "key": "9391d5b5-638a-4961-8dd5-f8383d618311",
+                      "title": "Quizzes: Organizational models for Data Science ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038078,
+                      "key": "6123a7eb-b647-4294-919d-ae202b662628",
+                      "title": "Exercise: Organizational models for Data Science",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038083,
+                      "key": "dbd0bfc0-7f12-4906-92fc-b1dd3b89ed40",
+                      "title": "Solution: Organizational models for Data Science Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038087,
+                      "key": "93d5db84-a209-4cf5-bae9-c58e974f1047",
+                      "title": "Who to involve? Identifying Stakeholders and Building Momentum",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038054,
+                      "key": "55936e09-2143-459c-a6ad-69d944c1461a",
+                      "title": "Quizzes: Who to involve? Stakeholders and Momentum",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038090,
+                      "key": "9801954e-0d18-4d85-9970-8cb7aa0365f4",
+                      "title": "Building the Bench",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038096,
+                      "key": "1996ff98-096c-4a8a-bba3-55d7dc77fa21",
+                      "title": "Quizzes: Building the Bench",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038081,
+                      "key": "00334ddb-a90d-4966-b1fa-7b21090d13db",
+                      "title": "Exercise: Building the Bench ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038058,
+                      "key": "a51f331b-9d11-46e6-9255-182ca21b0b2a",
+                      "title": "Solution: Building the Bench Exercise ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038056,
+                      "key": "06290d47-1b11-4802-8498-370bf5aea997",
+                      "title": "Finding the Players",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038059,
+                      "key": "8561c770-946c-4a2e-82dc-d06e83a24d2d",
+                      "title": "Quizzes: Finding the Players Quizzes",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038062,
+                      "key": "702c7405-8961-49fe-a6b1-2282f40af0ba",
+                      "title": "Configuring the Team",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038089,
+                      "key": "0e93edba-b9fe-44c2-86f0-3a9328e13dd9",
+                      "title": "Quizzes: Configuring the Team ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038071,
+                      "key": "d11d29ef-b428-437f-86de-676475d089eb",
+                      "title": "Managing the Process",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038068,
+                      "key": "02e0d7aa-5b0e-4144-a179-4acab4f77693",
+                      "title": "Quizzes: Managing the Process",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038064,
+                      "key": "49abb1db-ed1d-49eb-ada7-35180aec3fb8",
+                      "title": "Structured Problem Solving Method",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038085,
+                      "key": "1d3b5500-591d-4bd2-8ddf-1dc3c2c4e3cc",
+                      "title": "Quizzes: Structured Problem Solving Method ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038097,
+                      "key": "5cb8d4d5-5f33-48e2-a53c-c44595edc77e",
+                      "title": "Synthesis with Actionable Insights and Storytelling with Data",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038093,
+                      "key": "298cf9b7-b07d-4072-a807-68ba3970e9ec",
+                      "title": "Quizzes: Synthesis and Storytelling with Data",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038092,
+                      "key": "ccf4c513-657b-4b56-95f3-a10e854b3de4",
+                      "title": "Fostering a Data-driven Culture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038099,
+                      "key": "58466db1-d871-4e7e-a1f9-0b29c260a14b",
+                      "title": "Quizzes: Fostering a Data-driven Culture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038082,
+                      "key": "bd27ac5e-19c8-437d-8dd2-ab602a0f9484",
+                      "title": "Exercise: Fostering a Data-driven Culture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038066,
+                      "key": "d1b52285-82b9-4096-85e2-e4e1bd369d4e",
+                      "title": "Solution: Fostering a Data-driven Culture Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038069,
+                      "key": "8968b714-dd28-4ca2-8570-5a44dfaddf43",
+                      "title": "Lesson Conclusion",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038072,
+                      "key": "690fb48c-b629-47a9-bbae-fe6a774b4774",
+                      "title": "Lesson Glossary and Additional Resources",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 1038194,
+                  "key": "9d029835-11f7-4476-af10-6ac4199d5d12",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "In this lesson you'll learn about creating a strategy around Data and Machine Learning Infrastructure.",
+                  "title": "Data and Machine Learning Infrastructure",
+                  "duration": 180,
+                  "is_public": true,
+                  "is_project_lesson": false,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2020/April/5e9a6186_noun-machine-learning-1705417/noun-machine-learning-1705417.png",
+                    "width": 512,
+                    "height": 512
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": null,
+                  "concepts": [
+                    {
+                      "id": 1038177,
+                      "key": "f2b27859-7192-4948-9b27-85e691c9e10c",
+                      "title": "Data and Machine Learning Infrastructure Strategy",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038175,
+                      "key": "ab7ac9d6-9449-4e40-bb86-5449fdb77e32",
+                      "title": "Big Picture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038183,
+                      "key": "2eef44a4-d204-4814-80b1-8468a20f057c",
+                      "title": "Infrastructure",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038179,
+                      "key": "84bd2cb9-afcf-456e-a6d7-741aa5df1799",
+                      "title": "Data and Data Architecture Strategy",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038174,
+                      "key": "972ab5de-e136-4d65-a86f-b49c4ef7874b",
+                      "title": "Quizzes: Data and Data Architecture Strategy",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038186,
+                      "key": "fa74b111-6cd9-4c8d-8d93-2e2cf5bac169",
+                      "title": "Exercise: Data and Data Architecture Strategy",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038184,
+                      "key": "06d30afa-6717-47b3-bef7-25bc19d9cffe",
+                      "title": "Solution: Data and Data Architecture Strategy Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038190,
+                      "key": "71bab027-13c7-4ab0-a0be-14543b7a88ca",
+                      "title": "Training Data Bias",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038191,
+                      "key": "01b97103-3101-419c-b2b7-05aae5cbfb2d",
+                      "title": "Quizzes: Training Data Bias ",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038185,
+                      "key": "5b37a16d-c82b-4d64-8044-3b7b00018d96",
+                      "title": "Machine Learning Architecture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038189,
+                      "key": "927b32e2-02f5-4e73-902c-54740e43488e",
+                      "title": "Quizzes: Machine Learning Architecture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038188,
+                      "key": "2c5dba8b-2b04-4e41-915c-1c274c4a9f94",
+                      "title": "Exercise: Machine Learning Architecture",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038178,
+                      "key": "203d15b0-9d55-4314-b302-cae056f9a855",
+                      "title": "Solution: Machine Learning Architecture Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038176,
+                      "key": "52615ea0-4165-48de-9864-95d88cc9a6aa",
+                      "title": "Final Review Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038182,
+                      "key": "75d5c4ba-0635-4c05-807b-3ca472ee58e7",
+                      "title": "Solution: Final Review Exercise",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038193,
+                      "key": "d4ce6423-7dcf-4ba5-8bed-6b151e145ae6",
+                      "title": "Lesson/Course Recap",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1038181,
+                      "key": "c9dc8992-f5e2-4026-b260-3db2b34d5be0",
+                      "title": "Lesson Glossary and Additional Resources",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                },
+                {
+                  "id": 1037237,
+                  "key": "9d476fa8-b767-4866-b535-1f73b5961fd2",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "Now that you have completed all of the course material, it's time to put it all together in the project!",
+                  "title": "Build a Data Science Strategy",
+                  "duration": 360,
+                  "is_public": true,
+                  "is_project_lesson": true,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://video.udacity-data.com/topher/2018/October/5bc23819_writing-up-a-capstone-proposal-lesson-image/writing-up-a-capstone-proposal-lesson-image.png",
+                    "width": 2084,
+                    "height": 2084
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": {
+                    "key": "fe9c30c9-7eca-4de1-b8eb-bc5b95c7fbc6",
+                    "version": "1.0.0",
+                    "locale": "en-us",
+                    "duration": 40320,
+                    "semantic_type": "Project",
+                    "title": "Build a Data Science Strategy",
+                    "description": "## Project Submission\nBefore you submit your project, please make sure that:\n1. You have met all of the requirements on the [Project Rubric](https://review.udacity.com/#!/rubrics/2862/view)\n2. You have completed the following deliverables:\n  - DSBL CEO Presentation in .pptx format\n  - DSBL Project Template in .docx format\n  - You may also want to look at the standout suggestions on the Rubric to see if you can make your project even better. This will make your project *Standout* to potential employers. \n  - **Optional** Your CEO Presentation Video. Please provide your video in .mp4 format. You can use a phone, video camera, or webcam to film this. \n3. Zip all of your files for review\n  - Name your zip file with your name\n  - If you used Google, you can simply select all of the files in Google Drive and click download and Google will create the Zip file for you. \nOn Windows and macOS there are various options such as 7-Zip that allows you to Zip your files as well. \n4. Submit your files for review\n",
+                    "is_public": true,
+                    "summary": null,
+                    "forum_path": "",
+                    "rubric_id": "2862",
+                    "terminal_project_id": null,
+                    "resources": null,
+                    "image": null
+                  },
+                  "concepts": [
+                    {
+                      "id": 1037239,
+                      "key": "8b1de5a4-83d0-4c79-b59d-bbcc9d504796",
+                      "title": "Build a Data Strategy Introduction",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037243,
+                      "key": "77916a2b-35a2-4a7a-b83d-0fdaf9322f35",
+                      "title": "What is a 100 Day Plan",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037247,
+                      "key": "c2519088-3bfe-4c52-9570-f67fbe701d34",
+                      "title": "Project Instructions",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 1037253,
+                      "key": "522a2bc9-9780-4c5e-9cd4-acb81daf782f",
+                      "title": "Good Luck",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1053414,
+          "key": "72496915-1a02-4ff9-abf3-52909c7a317e",
+          "title": "Career Services",
+          "semantic_type": "Part",
+          "is_public": true,
+          "version": "1.0.0",
+          "locale": "en-us",
+          "summary": "The Careers team at Udacity is here to help you move forward in your career - whether it's finding a new job, exploring a new career path, or applying new skills to your current job.",
+          "part_type": "Core",
+          "locked_reason": "not_locked",
+          "locked_until": null,
+          "content_ready_date_ms": null,
+          "resources": null,
+          "image": null,
+          "specialization": null,
+          "modules": [
+            {
+              "id": 1072060,
+              "key": "afa39660-0af0-411b-8b0e-85f3eb6326de",
+              "title": "Career Services",
+              "semantic_type": "Module",
+              "is_public": true,
+              "version": "1.0.0",
+              "locale": "en-us",
+              "is_project_module": null,
+              "forum_path": "",
+              "lessons": [
+                {
+                  "id": 631083,
+                  "key": "20707806-8f14-420f-b613-4196199a88c1",
+                  "version": "1.0.0",
+                  "locale": "en-us",
+                  "semantic_type": "Lesson",
+                  "summary": "Find your next job or connect with industry peers on LinkedIn. Ensure your profile attracts relevant leads that will grow your professional network.",
+                  "title": "Take 30 Min to Improve your LinkedIn",
+                  "duration": 30,
+                  "is_public": true,
+                  "is_project_lesson": true,
+                  "display_workspace_project_only": false,
+                  "lesson_type": "Classroom",
+                  "image": {
+                    "url": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/February/5a8222c0_1-3-career-services-available-to-you2x/1-3-career-services-available-to-you2x.jpg",
+                    "width": 500,
+                    "height": 500
+                  },
+                  "video": null,
+                  "lab": null,
+                  "project": {
+                    "key": "0051a3da-930f-47a1-bd41-d7fe3bd324f4",
+                    "version": "1.0.0",
+                    "locale": "en-us",
+                    "duration": 1440,
+                    "semantic_type": "Project",
+                    "title": "Improve Your LinkedIn Profile",
+                    "description": "Have job opportunities come to you by optimizing your LinkedIn profile! Complete this simple process to get personalized tips from a career mentor. \n\nHere’s how to submit your LinkedIn profile for feedback now:\n* Check out this [checklist](https://docs.google.com/document/d/1BZMxuKnBNovOyMelEx7d8ktbsWGj0EJ9KaD81dVC1TE/pub?embedded=true) for tips on optimizing your LinkedIn profile (optional).\n* **Make sure your profile is in English.** If you do not have an English profile yet, check out LinkedIn's [advice](https://www.linkedin.com/help/linkedin/answer/1717/creating-or-deleting-a-profile-in-another-language?lang=en) on how to create a secondary language profile.\n* Make your profile publicly visible. Scroll down and set the profile section toggles to `Show` under the “Edit Visibility” section of  [your public profile edit page](https://www.linkedin.com/public-profile/settings?trk=nprofile-public-profile-settings-redirect).\n * ![Edit Visibility](http://lh3.googleusercontent.com/R0A5rnKYyzLPZJ8B_pkyxdKkvab5qQi2LnEpFq2L-F33TSgzmjduHuUyDi-Z_ka2L7oU50UYqQTeU1n8VcM=s0#w=400&h=333 \"Edit Visibility\")\n* Create a custom profile URL in the “Edit URL” section of [your public profile edit page](https://www.linkedin.com/public-profile/settings?trk=nprofile-public-profile-settings-redirect).\n * ![Edit URL](http://lh3.googleusercontent.com/SGdIHFzKav0QZmOSrrP69xch_F0Ufhu9pLy-nDXYDArHUyzAen7ewoLakVOKn3KvX_CVgJjBWkl_FmPTPqM=s0#w=250&h=120 \"Edit URL\")\n* Submit your public profile URL (such as `www.linkedin.com/in/udacitystudent`) for guidance from a career mentor by clicking “Submit Project” below.",
+                    "is_public": true,
+                    "summary": null,
+                    "forum_path": "",
+                    "rubric_id": "1910",
+                    "terminal_project_id": null,
+                    "resources": null,
+                    "image": null
+                  },
+                  "concepts": [
+                    {
+                      "id": 704348,
+                      "key": "c8c3fbd0-b7ba-471e-85b7-eb2b1c3820c0",
+                      "title": "Get Opportunities with LinkedIn",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 703862,
+                      "key": "20efad1e-c7b3-432d-86ad-0e798c795d49",
+                      "title": "Use Your Story to Stand Out",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 703860,
+                      "key": "a891296f-46ea-457c-89d9-f4ec96a40cae",
+                      "title": "Why Use an Elevator Pitch",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 703864,
+                      "key": "0c1acad0-cb41-4260-bd5c-6df07f1b2778",
+                      "title": "Create Your Elevator Pitch",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 708825,
+                      "key": "36e84f5b-204e-48c4-8071-293f49886a85",
+                      "title": "Use Your Elevator Pitch on LinkedIn",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 729380,
+                      "key": "a7deba78-27c8-4735-ad9c-7ab2b2b1ad91",
+                      "title": "Create Your Profile With SEO In Mind",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 728573,
+                      "key": "6ed9b5b0-43cf-4b65-b01d-345e44dfd765",
+                      "title": "Profile Essentials",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 728593,
+                      "key": "d3f369bb-78d7-478a-a909-c6e13683cc18",
+                      "title": "Work Experiences & Accomplishments",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 708828,
+                      "key": "eb90e45b-5d77-458b-af34-0f8eaecd45a8",
+                      "title": "Build and Strengthen Your Network",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 617430,
+                      "key": "64ed9954-b423-4a75-ad70-b2a1fbaa3a6d",
+                      "title": "Reaching Out on LinkedIn",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 728591,
+                      "key": "1d61fe7d-02e6-4376-a0c5-e01e26969d63",
+                      "title": "Boost Your Visibility",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    },
+                    {
+                      "id": 708834,
+                      "key": "2da1cc73-72cb-4678-b84d-1ab91798e8b3",
+                      "title": "Up Next",
+                      "semantic_type": "Concept",
+                      "is_public": true,
+                      "resources": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

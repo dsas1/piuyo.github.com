@@ -1,0 +1,271 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1056303,
+      "key": "9615107b-afee-4da7-a152-ef5d9bd5a919",
+      "title": "Data Science for Business Leaders Program Introduction",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": null,
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": null,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/9615107b-afee-4da7-a152-ef5d9bd5a919/1056303/1598646563568/Data+Science+for+Business+Leaders+Program+Introduction+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/9615107b-afee-4da7-a152-ef5d9bd5a919/1056303/1598646560327/Data+Science+for+Business+Leaders+Program+Introduction+Subtitles.zip"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1017735,
+          "key": "82d21b83-a3a9-42ce-9f06-d5ac8b35d642",
+          "title": "Welcome to Udacity",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "82d21b83-a3a9-42ce-9f06-d5ac8b35d642",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1017736,
+              "key": "5e3ba4c2-cc35-4362-ba8c-85f0ff1a3451",
+              "title": "Welcome To Udacity V2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "9QadFJRKrEA",
+                "china_cdn_id": "9QadFJRKrEA.mp4"
+              }
+            },
+            {
+              "id": 1027169,
+              "key": "d78264f7-0f5c-459f-8c8d-0aa3c1ca5517",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Welcome to Udacity!\n\nI am Sebastian, the founder of Udacity.\n\nOur mission is to power careers through tech education. We’re honored that you’ve chosen us to help in your career journey. Whether embarking on a new path. Curious about a new field. Or advancing in your own field. I want you to know, you’re in the right place. We are here to help you accomplish your goals.\n\nI can’t wait to see where this journey takes you!",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1017737,
+          "key": "429d8f29-a42a-4dc4-a482-bfd57c95c2b1",
+          "title": "The Udacity Experience",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "429d8f29-a42a-4dc4-a482-bfd57c95c2b1",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1017738,
+              "key": "959a5dcb-9302-44b3-af80-84611cefcd29",
+              "title": "Welcome To Your Nanodegree Experience V2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "gd0Z0S58Y68",
+                "china_cdn_id": "gd0Z0S58Y68.mp4"
+              }
+            },
+            {
+              "id": 1035414,
+              "key": "b82681cd-3c5d-48b0-a4e6-ef9047dde3bf",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "If this is your first Nanodegree program, welcome.\nIf you have taken a Nanodegree program with us before, you already know a little bit of what to expect. Udacity is always improving our learning experience for students. So you can watch this to see what is changed or skip ahead. You can also read this in the FAQ located in the resources tab.\n\nLet’s get started. \n\nWe truly believe you couldn’t have chosen a better place to learn. A lot of people have worked tirelessly to create the course material and platform features, as we all want you to get the most of your learning journey. Our pledge is to provide you with resources and services that will further enable you to succeed in your Nanodegree program. As you go through the lessons, you may find some to be difficult and may feel discouraged. If this happens, we encourage you to take advantage of your community channels and mentor services to help clarify the concepts, or just to share your doubts. Our mentors are there to help you! You will get advice and guidance to ensure you are on track to complete the projects. We WANT you to succeed and graduate with a Udacity Nanodegree certificate.\n\nWe value the trust you have put in us by making this investment in your future career. We take it seriously and we are here to help you achieve whatever you came here to accomplish.\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1056304,
+          "key": "4ce07fe8-075f-423a-ba50-9d8828254fbc",
+          "title": "Welcome to the Data Science for Business Leaders Program",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "4ce07fe8-075f-423a-ba50-9d8828254fbc",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1056305,
+              "key": "ff6702dc-e8f7-4ccc-9f6e-66e9571340e9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "\n # Welcome to the Data Science for Business Leaders Executive Program! \n\n### How will you benefit from this Nanodegree program? \nThe volume of data that exists in our world is growing exponentially, with analysis suggesting that 90% of all data was created in just the past couple years. McKinsey Global Institute reports that data-driven organizations are now 23 times more likely to acquire customers, 6 times as likely to retain customers, and 19 times as likely to be profitable as a result. To succeed in this era, business leaders need to understand how to create and implement strategies that harness the power of big data.   With Udacity’s new Data Science for Business Leaders Executive Program, you’ll learn how to lead an organization’s data science strategy to achieve transformational business outcomes. You’ll evaluate best practices for how to structure your data science team, promote a data-driven culture, and prepare detailed Data and Data Architecture strategies for your business.  With a real-world, hands-on project, you will Identify and prioritize data science opportunities, build the technical and cultural infrastructure of a data science team, and determine the optimal Data and Machine Learning system architectures to enable data science initiatives across an organization.\n\n\n### What the program offers\nIn this course, you will acquire the necessary skills to advance your career as a business leader in today’s data-driven workplace through hands-on practice prioritizing, scoping, and facilitating data initiatives within an enterprise. You'll learn to:\n\n1. Classify data science projects in terms of Area, Approach, and Type of Model\n2. For a given Area, Approach, and Model Type, provide one example project from your business \n3. Given the particulars of a data science project, identify areas of concern that might lead to the projects failing.\n4. Given the particulars of a data science project, identify steps that could be taken to help ensure the project succeeds\n5. Define an organization’s data science roadmap\n6. Identify the best projects(s) to start with\n7. Detail strategies for successfully launching data science initiatives\n8. Determine a starting point -- the most appropriate first project (or suite of projects) to capture the most promising opportunities and launch the data science function with adequate momentum to ensure its long-term operation within the organization.\n9. Work with fellow executives to set and manage reasonable expectations of success for data science projects\n10. Given a set of candidate data science projects, determine the relative strategic importance, cost, complexity of implementation, risk, likelihood of value capture, and magnitude of benefit for each of the five projects\n11. For any data science project, identify strategies for meeting three key factors of success (executive sponsorship; strategic alignment with core business interests; scope conditions)\n12. Use the Data Science Heat Map as a tool for specifying roles within the Data Science organization\n13. Manage Data Science operations using structured processes for work and communication\n14. Given the particulars of a company’s strategic and operating contexts, identify the data science organizational model best suited for that company.\n15. Given a data science strategy, identify and prioritize the mix of roles you would pursue to build out the data science organization. \n16. Describe the project and product management strategies best suited for a given company’s data science organizations \n17. Given a broad business challenge, describe how you would approach the development of a data science strategy using the Structured Problem Solving Method. \n18. Given a business context, identify strategies for promoting a data-driven culture throughout that business, particularly, around guiding employees on how to think through breaking down problems of identifying data consumers, data needs/use cases, data sources, and related necessary pipeline/ transformations that need to happen\n19. Given a particular business context, prepare a detailed Data and Data Architecture strategy \n20. Given a particular business context, detail how a Machine Learning Architecture strategy fits into its Data and Data Architecture strategy.\n21. Identify the strengths and weaknesses of a given business’s Data and Data Architecture strategy \n\n\nThroughout the program, you will work with:\n\n- Interactive lesson content\n- Exercises\n- Hands-on project where you will apply and practice your new skills.\n- Professional review of your project by our project reviewers who will provide personalized feedback on how you can improve your work.\n\nThese projects will serve as a portfolio you can use to demonstrate your skills. After you complete the program, you will be ready to lead a business organization or function to execute transformational data initiatives or bring these crucial skills to your current role. \n\nAlmost every executive role in today’s workforce, particularly at enterprise technology companies, will require working with data and we are excited to support you in this step in your career.\n\n#### We are excited and honored that you are taking this step in your journey with us!\n\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1056306,
+          "key": "b8e08816-8c74-4dce-9e95-747265c51bf8",
+          "title": "Pre-requisites",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "b8e08816-8c74-4dce-9e95-747265c51bf8",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1056307,
+              "key": "3f5fb00d-8f5d-4047-886a-417f50e2c3d9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "# Prerequisites\n## Before you begin, please check the following Nanodegree Program prerequisite requirements to make sure you have the skills to succeed in this program.\n\n\n#### A *well-prepared learner* for this program:\n- Will have had some prior exposure to statistics and probability in an academic or professional setting\n- Will have spent time in a business setting being involved in business decision-making and technical/IT projects.\n- Will understand the process of aligning business initiatives/decisions to a business’s top-of-line strategic objectives\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1056308,
+          "key": "ad825348-63ad-45c8-a9c9-42a44695a01b",
+          "title": "Meet Your Instructor",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ad825348-63ad-45c8-a9c9-42a44695a01b",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1056309,
+              "key": "4480a2e9-569a-43f9-9190-cda28aea9d00",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "# Meet Your Instructor\nWe have a great instructor teaching this program, who brings expertise from working in the field and experience teaching others. Below is a short bio of your instructor, and you'll learn more about them during the course.\n\n### Data Science for Business Leaders Executive Program",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1056947,
+              "key": "95a97448-867f-4284-8865-c87ae0b6139d",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f46d18b_brick-headshot/brick-headshot.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/95a97448-867f-4284-8865-c87ae0b6139d",
+              "caption": "",
+              "alt": "",
+              "width": 300,
+              "height": 300,
+              "instructor_notes": null
+            },
+            {
+              "id": 1056948,
+              "key": "98fa91b0-5a4b-4919-8acf-1e124674baae",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Ed Wiley is a high-visibility senior executive with over 20 years of building, leading, and advising world-class machine learning, AI, and data science teams at companies at stages from startup to Fortune 50.  In addition to serving as CTO of Enveda Therapeutics, Ed advises companies of all sizes on data science and machine learning strategy and execution. He has distilled his experiences and expertise into a forthcoming book, \"Artificial Intelligence: From Buzzword to Business Function. A Leader's Playbook for Bringing Data Science, Machine Learning, and AI to your Business\".",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1056312,
+          "key": "cc07a754-4c4d-4fd9-beaf-27f566256906",
+          "title": "Career Chat with your Instructor",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "cc07a754-4c4d-4fd9-beaf-27f566256906",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1056313,
+              "key": "bf922fa1-eb12-48dc-8a1b-03fda1379573",
+              "title": "ND045 DSBL Career Interview",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "zCX0WhTC7kY",
+                "china_cdn_id": "zCX0WhTC7kY.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1056310,
+          "key": "af804d4e-5657-488e-a64e-dc64bf81333e",
+          "title": "How to Succeed",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "af804d4e-5657-488e-a64e-dc64bf81333e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1056311,
+              "key": "d488fd64-bd00-4f11-9019-30e6f47d7538",
+              "title": "How To Succeed V3",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "1Vx31C1bw_o",
+                "china_cdn_id": "1Vx31C1bw_o.mp4"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}
