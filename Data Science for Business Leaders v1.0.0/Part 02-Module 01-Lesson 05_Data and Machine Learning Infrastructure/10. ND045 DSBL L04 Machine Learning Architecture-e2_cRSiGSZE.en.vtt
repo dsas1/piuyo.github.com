@@ -1,0 +1,217 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:07.605
+Let's now turn our attention to alternative architectures to support machine learning.
+
+00:00:07.605 --> 00:00:11.070
+In many of today's largest companies,
+
+00:00:11.070 --> 00:00:14.730
+it's common for the machine learning architecture to be deployed,
+
+00:00:14.730 --> 00:00:18.585
+hosted, and maintained entirely in-house.
+
+00:00:18.585 --> 00:00:22.650
+This was the case for the big data analytics team I built at Seagate,
+
+00:00:22.650 --> 00:00:26.625
+where we hosted all the three layers; data, analytics,
+
+00:00:26.625 --> 00:00:31.650
+and user layers on our own servers that we ourselves maintained.
+
+00:00:31.650 --> 00:00:36.360
+Seagate had a specialized expertise in datacenter and Cloud deployment,
+
+00:00:36.360 --> 00:00:40.075
+which made hosting internally a natural choice.
+
+00:00:40.075 --> 00:00:43.610
+At companies that did not have such a level of skill,
+
+00:00:43.610 --> 00:00:47.675
+I've leveraged public Cloud providers for hosting and deployment.
+
+00:00:47.675 --> 00:00:52.100
+I have personally worked with three of the top public Cloud providers;
+
+00:00:52.100 --> 00:00:55.445
+Amazon Web Services or AWS,
+
+00:00:55.445 --> 00:01:01.270
+Google Cloud Platform or GCP, and Microsoft Azure.
+
+00:01:01.270 --> 00:01:07.745
+Managed services such as AWS SageMaker provide many of the data architecture,
+
+00:01:07.745 --> 00:01:10.460
+security, and monitoring services
+
+00:01:10.460 --> 00:01:14.375
+necessary for data and machine learning architecture management.
+
+00:01:14.375 --> 00:01:19.100
+These provide an alternative well-suited for an organization that does
+
+00:01:19.100 --> 00:01:24.560
+not have the internal expertise to maintain its own solutions in house.
+
+00:01:24.560 --> 00:01:29.330
+Finally, for organizations with little development expertise,
+
+00:01:29.330 --> 00:01:33.710
+data science is still possible through commercial solutions such
+
+00:01:33.710 --> 00:01:38.330
+as software as a service or machine learning as a service providers.
+
+00:01:38.330 --> 00:01:45.800
+For these companies, an off-the-shelf solution such as those of Alteryx or SAS is
+
+00:01:45.800 --> 00:01:49.145
+preferable to building and maintaining the infrastructure to
+
+00:01:49.145 --> 00:01:53.930
+support data science either internally or via a public Cloud.
+
+00:01:53.930 --> 00:01:58.460
+Commercial solutions provide ready to go functionality that
+
+00:01:58.460 --> 00:02:03.215
+essentially combines all the three layers of the data science architecture.
+
+00:02:03.215 --> 00:02:10.940
+For companies wishing to start out with targeted analytics and machine use cases who have
+
+00:02:10.940 --> 00:02:14.300
+data science or data analytic talent on hand but lack
+
+00:02:14.300 --> 00:02:18.410
+the data engineering and DevOps skills necessary to build,
+
+00:02:18.410 --> 00:02:23.105
+configure, maintain, and support a data science architecture,
+
+00:02:23.105 --> 00:02:25.700
+a commercial alternative can represent
+
+00:02:25.700 --> 00:02:30.154
+a compelling way to access the benefits of data science.
+
+00:02:30.154 --> 00:02:34.250
+The most critical factors in determining whether to purchase
+
+00:02:34.250 --> 00:02:38.045
+a platform or build in-house include the following;
+
+00:02:38.045 --> 00:02:42.140
+size of initiative, complexity of the models,
+
+00:02:42.140 --> 00:02:47.950
+cash resources, internal technical skills, and maintenance budget.
+
+00:02:47.950 --> 00:02:53.870
+In general, smaller initiatives favor purchasing an outside platform because
+
+00:02:53.870 --> 00:02:59.980
+the fixed cost of in-house development and support are too large for a small project.
+
+00:02:59.980 --> 00:03:04.520
+Standard models and algorithms also favor purchasing a platform,
+
+00:03:04.520 --> 00:03:08.810
+since the platform is likely to support most standard approaches.
+
+00:03:08.810 --> 00:03:13.520
+A well-funded budget also favors purchasing an outside platform.
+
+00:03:13.520 --> 00:03:18.920
+Lower internal technical skills favor purchasing an external platform since
+
+00:03:18.920 --> 00:03:24.665
+the organization's existing team may not have the expertise to develop in-house.
+
+00:03:24.665 --> 00:03:28.310
+A smaller long-term maintenance budget also favors
+
+00:03:28.310 --> 00:03:33.830
+an external platform since most of the maintenance cost will be borne by the vendor.
+
+00:03:33.830 --> 00:03:40.100
+If you're building your own architecture hosted either in-house or via a public Cloud,
+
+00:03:40.100 --> 00:03:42.260
+you have quite a lot of flexibility regarding
+
+00:03:42.260 --> 00:03:46.010
+the data storage and computing capabilities you might need.
+
+00:03:46.010 --> 00:03:49.025
+These must be matched to your use case.
+
+00:03:49.025 --> 00:03:53.750
+If you intend to deploy complex deep learning models, for example,
+
+00:03:53.750 --> 00:03:57.575
+you'll need a great deal more computing power than if your models tend
+
+00:03:57.575 --> 00:04:02.110
+more towards parametric and tree-based alternatives.
+
+00:04:02.110 --> 00:04:04.940
+The type of data you intend to use will
+
+00:04:04.940 --> 00:04:07.970
+determine your selection of data storage technology,
+
+00:04:07.970 --> 00:04:13.265
+whether that be in a data lake or in a relational or non-relational data store.
+
+00:04:13.265 --> 00:04:16.730
+Cloud hosting provides elastic capabilities
+
+00:04:16.730 --> 00:04:20.360
+so the compute and storage can be scaled on-demand,
+
+00:04:20.360 --> 00:04:23.794
+a critical degree of flexibility for many companies
+
+00:04:23.794 --> 00:04:28.730
+whose data science work loads may be uneven or likely to change.
+
+00:04:28.730 --> 00:04:32.435
+Finally, Cloud hosting solutions
+
+00:04:32.435 --> 00:04:36.500
+provide automated services for model monitoring and maintenance,
+
+00:04:36.500 --> 00:04:40.365
+the final key component of a machine learning architecture.
+
+00:04:40.365 --> 00:04:45.980
+Monitoring should focus in particular on whether model performance degrades over
+
+00:04:45.980 --> 00:04:52.700
+time as ground truth data drifts from the training set on which the model was trained.
+
+00:04:52.700 --> 00:04:58.220
+Monitoring solutions allow the user to set predefined thresholds and
+
+00:04:58.220 --> 00:05:00.965
+schedule procedures that identify
+
+00:05:00.965 --> 00:05:05.350
+model drift and trigger retraining and redeploying the model,
+
+00:05:05.350 --> 00:05:10.865
+and can provide A/B testing capabilities to support the redeployed decision.
+
+00:05:10.865 --> 00:05:15.020
+Cloud monitoring and maintenance solutions typically integrate with
+
+00:05:15.020 --> 00:05:20.670
+appropriate notification technologies such as SMS or Slack.
+

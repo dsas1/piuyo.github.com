@@ -1,0 +1,124 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.190 --> 00:00:06.779
+A data science architecture can be thought of consisting of three layers.
+
+00:00:06.779 --> 00:00:09.555
+The first of these is the data layer.
+
+00:00:09.555 --> 00:00:15.675
+This includes the data and data architecture used to bring data to the point of analysis.
+
+00:00:15.675 --> 00:00:21.330
+In many cases, this involves only the original sources of data throughout the company,
+
+00:00:21.330 --> 00:00:25.320
+but also ETL or extract, transform,
+
+00:00:25.320 --> 00:00:27.720
+and load pipelines that are
+
+00:00:27.720 --> 00:00:31.665
+specifically set up to bring the data to the point of analysis.
+
+00:00:31.665 --> 00:00:35.385
+That point of analysis typically accesses data via
+
+00:00:35.385 --> 00:00:39.700
+a data lake or relational or non-relational database.
+
+00:00:39.700 --> 00:00:44.465
+The point of analysis represents a second layer, the analysis layer.
+
+00:00:44.465 --> 00:00:46.400
+The analysis layer represents
+
+00:00:46.400 --> 00:00:51.890
+the machine-learning architecture to support analytics and machine learning tasks.
+
+00:00:51.890 --> 00:00:56.360
+In many cases, the analysis layer is accessed via
+
+00:00:56.360 --> 00:01:01.745
+a user layer that provides a development environment in R or Python.
+
+00:01:01.745 --> 00:01:05.900
+The two programming languages most common to data science.
+
+00:01:05.900 --> 00:01:08.315
+Depending on the end-user,
+
+00:01:08.315 --> 00:01:10.820
+and whether the data science functionality will be
+
+00:01:10.820 --> 00:01:13.960
+built into existing products or solutions,
+
+00:01:13.960 --> 00:01:20.755
+the user layer may include a front-end environment tailored to specific use cases.
+
+00:01:20.755 --> 00:01:23.450
+As we discussed in this lesson,
+
+00:01:23.450 --> 00:01:26.000
+there are three broad alternatives for how to host
+
+00:01:26.000 --> 00:01:29.120
+data and machine learning technology in a business.
+
+00:01:29.120 --> 00:01:31.580
+In many of today's largest companies,
+
+00:01:31.580 --> 00:01:34.880
+it is common for the data science architecture to be deployed,
+
+00:01:34.880 --> 00:01:39.485
+hosted, and maintained entirely in-house.
+
+00:01:39.485 --> 00:01:44.630
+Companies that do not have the key technical skills to build, deploy,
+
+00:01:44.630 --> 00:01:47.045
+and maintain an in-house solution,
+
+00:01:47.045 --> 00:01:51.440
+can leverage public cloud providers for hosting and deployment.
+
+00:01:51.440 --> 00:01:53.630
+Managed services provided by
+
+00:01:53.630 --> 00:01:57.335
+public cloud providers provide many of the data architecture,
+
+00:01:57.335 --> 00:01:59.960
+security, and monitoring services
+
+00:01:59.960 --> 00:02:04.040
+necessary for data and machine learning architecture management.
+
+00:02:04.040 --> 00:02:08.870
+Providing an alternative well-suited for the organization that does not have
+
+00:02:08.870 --> 00:02:14.195
+the internal expertise to maintain its own solutions in house.
+
+00:02:14.195 --> 00:02:18.845
+Finally, for organizations with little development expertise,
+
+00:02:18.845 --> 00:02:21.110
+data science is still possible through
+
+00:02:21.110 --> 00:02:24.905
+commercial solutions such as Software as a Service,
+
+00:02:24.905 --> 00:02:27.960
+or Machine Learning as a Service providers.
+
+00:02:27.960 --> 00:02:33.260
+For these companies, an off-the-shelf solution is preferable to building and maintaining
+
+00:02:33.260 --> 00:02:39.240
+the infrastructure to support data science either internally or via a public cloud.
+

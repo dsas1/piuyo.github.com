@@ -1,0 +1,148 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.230 --> 00:00:07.510
+We now turn our attention to the data and the architecture needed to support that data,
+
+00:00:07.510 --> 00:00:09.865
+for data science initiatives.
+
+00:00:09.865 --> 00:00:11.920
+In the planning process,
+
+00:00:11.920 --> 00:00:17.604
+it is wise to craft a data and data architecture strategy for the business.
+
+00:00:17.604 --> 00:00:22.360
+This strategy includes five components that together guide
+
+00:00:22.360 --> 00:00:27.115
+the leader regarding how to plan for the use of data within the organization,
+
+00:00:27.115 --> 00:00:30.250
+especially for data science initiatives.
+
+00:00:30.250 --> 00:00:33.430
+The first component is data requirements.
+
+00:00:33.430 --> 00:00:37.915
+What data should be included in the data strategy?
+
+00:00:37.915 --> 00:00:42.945
+Just because you have identified data across all parts of the business,
+
+00:00:42.945 --> 00:00:44.900
+does not mean that all of that should be
+
+00:00:44.900 --> 00:00:48.890
+prioritized for initial inclusion in the data strategy.
+
+00:00:48.890 --> 00:00:52.715
+You will need to create ETL pipelines from
+
+00:00:52.715 --> 00:00:55.415
+individual data platforms through the company
+
+00:00:55.415 --> 00:00:59.165
+in order to bring any data to the point of analytics.
+
+00:00:59.165 --> 00:01:01.730
+These pipelines can be complex,
+
+00:01:01.730 --> 00:01:07.640
+so it is wise to focus on only the most necessary components at the very beginning.
+
+00:01:07.640 --> 00:01:14.765
+The second component of the data and data architecture strategy concerns data governance.
+
+00:01:14.765 --> 00:01:18.025
+How will we promote data availability?
+
+00:01:18.025 --> 00:01:21.140
+Who will be given access to the data?
+
+00:01:21.140 --> 00:01:25.755
+What can we do to make the data more usable to the end-user?
+
+00:01:25.755 --> 00:01:29.065
+How do we guarantee data integrity?
+
+00:01:29.065 --> 00:01:33.250
+Finally, how do we ensure data security?
+
+00:01:33.250 --> 00:01:37.360
+These are aspects of a data governance strategy which serve as
+
+00:01:37.360 --> 00:01:42.050
+a second component of the data and data architecture strategy.
+
+00:01:42.050 --> 00:01:45.640
+Third is the technology component which
+
+00:01:45.640 --> 00:01:49.150
+identifies the components of your data architecture.
+
+00:01:49.150 --> 00:01:55.790
+Are you storing data in a data lake or via a relational or non-relational database?
+
+00:01:55.790 --> 00:02:01.615
+Are you accessing that data directly or through API endpoints?
+
+00:02:01.615 --> 00:02:04.390
+These are technology questions that make up
+
+00:02:04.390 --> 00:02:08.455
+the third component to the data and data architecture strategy.
+
+00:02:08.455 --> 00:02:12.145
+The fourth component is skills and capacity.
+
+00:02:12.145 --> 00:02:14.590
+How do you promote development of
+
+00:02:14.590 --> 00:02:19.180
+data literacy skills and capacity throughout the organization?
+
+00:02:19.180 --> 00:02:24.575
+Do you plan to provide company-wide training or is training more targeted?
+
+00:02:24.575 --> 00:02:27.475
+Is it offered on a regular basis,
+
+00:02:27.475 --> 00:02:30.560
+or is it available just in time?
+
+00:02:30.560 --> 00:02:34.775
+How are data updates published throughout the company?
+
+00:02:34.775 --> 00:02:38.500
+Finally, the fifth component of a data and
+
+00:02:38.500 --> 00:02:42.790
+data architecture strategy is support for machine learning.
+
+00:02:42.790 --> 00:02:47.350
+What are the machine learning components of the architecture?
+
+00:02:47.350 --> 00:02:51.770
+How does it interface with the data architecture?
+
+00:02:51.970 --> 00:02:57.545
+In the last section, we discussed three alternatives for data science initiatives.
+
+00:02:57.545 --> 00:03:00.725
+Fully built and maintained in house,
+
+00:03:00.725 --> 00:03:05.445
+hosted via managed services using Cloud service providers,
+
+00:03:05.445 --> 00:03:08.675
+in reliance on commercial solutions.
+
+00:03:08.675 --> 00:03:11.210
+These are the three alternatives that make up
+
+00:03:11.210 --> 00:03:16.410
+the machine learning component to the data and data architecture strategy.
+

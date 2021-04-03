@@ -1,0 +1,109 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.160 --> 00:00:05.490
+My years as a McKinsey management consultant taught me
+
+00:00:05.490 --> 00:00:09.285
+to solve problems using a structured problem-solving method.
+
+00:00:09.285 --> 00:00:11.610
+To this day, I use aspects of
+
+00:00:11.610 --> 00:00:15.195
+this method as a foundation for data science problem solving.
+
+00:00:15.195 --> 00:00:20.155
+In this section, I will introduce several tools for structured problem-solving.
+
+00:00:20.155 --> 00:00:24.360
+These will help you break down a problem into sub-components,
+
+00:00:24.360 --> 00:00:29.370
+that can be addressed strategically in the course of a data science project.
+
+00:00:29.370 --> 00:00:35.745
+The first of these is structuring hypothesis-driven projects using the MECE Framework.
+
+00:00:35.745 --> 00:00:40.890
+MECE stands for mutually exclusive, collectively exhaustive.
+
+00:00:40.890 --> 00:00:44.405
+When you are specifying the component parts of a problem,
+
+00:00:44.405 --> 00:00:49.025
+have you done so in a way that your specified components are independent?
+
+00:00:49.025 --> 00:00:51.870
+That is, they do not overlap.
+
+00:00:51.870 --> 00:00:55.250
+If so, we say they are mutually exclusive.
+
+00:00:55.250 --> 00:00:59.420
+Moreover, have you specified all possible components?
+
+00:00:59.420 --> 00:01:03.910
+Do the components collectively cover all aspects of the problem?
+
+00:01:03.910 --> 00:01:07.985
+If so, we say that it is collectively exhaustive.
+
+00:01:07.985 --> 00:01:11.480
+Using MECE as a guiding principle helps to
+
+00:01:11.480 --> 00:01:15.415
+structure problems in a clean, comprehensive way.
+
+00:01:15.415 --> 00:01:17.695
+When structuring your problem,
+
+00:01:17.695 --> 00:01:19.960
+you break the problem into components.
+
+00:01:19.960 --> 00:01:24.415
+Those components can then be broken into sub-components and so forth,
+
+00:01:24.415 --> 00:01:28.535
+until you have actionable items at the very lowest level.
+
+00:01:28.535 --> 00:01:34.630
+This exercise can be represented using another problem-solving tool; the issue tree.
+
+00:01:34.630 --> 00:01:38.140
+The issue tree can serve as a problem-solving map,
+
+00:01:38.140 --> 00:01:40.715
+that will guide your data science project.
+
+00:01:40.715 --> 00:01:45.850
+Examples of issue trees are included in the note section of this lesson.
+
+00:01:45.850 --> 00:01:51.595
+Once you have your issue tree and the problem is broken down into its component parts,
+
+00:01:51.595 --> 00:01:56.905
+you need to prioritize your efforts towards the most valuable areas of examination.
+
+00:01:56.905 --> 00:02:02.785
+To do this, you can invoke the Pareto Principle or 80/20 rule.
+
+00:02:02.785 --> 00:02:06.320
+The 80/20 rule dictates that the greatest amount of
+
+00:02:06.320 --> 00:02:11.330
+value tends to come from a small subset of the possible effort.
+
+00:02:11.330 --> 00:02:14.420
+In our context, we invoke the 80/20 rule
+
+00:02:14.420 --> 00:02:17.780
+by identifying the areas that we should focus on,
+
+00:02:17.780 --> 00:02:19.130
+that are most likely to bring
+
+00:02:19.130 --> 00:02:23.670
+the greatest impact towards solving the data science problem.
+

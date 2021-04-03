@@ -1,0 +1,55 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.100 --> 00:00:07.260
+Welcome to the next lesson on data and machine learning infrastructure.
+
+00:00:07.260 --> 00:00:10.679
+To this point, you've learned about data science,
+
+00:00:10.679 --> 00:00:12.555
+how it fits into the business,
+
+00:00:12.555 --> 00:00:17.050
+and how to staff and manage data science initiatives.
+
+00:00:17.240 --> 00:00:21.450
+This lesson provides the final piece of the puzzle.
+
+00:00:21.450 --> 00:00:26.970
+The technical infrastructure needed to support a business's data science initiatives.
+
+00:00:26.970 --> 00:00:30.090
+After this lesson, you will be prepared to complete
+
+00:00:30.090 --> 00:00:35.205
+the capstone project of building a business's data science strategy.
+
+00:00:35.205 --> 00:00:37.830
+Upon completion of this lesson,
+
+00:00:37.830 --> 00:00:42.165
+you'll be able to successfully carry out the following tasks.
+
+00:00:42.165 --> 00:00:45.320
+Given a particular business context,
+
+00:00:45.320 --> 00:00:50.135
+you'll prepare a detailed data and data architecture strategy.
+
+00:00:50.135 --> 00:00:52.940
+You'll also be able to detail how
+
+00:00:52.940 --> 00:00:55.700
+a machine learning architecture strategy fits
+
+00:00:55.700 --> 00:00:59.710
+into the business's data and data architecture strategy.
+
+00:00:59.710 --> 00:01:03.680
+Finally, you'll be able to identify the strengths and
+
+00:01:03.680 --> 00:01:08.960
+weaknesses of a given businesses data and data architecture strategy.
+

@@ -1,0 +1,199 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.190 --> 00:00:06.480
+This exercise had you consider a company's production function,
+
+00:00:06.480 --> 00:00:12.405
+the business area in charge of manufacturing of products or delivery of services.
+
+00:00:12.405 --> 00:00:15.870
+If business's executive leadership wants to understand
+
+00:00:15.870 --> 00:00:20.040
+aspects of data and data architecture strategy and has
+
+00:00:20.040 --> 00:00:22.740
+tasked you with identifying the components of
+
+00:00:22.740 --> 00:00:25.260
+a data architecture that could support
+
+00:00:25.260 --> 00:00:28.495
+data science initiatives in the production function.
+
+00:00:28.495 --> 00:00:30.604
+In the pages that follow,
+
+00:00:30.604 --> 00:00:33.530
+I outline the components of a data architecture
+
+00:00:33.530 --> 00:00:37.070
+that I would recommend for the business's production function.
+
+00:00:37.070 --> 00:00:39.845
+Your answers may differ from mine.
+
+00:00:39.845 --> 00:00:42.530
+What is important is that you address all of
+
+00:00:42.530 --> 00:00:46.475
+the key aspects of each of the five components.
+
+00:00:46.475 --> 00:00:51.425
+Because this exercise explicitly focuses on the production function,
+
+00:00:51.425 --> 00:00:55.820
+our data strategy will start with a focus on manufacturing.
+
+00:00:55.820 --> 00:00:58.595
+This will require the central collection of
+
+00:00:58.595 --> 00:01:02.590
+all manufacturing data into a single data warehouse.
+
+00:01:02.590 --> 00:01:06.650
+ETL will be required from individual test platforms,
+
+00:01:06.650 --> 00:01:11.830
+machines sensor platforms, and machine monitoring applications.
+
+00:01:11.830 --> 00:01:17.135
+A relational database in the data warehouse will make the most sense to start,
+
+00:01:17.135 --> 00:01:19.940
+as this provides a straightforward basis for
+
+00:01:19.940 --> 00:01:23.435
+providing data to machine learning applications.
+
+00:01:23.435 --> 00:01:28.290
+Data governance concerns availability, usability,
+
+00:01:28.290 --> 00:01:33.220
+integrity, and security of data and data systems.
+
+00:01:33.220 --> 00:01:37.280
+All employees in manufacturing should be given read access to
+
+00:01:37.280 --> 00:01:43.055
+the data both directly and via platforms such as Looker or Tableau.
+
+00:01:43.055 --> 00:01:49.515
+Training will be provided on an as-needed basis through online resources.
+
+00:01:49.515 --> 00:01:53.080
+Comprehensive data dictionaries should guide employees with
+
+00:01:53.080 --> 00:01:57.655
+regard to what data is available and how it is represented.
+
+00:01:57.655 --> 00:02:04.090
+The single source of truth data in the warehouse should be supplemented with categories,
+
+00:02:04.090 --> 00:02:08.180
+tags, and indexes to promote usability.
+
+00:02:08.180 --> 00:02:12.310
+Checks should be built in the ETL processes to ensure that
+
+00:02:12.310 --> 00:02:17.680
+data accuracy is maintained as it is moved into the data warehouse.
+
+00:02:17.680 --> 00:02:22.435
+Tracing steps should be built in so that any process is repeatable,
+
+00:02:22.435 --> 00:02:26.365
+which will aid root cause analysis when things go wrong.
+
+00:02:26.365 --> 00:02:29.170
+Employees should be trained with respect to
+
+00:02:29.170 --> 00:02:32.800
+proper methods for data handling and data storage.
+
+00:02:32.800 --> 00:02:36.160
+They should maintain all data within the firewall,
+
+00:02:36.160 --> 00:02:39.175
+except when passed to the machine-learning architecture,
+
+00:02:39.175 --> 00:02:44.840
+at which point data should be encrypted at rest and in motion.
+
+00:02:44.840 --> 00:02:48.190
+To support data architecture technology,
+
+00:02:48.190 --> 00:02:51.985
+we recognize that source data exist throughout the company.
+
+00:02:51.985 --> 00:02:59.015
+ETL processes should bring that source data into a single source of truth data store.
+
+00:02:59.015 --> 00:03:04.150
+That data store should be supplemented with tags to increase usability.
+
+00:03:04.150 --> 00:03:09.025
+Employees will access that data store through a SQL inquiry engine,
+
+00:03:09.025 --> 00:03:15.885
+either directly or through a business intelligence application such as Mode or Power BI.
+
+00:03:15.885 --> 00:03:19.160
+The machine learning architecture will communicate with
+
+00:03:19.160 --> 00:03:25.085
+the data architecture via either API endpoints or direct upload.
+
+00:03:25.085 --> 00:03:28.880
+With regard to promoting data skills and capacity,
+
+00:03:28.880 --> 00:03:32.480
+I recommend that the company provide just-in-time training for
+
+00:03:32.480 --> 00:03:38.075
+employees to develop skills related to data analysis and data science.
+
+00:03:38.075 --> 00:03:44.065
+The business should promote a culture of data-driven exploration and experimentation,
+
+00:03:44.065 --> 00:03:48.860
+should publish information about data updates organization-wide,
+
+00:03:48.860 --> 00:03:55.210
+and should promote and reward examples of employees who undertake data-driven projects.
+
+00:03:55.210 --> 00:03:58.220
+At the outset, machine learning will be done on
+
+00:03:58.220 --> 00:04:02.210
+individual computers within the organization's firewall.
+
+00:04:02.210 --> 00:04:07.045
+This should be sufficient for the proof of concept stage for the first project.
+
+00:04:07.045 --> 00:04:09.725
+Once greater computing power is needed,
+
+00:04:09.725 --> 00:04:14.285
+the business can spin up a machine learning architecture in a public cloud environment,
+
+00:04:14.285 --> 00:04:16.610
+such as Amazon Web Services,
+
+00:04:16.610 --> 00:04:20.675
+Google Cloud Platform, or Microsoft Azure.
+
+00:04:20.675 --> 00:04:24.230
+This will allow production quality experimentation,
+
+00:04:24.230 --> 00:04:28.070
+model training, and model deployment to management.
+
+00:04:28.070 --> 00:04:32.000
+Applications that rely on machine learning can communicate
+
+00:04:32.000 --> 00:04:36.450
+with machine learning architecture through API endpoints.
+

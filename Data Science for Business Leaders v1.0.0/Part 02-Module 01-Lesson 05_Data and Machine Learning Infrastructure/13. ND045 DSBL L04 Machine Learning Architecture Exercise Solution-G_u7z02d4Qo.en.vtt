@@ -1,0 +1,97 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:07.270
+For this exercise, you are helping a business understand the relative merits of
+
+00:00:07.270 --> 00:00:10.810
+an in-house machine learning architecture as
+
+00:00:10.810 --> 00:00:14.500
+opposed to a cloud-based machine learning architecture.
+
+00:00:14.500 --> 00:00:17.755
+You are asked to provide three benefits of
+
+00:00:17.755 --> 00:00:22.835
+each alternative in supportive data science initiatives in the production function.
+
+00:00:22.835 --> 00:00:26.935
+I'll share the benefits that I've identified with each alternative.
+
+00:00:26.935 --> 00:00:32.135
+Keep in mind that the benefits that you identified may differ from mine.
+
+00:00:32.135 --> 00:00:35.114
+When considering an in-house solution,
+
+00:00:35.114 --> 00:00:38.620
+one of the largest advantages is your ability to leverage
+
+00:00:38.620 --> 00:00:43.105
+scale benefits for large storage and computing needs.
+
+00:00:43.105 --> 00:00:45.925
+If available, your company can leverage
+
+00:00:45.925 --> 00:00:50.884
+its own internal capabilities that can support the building, deployment,
+
+00:00:50.884 --> 00:00:53.845
+and maintenance of an in-house solution,
+
+00:00:53.845 --> 00:01:00.485
+rather than rely on sometimes costly managed services in cloud-based environments.
+
+00:01:00.485 --> 00:01:05.530
+An in-house solution also provides the best flexibility for the development of
+
+00:01:05.530 --> 00:01:07.990
+novel models that are not available
+
+00:01:07.990 --> 00:01:10.995
+through standard machine learning development libraries.
+
+00:01:10.995 --> 00:01:14.095
+Your architecture can be built to spec,
+
+00:01:14.095 --> 00:01:18.090
+customized precisely to the use cases at hand.
+
+00:01:18.090 --> 00:01:21.730
+One of the primary advantages of a cloud-based architecture
+
+00:01:21.730 --> 00:01:25.410
+is the ability to scale storage or compute on demand,
+
+00:01:25.410 --> 00:01:30.940
+rather than add capital expense heavy hardware in order to meet a growing compute need,
+
+00:01:30.940 --> 00:01:36.440
+a cloud-based architecture allows you to simply provision more powerful machines.
+
+00:01:36.440 --> 00:01:40.340
+A second advantage of cloud-based architecture is
+
+00:01:40.340 --> 00:01:44.060
+the availability of managed services for needs such as security,
+
+00:01:44.060 --> 00:01:46.340
+authentication, and so forth.
+
+00:01:46.340 --> 00:01:50.600
+For companies that do not have these specialized skills on staff,
+
+00:01:50.600 --> 00:01:56.360
+cloud-based solutions provide an attractive alternative to hiring for these skills.
+
+00:01:56.360 --> 00:01:59.705
+Finally, cloud hosting solutions provide
+
+00:01:59.705 --> 00:02:03.425
+automated services for model monitoring and maintenance.
+
+00:02:03.425 --> 00:02:07.650
+The final key component of a machine-learning architecture.
+

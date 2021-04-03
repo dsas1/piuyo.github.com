@@ -1,0 +1,196 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.220 --> 00:00:06.030
+Now that we have learned strategies for building the data science team,
+
+00:00:06.030 --> 00:00:10.125
+we turn our attention to managing the data science process.
+
+00:00:10.125 --> 00:00:12.120
+In this section, I discussed
+
+00:00:12.120 --> 00:00:15.165
+several alternative project management paradigms
+
+00:00:15.165 --> 00:00:17.910
+that are used to manage the data science process.
+
+00:00:17.910 --> 00:00:20.580
+Many data science and engineering projects are
+
+00:00:20.580 --> 00:00:23.955
+initially managed using a unidirectional approach.
+
+00:00:23.955 --> 00:00:25.770
+This is generally known as
+
+00:00:25.770 --> 00:00:30.555
+waterfall management due to the unidirectionality of a waterfall.
+
+00:00:30.555 --> 00:00:33.500
+Projects pass through various stages from
+
+00:00:33.500 --> 00:00:37.430
+conception to implementation, and ultimately maintenance.
+
+00:00:37.430 --> 00:00:39.365
+Before the project is launched,
+
+00:00:39.365 --> 00:00:44.045
+requirements are specified using a product requirements document.
+
+00:00:44.045 --> 00:00:48.020
+Software architecture is designed in a second design stage,
+
+00:00:48.020 --> 00:00:53.015
+and then the software is built and implemented during an implementation stage.
+
+00:00:53.015 --> 00:00:56.030
+Once complete, the correct operation of
+
+00:00:56.030 --> 00:00:59.570
+software is verified through a verification stage,
+
+00:00:59.570 --> 00:01:04.175
+and the software is ultimately maintained during a maintenance phase.
+
+00:01:04.175 --> 00:01:08.120
+While this approach seems very logical, in practice,
+
+00:01:08.120 --> 00:01:12.830
+data science team initiatives tend not to be linear and unidirectional.
+
+00:01:12.830 --> 00:01:17.825
+Substantial uncertainty exists throughout the modal data science project,
+
+00:01:17.825 --> 00:01:22.460
+often requiring multiple iterations and regularly stepping
+
+00:01:22.460 --> 00:01:27.845
+back one or two steps in order to move forward towards successful completion.
+
+00:01:27.845 --> 00:01:31.460
+A popular alternative to waterfall, in fact,
+
+00:01:31.460 --> 00:01:37.060
+the most popular framework now used in software development is the agile framework.
+
+00:01:37.060 --> 00:01:43.325
+Since a group of 17 software visionaries penned the Agile Manifesto nearly 20 years ago,
+
+00:01:43.325 --> 00:01:48.100
+agile methodologies have taken the software development world by storm.
+
+00:01:48.100 --> 00:01:53.869
+Agile is seen by many as a preferred way to manage projects in small,
+
+00:01:53.869 --> 00:01:57.550
+workable increments rather than in large stages.
+
+00:01:57.550 --> 00:02:01.670
+Via agile, projects evolve continuously with
+
+00:02:01.670 --> 00:02:06.265
+regular evaluation and work divided into consumable increments.
+
+00:02:06.265 --> 00:02:08.150
+Two popular components of
+
+00:02:08.150 --> 00:02:12.580
+agile project management include the kanban and scrum frameworks.
+
+00:02:12.580 --> 00:02:16.865
+In kanban, tasks are represented on a kanban board,
+
+00:02:16.865 --> 00:02:22.085
+which is a visual representation of work tasks and their status towards completion.
+
+00:02:22.085 --> 00:02:27.350
+In scrum, work is divided into two-week increments known as sprints,
+
+00:02:27.350 --> 00:02:32.615
+and assigned via points that reflect levels of effort required for completion.
+
+00:02:32.615 --> 00:02:36.620
+One challenge to managing data science work via sprints is that
+
+00:02:36.620 --> 00:02:38.930
+data science tasks tend to have
+
+00:02:38.930 --> 00:02:43.190
+greater uncertainty than traditional software development task,
+
+00:02:43.190 --> 00:02:46.295
+and are thus harder to manage in two-week increments.
+
+00:02:46.295 --> 00:02:51.710
+Data science teams often evolve from waterfall to the agile paradigm by
+
+00:02:51.710 --> 00:02:57.385
+slowly adopting components of agile into their waterfall process workflows.
+
+00:02:57.385 --> 00:03:00.185
+They may institute a daily scrum meeting,
+
+00:03:00.185 --> 00:03:04.610
+for example, or begin to organize efforts into biweekly sprints.
+
+00:03:04.610 --> 00:03:09.970
+This intermediate step has been called wagile by some.
+
+00:03:09.970 --> 00:03:13.340
+Often, wagile moves from initially reflecting
+
+00:03:13.340 --> 00:03:17.540
+mostly waterfall concepts to a progressive adoption of
+
+00:03:17.540 --> 00:03:20.330
+components of the agile paradigm until
+
+00:03:20.330 --> 00:03:25.690
+project management increasingly resembles pure agile development.
+
+00:03:25.690 --> 00:03:30.410
+In my own teams, I have managed towards a combination of the two in a way that
+
+00:03:30.410 --> 00:03:35.495
+also follows from another goal setting strategy known as OKRs,
+
+00:03:35.495 --> 00:03:38.255
+or Objectives and Key Results.
+
+00:03:38.255 --> 00:03:42.230
+In my groups, we managed to four levels of goals.
+
+00:03:42.230 --> 00:03:45.140
+At the highest level, goals,
+
+00:03:45.140 --> 00:03:51.040
+efforts are organized broadly against the company's broad strategic objectives.
+
+00:03:51.040 --> 00:03:54.495
+Goals are measured via key results,
+
+00:03:54.495 --> 00:03:59.165
+measurable outcomes towards which our work is oriented to achieve.
+
+00:03:59.165 --> 00:04:05.270
+Key results are operationalized into the categories of effort required to achieve them.
+
+00:04:05.270 --> 00:04:08.120
+These categories are known as epics,
+
+00:04:08.120 --> 00:04:11.060
+a key unit of work in the agile framework.
+
+00:04:11.060 --> 00:04:16.895
+Finally, epics are broken down into tasks that are assigned to task leaders.
+
+00:04:16.895 --> 00:04:21.140
+Tasks represent shorter term activities that can be completed in
+
+00:04:21.140 --> 00:04:27.150
+one to two weeks by a single person or in some cases by a small team.
+

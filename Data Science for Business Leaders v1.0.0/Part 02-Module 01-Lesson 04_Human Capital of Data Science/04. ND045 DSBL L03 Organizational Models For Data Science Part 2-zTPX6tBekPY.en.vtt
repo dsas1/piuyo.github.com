@@ -1,0 +1,124 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.220 --> 00:00:05.340
+Organizational models often evolve organically,
+
+00:00:05.340 --> 00:00:07.710
+as people throughout the business independently
+
+00:00:07.710 --> 00:00:11.760
+identify and pursue solutions based in data science.
+
+00:00:11.760 --> 00:00:16.170
+The first step in many organizations' journey towards data-driven practice
+
+00:00:16.170 --> 00:00:21.930
+then is the evolution of a completely decentralized data science organization.
+
+00:00:21.930 --> 00:00:23.970
+In such an organization,
+
+00:00:23.970 --> 00:00:26.880
+functional areas and business units independently
+
+00:00:26.880 --> 00:00:30.915
+define and manage their data and data science initiatives.
+
+00:00:30.915 --> 00:00:33.560
+The organization therefore has
+
+00:00:33.560 --> 00:00:36.260
+no overall data strategy and there is
+
+00:00:36.260 --> 00:00:40.985
+very little alignment or coordination across different areas of the business.
+
+00:00:40.985 --> 00:00:42.935
+At the other extreme,
+
+00:00:42.935 --> 00:00:46.550
+a completely centralized model, like a government,
+
+00:00:46.550 --> 00:00:50.000
+manages all data and data science related projects
+
+00:00:50.000 --> 00:00:54.715
+centrally through a group that typically includes a chief data officer.
+
+00:00:54.715 --> 00:00:59.690
+This tends to be highly controlled and highly prescriptive with coordination
+
+00:00:59.690 --> 00:01:04.915
+of all activities supported through central human capital and infrastructure management.
+
+00:01:04.915 --> 00:01:07.250
+These two organizational models,
+
+00:01:07.250 --> 00:01:10.865
+completely decentralized and completely centralized,
+
+00:01:10.865 --> 00:01:13.400
+tend to reflect the early stages of
+
+00:01:13.400 --> 00:01:19.280
+organizational data science models as organizations evolve in their data science journey.
+
+00:01:19.280 --> 00:01:21.920
+At some point along this journey,
+
+00:01:21.920 --> 00:01:26.420
+businesses often find that some combination of central management and
+
+00:01:26.420 --> 00:01:32.110
+decentralized execution work best to manage data science in their organization.
+
+00:01:32.110 --> 00:01:38.915
+This combination of decentralized and centralized management is known as federation.
+
+00:01:38.915 --> 00:01:42.470
+A federated functional model, for example,
+
+00:01:42.470 --> 00:01:45.830
+gives individual functional areas the responsibility for
+
+00:01:45.830 --> 00:01:50.350
+maintaining data assets and executing data science initiatives,
+
+00:01:50.350 --> 00:01:53.300
+but leverages a chief data officer and
+
+00:01:53.300 --> 00:01:56.060
+possibly a central data science function as
+
+00:01:56.060 --> 00:02:00.020
+a facilitator and strategic leader of those initiatives.
+
+00:02:00.020 --> 00:02:07.100
+Likewise, a federated BU based model also leverages centralized facilitation,
+
+00:02:07.100 --> 00:02:09.320
+but gives individual business units
+
+00:02:09.320 --> 00:02:13.730
+the responsibility for data assets and data science execution.
+
+00:02:13.730 --> 00:02:16.670
+A more central federated model includes
+
+00:02:16.670 --> 00:02:20.030
+greater strategic and operational responsibility
+
+00:02:20.030 --> 00:02:22.780
+with the chief data officer's organization,
+
+00:02:22.780 --> 00:02:27.110
+with business units or functional areas managing data assets and
+
+00:02:27.110 --> 00:02:29.180
+data science initiatives under
+
+00:02:29.180 --> 00:02:34.350
+the strong guidance of that centralized data science organization.
+

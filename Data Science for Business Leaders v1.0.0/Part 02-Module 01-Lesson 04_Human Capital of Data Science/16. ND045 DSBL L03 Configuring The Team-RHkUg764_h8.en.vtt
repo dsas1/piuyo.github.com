@@ -1,0 +1,118 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.160 --> 00:00:04.830
+As your data science initiative grows in scope,
+
+00:00:04.830 --> 00:00:07.830
+it can be a challenge to maintain a high level view of
+
+00:00:07.830 --> 00:00:11.025
+the specific roles of people on your data science team,
+
+00:00:11.025 --> 00:00:16.515
+the roles of people outside your data science team who nevertheless assist on projects,
+
+00:00:16.515 --> 00:00:19.560
+and your executive stakeholders.
+
+00:00:19.560 --> 00:00:24.705
+I use a tool called the Data Science Heatmap to do just that.
+
+00:00:24.705 --> 00:00:28.620
+The Data Science Heatmap specifies individuals involved in
+
+00:00:28.620 --> 00:00:32.505
+data science initiatives according to their specific roles,
+
+00:00:32.505 --> 00:00:36.420
+their levels of expertise, and their experience.
+
+00:00:36.420 --> 00:00:41.550
+The Data Science Heatmap specifies roles at three levels of competency.
+
+00:00:41.550 --> 00:00:44.280
+The apprentice has limited experience,
+
+00:00:44.280 --> 00:00:47.080
+and their focus tends to be on the job training.
+
+00:00:47.080 --> 00:00:51.860
+The apprentice understands terminology and basic principles of data science,
+
+00:00:51.860 --> 00:00:56.950
+and how to access and use reference materials in the context of a data science project.
+
+00:00:56.950 --> 00:01:00.140
+The fellow is an intermediate competency.
+
+00:01:00.140 --> 00:01:04.295
+The fellow is able to complete tasks in data science,
+
+00:01:04.295 --> 00:01:07.465
+but may need help from a master occasionally.
+
+00:01:07.465 --> 00:01:12.199
+Finally, the master competency can apply skills without assistance,
+
+00:01:12.199 --> 00:01:14.510
+and tends to be at the senior level.
+
+00:01:14.510 --> 00:01:17.915
+The master is skilled at leading data science initiatives,
+
+00:01:17.915 --> 00:01:23.030
+and is a subject matter expert in the area represented by her specific role.
+
+00:01:23.030 --> 00:01:27.775
+Roles on the Data Science Heatmap are broken into three categories.
+
+00:01:27.775 --> 00:01:31.970
+First, core roles include the seven roles mentioned in
+
+00:01:31.970 --> 00:01:35.930
+the building out the bench section of this lesson: the data scientist,
+
+00:01:35.930 --> 00:01:40.729
+machine learning engineer, data analyst, data engineer,
+
+00:01:40.729 --> 00:01:45.199
+data visualization engineer, software engineer,
+
+00:01:45.199 --> 00:01:47.995
+and the analytics translator.
+
+00:01:47.995 --> 00:01:51.815
+The second section includes adjunct roles,
+
+00:01:51.815 --> 00:01:55.040
+those outside the data science group who nevertheless make
+
+00:01:55.040 --> 00:01:59.200
+key contributions towards carrying out the data science project.
+
+00:01:59.200 --> 00:02:02.070
+These include full-stack engineers,
+
+00:02:02.070 --> 00:02:05.310
+front-end engineers, back-end engineers,
+
+00:02:05.310 --> 00:02:12.109
+UI/UX engineers, business analysts, and security engineers.
+
+00:02:12.109 --> 00:02:17.330
+Finally, the third section includes the executive stakeholders for the project.
+
+00:02:17.330 --> 00:02:19.565
+These might include the CEO,
+
+00:02:19.565 --> 00:02:21.455
+the Chief Analytics Officer,
+
+00:02:21.455 --> 00:02:23.365
+the Chief Data Officer,
+
+00:02:23.365 --> 00:02:28.499
+business unit heads, and leaders of functional area units.
+

@@ -1,0 +1,124 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.110 --> 00:00:04.525
+In building a machine learning model,
+
+00:00:04.525 --> 00:00:08.935
+we distinguished between the data that we will use to train that model,
+
+00:00:08.935 --> 00:00:11.135
+which we call the training data,
+
+00:00:11.135 --> 00:00:14.350
+with a subset of that data that is held out from
+
+00:00:14.350 --> 00:00:17.770
+model training but used to test the fit of the model,
+
+00:00:17.770 --> 00:00:20.365
+which we call the test data.
+
+00:00:20.365 --> 00:00:23.650
+For your model to perform well in production,
+
+00:00:23.650 --> 00:00:28.630
+it's critically important that the training data used to build that model be as
+
+00:00:28.630 --> 00:00:31.000
+representative as possible of the data that
+
+00:00:31.000 --> 00:00:34.090
+will ultimately pass to that model in production.
+
+00:00:34.090 --> 00:00:41.200
+For example, consider the case of a natural language processing based message classifier.
+
+00:00:41.200 --> 00:00:44.145
+As customer inquiry messages come in,
+
+00:00:44.145 --> 00:00:48.635
+they may specifically address issues with certain product lines.
+
+00:00:48.635 --> 00:00:52.010
+If these messages can be automatically classified
+
+00:00:52.010 --> 00:00:55.520
+and routed to specialists particular to those lines,
+
+00:00:55.520 --> 00:01:00.685
+we can save a great deal of time and provide better customer service.
+
+00:01:00.685 --> 00:01:03.030
+We run into a challenge however,
+
+00:01:03.030 --> 00:01:05.250
+when product lines change.
+
+00:01:05.250 --> 00:01:09.395
+If we train our model based on data from the first half of the year,
+
+00:01:09.395 --> 00:01:14.780
+for example, and then in the second half of the year we launch a new product line,
+
+00:01:14.780 --> 00:01:19.250
+we should not expect our model to be able to classify messages according to
+
+00:01:19.250 --> 00:01:22.250
+that new product line because it was never trained
+
+00:01:22.250 --> 00:01:25.940
+on messages associated with that product line in the first place.
+
+00:01:25.940 --> 00:01:28.850
+In this case, the training data is not
+
+00:01:28.850 --> 00:01:33.200
+representative of the data that is encountered by the model in production.
+
+00:01:33.200 --> 00:01:38.200
+There two particular forms of bias that may occur in training data.
+
+00:01:38.200 --> 00:01:42.040
+First of all is known as convenience bias.
+
+00:01:42.040 --> 00:01:47.015
+Some types of data may just be easier to collect than other types of data.
+
+00:01:47.015 --> 00:01:49.850
+If this more convenient data is not
+
+00:01:49.850 --> 00:01:55.075
+fully representative of the full variety of data that will be encountered in production,
+
+00:01:55.075 --> 00:01:59.645
+this can skew the data you have available in your ground truth data set,
+
+00:01:59.645 --> 00:02:02.015
+the one you use to train your model,
+
+00:02:02.015 --> 00:02:05.890
+which subsequently skews your machine learning model.
+
+00:02:05.890 --> 00:02:10.340
+A second source of training data bias is recency.
+
+00:02:10.340 --> 00:02:15.425
+You may have gathered more data recently than in the past for some reason.
+
+00:02:15.425 --> 00:02:21.125
+This may not be a problem unless that data is skewed for some reason
+
+00:02:21.125 --> 00:02:23.660
+and does not represent the full variety of
+
+00:02:23.660 --> 00:02:27.470
+data that the machine learning model will encounter in the future.
+
+00:02:27.470 --> 00:02:32.780
+It's critically important to ensure that any machine learning model has been built on
+
+00:02:32.780 --> 00:02:38.820
+data that is most representative of how that model will be used in the future.
+

@@ -1,0 +1,43 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.220 --> 00:00:05.865
+Executing the data science strategy requires technology,
+
+00:00:05.865 --> 00:00:11.415
+technology specific to data and technology specific to machine learning.
+
+00:00:11.415 --> 00:00:14.730
+Technology needs are specific to each business.
+
+00:00:14.730 --> 00:00:20.580
+These needs depend on the types of data to be leveraged for data science,
+
+00:00:20.580 --> 00:00:23.700
+the form and magnitude of that data,
+
+00:00:23.700 --> 00:00:28.214
+the types of data science models that a business plans to create,
+
+00:00:28.214 --> 00:00:33.510
+and the overall scale of operations represented by those data science models.
+
+00:00:33.510 --> 00:00:37.355
+In order to successfully execute data science initiatives,
+
+00:00:37.355 --> 00:00:39.930
+a business must develop a formal data and
+
+00:00:39.930 --> 00:00:44.675
+data architecture strategy that addresses support for machine learning.
+
+00:00:44.675 --> 00:00:48.500
+This lesson covers the parameters that must be considered,
+
+00:00:48.500 --> 00:00:51.920
+both in creating a data and data architecture strategy,
+
+00:00:51.920 --> 00:00:57.600
+and the machine-learning architecture needed to support data science initiatives.
+

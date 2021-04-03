@@ -1,0 +1,85 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.070 --> 00:00:05.280
+Let's say that executive leadership has allocated
+
+00:00:05.280 --> 00:00:09.885
+eight full-time professional roles for a new data science organization.
+
+00:00:09.885 --> 00:00:14.940
+How might I organize these roles into teams within the organization?
+
+00:00:14.940 --> 00:00:18.810
+If I had eight positions from my data science team,
+
+00:00:18.810 --> 00:00:22.800
+I would organize my professionals into three groups to start.
+
+00:00:22.800 --> 00:00:26.530
+First, I would fill two project specific teams.
+
+00:00:26.530 --> 00:00:28.070
+As their name suggests,
+
+00:00:28.070 --> 00:00:32.075
+they would be deployed on individual projects from the roadmap.
+
+00:00:32.075 --> 00:00:35.410
+I would also keep a third group of specialists,
+
+00:00:35.410 --> 00:00:36.945
+who at this stage,
+
+00:00:36.945 --> 00:00:39.920
+would float between the two project teams.
+
+00:00:39.920 --> 00:00:43.265
+My first team would be heavy on data scientists
+
+00:00:43.265 --> 00:00:46.250
+as the skill set associated with that role tends to be
+
+00:00:46.250 --> 00:00:48.950
+able to complete many of the tasks critical on
+
+00:00:48.950 --> 00:00:52.765
+the road to developing prototypes and proofs of concept.
+
+00:00:52.765 --> 00:00:55.650
+I would not hire only generalists; however,
+
+00:00:55.650 --> 00:00:59.540
+a machine learning engineer would be a valuable specialist for
+
+00:00:59.540 --> 00:01:04.045
+teams developing data science projects for which machine learning is key.
+
+00:01:04.045 --> 00:01:08.805
+I would probably keep the same structure for my second team as well.
+
+00:01:08.805 --> 00:01:11.810
+I would fill my last two positions with
+
+00:01:11.810 --> 00:01:15.230
+a data engineer and a data visualization engineer.
+
+00:01:15.230 --> 00:01:19.595
+At this point, the goal is to develop working prototypes.
+
+00:01:19.595 --> 00:01:24.860
+I believe that data engineering and data visualization skills would not yet be in demand
+
+00:01:24.860 --> 00:01:30.740
+enough to allocate full-time specialists in those areas to individual teams.
+
+00:01:30.740 --> 00:01:35.600
+Once our prototypes prove the concept and value of a data science solution,
+
+00:01:35.600 --> 00:01:39.560
+they will be built into production quality products and applications,
+
+00:01:39.560 --> 00:01:45.240
+at which point my specialist talent base will need to become much more deep.
+

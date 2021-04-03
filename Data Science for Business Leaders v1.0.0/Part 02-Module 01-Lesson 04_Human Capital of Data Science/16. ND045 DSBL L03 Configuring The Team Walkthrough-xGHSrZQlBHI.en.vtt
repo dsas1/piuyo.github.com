@@ -1,0 +1,148 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.190 --> 00:00:05.130
+Let's walk through an example of how to configure a team
+
+00:00:05.130 --> 00:00:08.805
+and plan for the future using the data science heat map.
+
+00:00:08.805 --> 00:00:11.610
+This particular example comes from one of the teams
+
+00:00:11.610 --> 00:00:14.355
+that I built from medium-sized organization,
+
+00:00:14.355 --> 00:00:18.235
+that was just starting out on its data science journey.
+
+00:00:18.235 --> 00:00:23.130
+Recall that the data science heat map specifies individuals involved in
+
+00:00:23.130 --> 00:00:25.410
+data science initiatives according to
+
+00:00:25.410 --> 00:00:29.355
+their specific roles and their levels of experience.
+
+00:00:29.355 --> 00:00:34.190
+In Year 1, my priority was building prototypes and delivering on
+
+00:00:34.190 --> 00:00:39.635
+projects that gave quick wins in order to build momentum for the data science practice.
+
+00:00:39.635 --> 00:00:45.065
+I knew that I needed the most experience and expertise in my data science roles.
+
+00:00:45.065 --> 00:00:49.880
+As such, I filled two of my open FTEs with data scientists.
+
+00:00:49.880 --> 00:00:54.310
+One, a master data scientist who could lead many of the efforts of the team.
+
+00:00:54.310 --> 00:00:57.920
+A second fellow level data scientist who was able to
+
+00:00:57.920 --> 00:01:01.555
+independently lead many aspects of the initial prototypes.
+
+00:01:01.555 --> 00:01:04.580
+Our prototypes were embedded in machine learning,
+
+00:01:04.580 --> 00:01:10.120
+so I needed a skilled machine-learning engineer who I hired at the fellow level.
+
+00:01:10.120 --> 00:01:15.545
+We built our data science projects into internally focused products.
+
+00:01:15.545 --> 00:01:17.870
+Fellow level professionals and data
+
+00:01:17.870 --> 00:01:23.525
+visualization and software engineering also played key roles on that first year team.
+
+00:01:23.525 --> 00:01:25.220
+At this early stage,
+
+00:01:25.220 --> 00:01:27.845
+I did not employ any additional adjunct roles.
+
+00:01:27.845 --> 00:01:30.935
+But I did have the stakeholders, the CEO,
+
+00:01:30.935 --> 00:01:34.775
+the Chief Data Officer and two functional heads,
+
+00:01:34.775 --> 00:01:39.240
+the Chief Marketing Officer and the Chief Technological Officer.
+
+00:01:39.240 --> 00:01:44.600
+In Year 2, I built on the momentum and enthusiasm that we have generated
+
+00:01:44.600 --> 00:01:49.685
+in Year 1 to better fill out the team for developing hosting models in production.
+
+00:01:49.685 --> 00:01:53.285
+As such, I added two members to the team.
+
+00:01:53.285 --> 00:01:56.810
+The first was a fellow level data engineer who could build
+
+00:01:56.810 --> 00:02:00.620
+professional grade ETL pipelines to bring data from
+
+00:02:00.620 --> 00:02:06.050
+disparate silos throughout the organization directly to the point of analytics.
+
+00:02:06.050 --> 00:02:12.020
+I also added a full stack engineer at the fellow level to the team whose role
+
+00:02:12.020 --> 00:02:18.130
+was critical in building production quality applications with embedded data science.
+
+00:02:18.130 --> 00:02:22.370
+Year 3 marked a major build-out of our data science footprint,
+
+00:02:22.370 --> 00:02:26.960
+mainly through adjunct roles to support the work that was now in production.
+
+00:02:26.960 --> 00:02:30.620
+I added three apprentice level engineers to the team.
+
+00:02:30.620 --> 00:02:33.125
+One, a full stack engineer,
+
+00:02:33.125 --> 00:02:36.530
+a second who specialized in front-end engineering,
+
+00:02:36.530 --> 00:02:40.250
+and a third who specialized in back-end engineering.
+
+00:02:40.250 --> 00:02:44.240
+I also added a fellow level UI/UX engineer,
+
+00:02:44.240 --> 00:02:47.180
+as we were now working closely with customers to
+
+00:02:47.180 --> 00:02:50.915
+get feedback that informed iterations of the product.
+
+00:02:50.915 --> 00:02:54.905
+As the team's operational scope grew more expansive,
+
+00:02:54.905 --> 00:02:59.170
+I added a fellow level product manager to manage activities.
+
+00:02:59.170 --> 00:03:02.300
+Finally, as our product became open to
+
+00:03:02.300 --> 00:03:06.170
+external customers who access the product through a web interface.
+
+00:03:06.170 --> 00:03:10.040
+I contracted with a security engineer who was able to address
+
+00:03:10.040 --> 00:03:14.760
+critical issues around maintaining the security of our product.
+
