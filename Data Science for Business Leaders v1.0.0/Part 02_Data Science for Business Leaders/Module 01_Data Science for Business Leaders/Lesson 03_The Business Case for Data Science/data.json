@@ -1,0 +1,1657 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1037914,
+      "key": "6d851b74-5354-4fac-a90f-fc6004a17b96",
+      "title": "The Business Case for Data Science",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "In this lesson, you'll learn why data science is vital for any business and how to make the case for a solid business case to others. ",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/6d851b74-5354-4fac-a90f-fc6004a17b96/1037914/1597756604760/The+Business+Case+for+Data+Science+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/6d851b74-5354-4fac-a90f-fc6004a17b96/1037914/1597756593417/The+Business+Case+for+Data+Science+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Course Glossary",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31d902_dsbl-course-glossary/dsbl-course-glossary.pdf"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1037891,
+          "key": "066e1efa-1964-4aea-bf9a-ce99377d279e",
+          "title": "The Business Case for Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "066e1efa-1964-4aea-bf9a-ce99377d279e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037845,
+              "key": "73f4371b-f76b-4636-b71e-6c76ca84785a",
+              "title": "The Business Case for Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## The Business Case for Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037802,
+              "key": "f70222f1-479b-407a-bfbc-40380206d63e",
+              "title": "ND045 DSBL L02 Introduction To The Business Case For Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "7douSp3RYKA",
+                "china_cdn_id": "7douSp3RYKA.mp4"
+              }
+            },
+            {
+              "id": 1037837,
+              "key": "e454e860-2c3f-421c-9395-7603de481433",
+              "title": "The Business Case for Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## The Business Case for Data Science Summary\n\nThis lesson discusses how a leader may specify the data science projects that can help achieve the company’s business strategy (how a data science project may drive value for the business) and how the data for those initiatives can be creatively sourced.  Applying a hypothesis-led approach to various data science use cases, you will become familiar with \n1. Evaluating whether a given business opportunity might benefit from data science approaches\n2. “Racking and stacking” potential opportunities across the business to identify the optimal place(s) to start\n3. Actually designing data science projects to predict and optimize outcomes toward capitalizing on business opportunities \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051203,
+              "key": "2647e243-fe0a-4e4e-9724-5afdbb25e335",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Objectives\n\nUpon completion of this lesson, students will be able to successfully carry out the following tasks:\n- Define an organization’s data science roadmap. Here we'll Identify the best projects(s) to start with and Detail strategies for successfully launching data science initiatives\n- Determine a starting point -- the most appropriate first project (or suite of projects) to capture the most promising opportunities and launch the data science function with adequate momentum to ensure its long-term operation within the organization\n- Work with fellow executives to set and manage reasonable expectations of success for data science projects\n- Given a set of candidate data science projects, you'll determine the relative strategic importance, cost, complexity of implementation, risk, the likelihood of value capture, and magnitude of benefit for each of the five projects\n- Identify strategies for meeting three key factors of success (executive sponsorship; strategic alignment with core business interests; scope conditions)\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051172,
+              "key": "6db8b928-3f06-4bde-995d-0323971c4a3f",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c209e_l2-overview/l2-overview.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/6db8b928-3f06-4bde-995d-0323971c4a3f",
+              "caption": "",
+              "alt": "",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037887,
+          "key": "3627fdac-ba5b-4984-ae5b-4602f7557582",
+          "title": "Big Picture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "3627fdac-ba5b-4984-ae5b-4602f7557582",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037796,
+              "key": "7e60948b-d213-4ae3-ab2e-d679dda35259",
+              "title": "Big Picture Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Big Picture",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037810,
+              "key": "ffd14579-9858-47f5-9866-29c4ed977976",
+              "title": "ND045 DSBL L02 Big Picture Of The Business Case For Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Z5xdKq8LjnM",
+                "china_cdn_id": "Z5xdKq8LjnM.mp4"
+              }
+            },
+            {
+              "id": 1037815,
+              "key": "de144bdf-0522-44f3-a28a-443a165457a8",
+              "title": "Big Picture Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Big Picture Summary\nIt can be overwhelming to launch a Data Science Initiative. You must identify opportunities across the entire business and figure out the best prioritization of those opportunities towards meeting the business's strategic objectives. \n\n* Where do you start? \n* What are the best first projects? \n* How do we organize a group of candidate projects into a viable data science roadmap? \n* Create a Data Science Roadmap\n\nThese are the questions to be addressed in this lesson on the Business Case for Data Science.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044724,
+              "key": "1c717279-b281-43f4-9a11-69741909a84b",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "1c717279-b281-43f4-9a11-69741909a84b",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: Only the FAANG companies (Facebook, Amazon, Apple, Netflix, & Google) are best suited to leverage data science to their advantage.",
+                "answers": [
+                  {
+                    "id": "a1594654831091",
+                    "text": "True",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594654917789",
+                    "text": "False",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037889,
+          "key": "f1b14525-8e07-4e12-8394-96922302bbe0",
+          "title": "The Business Case for DS",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "f1b14525-8e07-4e12-8394-96922302bbe0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037809,
+              "key": "ed6ec30a-9ab7-48af-9a93-beff58976eac",
+              "title": "Developing Your Intuition About The Business Case for Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## The Business Case for Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037804,
+              "key": "35adb329-a0b5-4b9e-80ad-541aa5985b65",
+              "title": "ND045 DSBL L02 Developing Your Intuition About The Business Case For Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "oDRRW6iGGz8",
+                "china_cdn_id": "oDRRW6iGGz8.mp4"
+              }
+            },
+            {
+              "id": 1037811,
+              "key": "2439c90f-8a11-4725-86d2-0dd7ef315d1f",
+              "title": "Developing Your Intuition About The Business Case for Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Developing Your Intuition About The Business Case for Data Science Summary\n\n**Two frameworks for assessing opportunities for data science within a business:**\n* **Value Chain Framework**: A process to determine how to build the most impactful product for the least cost.\n*  **P&L Framework**: Profit & Loss or Income Statement framework helps determine if and how a product could be profitable.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044725,
+              "key": "29348219-91eb-4233-9410-8e5b5085a818",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "29348219-91eb-4233-9410-8e5b5085a818",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Select the best answer to this statement from those provided below: Data science projects have the biggest impact when they address which goal?",
+                "answers": [
+                  {
+                    "id": "a1594655027183",
+                    "text": "Increasing revenues",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594655112248",
+                    "text": "Decreasing costs",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594655113076",
+                    "text": "Either increasing revenues or decreasing costs",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037897,
+          "key": "6796c434-e777-4ffb-b7bc-cb7db616510c",
+          "title": "Key Success Factors for Data Science Projects",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "6796c434-e777-4ffb-b7bc-cb7db616510c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037812,
+              "key": "5a1a3548-cc76-4225-94e5-3acb36ec756f",
+              "title": "Key Success Factors for Data Science Projects Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Key Success Factors for Data Science Projects",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037807,
+              "key": "cd2f0d85-aca9-4403-813e-a47ab09968de",
+              "title": "ND045 DSBL L02 Key Success Factors For Data Science Projects Part 1",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "aDowxw1qbrg",
+                "china_cdn_id": "aDowxw1qbrg.mp4"
+              }
+            },
+            {
+              "id": 1037813,
+              "key": "43c548ce-6978-4d8e-b00b-bf6b524d05a9",
+              "title": "ND045 DSBL L02 Key Success Factors For Data Science Projects Part 2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "rmaDPAPIteo",
+                "china_cdn_id": "rmaDPAPIteo.mp4"
+              }
+            },
+            {
+              "id": 1037805,
+              "key": "438dcb55-748b-49fc-9003-8c439630a530",
+              "title": "Key Success Factors for Data Science Projects Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Key Success Factors for Data Science Projects Summary\n[**McKinsey's drivers for successful analytics in the business**](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics)\n\n\n1. Aligning on Strategy\n  * Obtaining a strong, unified commitment from all levels of management\n  * Increasing analytics investments, with a focus on the last mile\n2. Building a foundation of data, people, and infrastructure\n  * Developing a clear data strategy with strong data governance\n  * Using sophisticated analytics methodologies\n  * Possessing deep analytics expertise enabled by a tailored talent strategy\n  * Creating cross-functional, collaborative agile teams\n3. Promoting a data-driven culture\n  * Prioritizing top decision-making processes\n  * Establishing clear decision-making rights and accountability\n  * Empowering the front lines to make analytics-driven decisions\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051339,
+              "key": "4c240a8e-6ddb-43c1-8676-a0b00c1e1057",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c219a_drive-success-on-a-data-science-project/drive-success-on-a-data-science-project.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/4c240a8e-6ddb-43c1-8676-a0b00c1e1057",
+              "caption": "Drive Success on a Data Science Project",
+              "alt": "Drive Success on a Data Science Project",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037818,
+              "key": "a5375c74-c44b-4cda-9db8-284d81905fa5",
+              "title": "Key Success Factors for Data Science Projects New Terms or Vocabulary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "\n## Four scope conditions that signal readiness for data science initiatives:\n1. Data\n   * Structured Data\n   * Unstructured Data\n2. Infrastructure\n   * Data Quality Processes\n   * ETL processes\n   * Data Security\n3. Business Processes\n   * [Machine Learning Development Lifecycle](https://towardsdatascience.com/the-machine-learning-lifecycle-912a70647d61)\n4. Tools and Frameworks\n   * Programming languages (most commonly, Python and R)\n   * Machine Learning libraries (Scikit-learn, Tensorflow, Pytorch, Keras)\n   * Version control systems (Github, Bitbucket)\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037892,
+          "key": "429f3d6a-86fb-49db-8e6b-fd093521f8a4",
+          "title": "Quizzes: Key Success Factors for Data Science Projects",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "429f3d6a-86fb-49db-8e6b-fd093521f8a4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037814,
+              "key": "fb86987a-1930-4ef7-b9d4-33206253425f",
+              "title": "Key Success Factors for Data Science Projects Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Key Success Factors for Data Science Projects Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044099,
+              "key": "02176fc6-26d5-4d0b-9cab-8716f3e87e50",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "02176fc6-26d5-4d0b-9cab-8716f3e87e50",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represent key success factors for data science projects?",
+                "answers": [
+                  {
+                    "id": "a1594294856484",
+                    "text": "Obtaining a strong, unified commitment from all levels of management",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594294878775",
+                    "text": "Leveraging structured data to ensure robust organization and model performance",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594294879762",
+                    "text": "Establishing clear decision-making rights and accountability",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594294880470",
+                    "text": "Developing a clear data strategy with strong data governance",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044669,
+              "key": "d1bd0370-a224-425b-8c6e-8173719e48fb",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "d1bd0370-a224-425b-8c6e-8173719e48fb",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ one of the areas of scope conditions critical to data science success?",
+                "answers": [
+                  {
+                    "id": "a1594569018152",
+                    "text": "Data ",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594569069093",
+                    "text": "Models",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594569069736",
+                    "text": "Infrastructure",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594569070450",
+                    "text": "Business Processes",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1052091,
+          "key": "1ef1f0ac-c205-49d8-b038-efb13a906bda",
+          "title": "Where  Do We Start: Introduction",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "1ef1f0ac-c205-49d8-b038-efb13a906bda",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1052093,
+              "key": "6a6ec77d-e6a7-4a58-80d6-9727b3ffa90b",
+              "title": "ND045 DSBL L02 Where Do We Start Part 1",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "FvoldPkesTk",
+                "china_cdn_id": "FvoldPkesTk.mp4"
+              }
+            },
+            {
+              "id": 1052092,
+              "key": "cc7d0852-4c15-4224-8cfe-5781ad90179d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Summary\n\n**Two frameworks for identifying data science opportunities:**\n1. [Porter's Value Chain](https://www.isc.hbs.edu/strategy/business-strategy/pages/the-value-chain.aspx)\n    * Main value chain components:  inbound logistics, operations, outbound logistics, marketing and sales, and service after the sale\n    * Support components: firm infrastructure, human resource management, technology development, and procurement\n2. [Income Statement or Profit & Loss (P&L)](https://www.investopedia.com/terms/i/incomestatement.asp)\n    * Revenues: Operating and non-operating revenues\n    * Expenses: \n    * Primary Activity Expenses \n      * **COGS**: Cost of Goods Sold\n      * **SG&A**: Selling, General and Administrative Expenses \n      * Depreciation and/or amortization and \n      * **R&D**: Research and Development expenses. \n    * Secondary Activity Expenses: Expenses not associated with core business activities (e.g., interest expense)\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037896,
+          "key": "b2c8aff0-04aa-41c3-9010-183e0405dad5",
+          "title": "Quizzes: Where Do We Start? ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "b2c8aff0-04aa-41c3-9010-183e0405dad5",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037854,
+              "key": "e63dcc4e-e298-4f80-888c-1589a703efcb",
+              "title": "Where do we start? Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044100,
+              "key": "f24abc06-ad92-4303-91c5-8aab2f2dd21e",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "f24abc06-ad92-4303-91c5-8aab2f2dd21e",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Identifying and prioritizing opportunities for data across the business can be overwhelming; a framework for structuring the problem and identifying opportunities can help. What is one approach you might use when first identifying and prioritizing data science opportunities? "
+              },
+              "answer": {
+                "text": "There are many ways to approach this problem, but the most effective ways tend to offer a strategy for structuring the problem. Two approaches that are commonly used invoke the Income (Profit and Loss) Statement (breaking opportunities into those that affect Revenues and those that affect Costs) and the Value Chain (identifying steps in producing and delivering the business's product(s).",
+                "video": null
+              }
+            },
+            {
+              "id": 1044670,
+              "key": "8abf9409-04c7-40d5-bafa-811e091d9c54",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "8abf9409-04c7-40d5-bafa-811e091d9c54",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represent primary areas on which to evaluate and prioritize candidate data science projects?",
+                "answers": [
+                  {
+                    "id": "a1594569399464",
+                    "text": "Key personnel required",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594569400081",
+                    "text": "Feasibility of project",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594569400859",
+                    "text": "Likely Impact",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594569466724",
+                    "text": "Likelihood of value capture",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037895,
+          "key": "449a4cdd-f36b-4dc6-9b11-6f5a30b93f31",
+          "title": "Where Do We Start? Choosing Projects",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "449a4cdd-f36b-4dc6-9b11-6f5a30b93f31",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037819,
+              "key": "387d63a1-34b0-49bd-89c2-22d6a1a57bc8",
+              "title": "Where do we start? Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Choosing Projects",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051048,
+              "key": "30a393da-1184-4933-9efa-3c471b1e42d6",
+              "title": "ND045 DSBL L02 Where Do We Start Walkthrough",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "ufA3BVW5Z6o",
+                "china_cdn_id": "ufA3BVW5Z6o.mp4"
+              }
+            },
+            {
+              "id": 1052094,
+              "key": "d1a5d25a-066e-4c1a-acdb-c34e99d7a0b9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Porter's Value Chain can help you determine the value of projects by identifying which business activities are affected by the proposed project. This is an incredibly valuable tool when used appropriately, We will apply this tool in an actual scenario later in the lesson.",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051340,
+              "key": "471f156e-deb2-47a0-9864-09f46c542aa3",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c21f7_value-chain/value-chain.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/471f156e-deb2-47a0-9864-09f46c542aa3",
+              "caption": "Porter's Value Chain",
+              "alt": "Porter's Value Chain",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051066,
+              "key": "8642c953-903a-49c9-af0c-4b711e9ef4f8",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "***\nExample: Let's explore data science opportunities through *Porter's Value Chain* framework with *Fantastic Coffee*...\n\n***\n\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051055,
+              "key": "1669cafa-1c06-40cb-88f1-8e15fea01c74",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "***\n\n## Using  Porter's Value chain: Summary\n\nUsing Porter's Value chain we have identified several possible projects that might be good for Fantastic Coffee.\n\n***\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037800,
+              "key": "fe284253-e463-40ad-95c6-4cd69f04560d",
+              "title": "ND045 DSBL L02 Where Do We Start Part 2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "cpp3CxA7PjU",
+                "china_cdn_id": "cpp3CxA7PjU.mp4"
+              }
+            },
+            {
+              "id": 1051341,
+              "key": "6a06c921-b746-4905-b160-789eb2bb4f3f",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Determining Priority in Chosen Projects - Rack and Stack",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051113,
+              "key": "58c09a48-41de-4f1b-9e76-a1f2979a9c44",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Rack and Stack: Summary\n\nLet's say I have a number of projects that I'm considering for inclusion on a data science roadmap, and I'd like to assess each of them on various aspects that reflect their potential on that roadmap. \n\nLet's say the first of these is a propensity model that predicts a customer's likelihood of responding to a marketing offer. Customer purchase behavior is directly aligned with most companies' strategic goals, so we would rate this high in that regard. Typical propensity models use data that is already gathered by the business, and often, this data exists in one or only a few different sources, so the cost of this project will likely be low, and the complexity of implementing this project will likely be low as well. Propensity modeling is one of the more promising areas of marketing; it tends to deliver pretty regularly with relatively large benefits, with the little risk associated with such projects. As such, we would rate this project as having a relatively high certainty of value capture and a relatively large magnitude of benefit. \n\nLet's consider a second project now. Let's say the business has challenges with backlogs in responding to customers' requests. Customers often email or text the company with service questions, but it takes a long time for a human to respond appropriately to those questions. The company would like to look into developing a customer service chatbot that uses natural language processing to automatically assess the need represented by each message and respond to that need automatically.  How might we rate the Customer Service Chatbot project?\n\nFirst, customer service is certainly aligned with strategic goals, so we would rate that as high. The cost of developing a chatbot would be pretty extensive, however; it would take quite a lot of research and tuning to understand categories of customer needs and develop the right responses to be provided automatically. As such we would rate the costs of this project as high. By the same token, the complexity of implementing a system of this kind would be pretty substantial, so we would rate complexity as high as well. Chatbots must be customized to a company's customer needs and developing the right responses can be a speculative exercise, so the certainty of value capture here would be relatively low as well. If the company were able to pull it off, the benefit would be substantial -- the company would increase customer satisfaction through much quicker response times and could do so with lower payroll impact. ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051342,
+              "key": "1d412b8d-9bd8-4f85-a695-75f3914c5ba3",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c22e7_rack-and-stack/rack-and-stack.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/1d412b8d-9bd8-4f85-a695-75f3914c5ba3",
+              "caption": "Rack and Stack",
+              "alt": "Rack and Stack",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051343,
+              "key": "1ad3a759-c909-46d4-bd0d-c91f0cc3d9f5",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Determining Priority in Chosen Projects - Opportunity Matrix",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051065,
+              "key": "6527404d-d70f-4555-8584-47cedf20cdfd",
+              "title": "ND045 DSBL L02 Where Do We Start Part 3",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Msf1lAqZmkY",
+                "china_cdn_id": "Msf1lAqZmkY.mp4"
+              }
+            },
+            {
+              "id": 1051112,
+              "key": "40243adb-28ba-4fac-b68d-2e3edc98ac58",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Components for assessing candidate data science projects:**\n1. Feasibility (time, investment)\n2. Business value impact \n3. Likelihood of value capture\n\n***\n\n\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051346,
+              "key": "5432df44-245a-40c8-bd27-0145d315b213",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2374_opportunity-matrix/opportunity-matrix.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/5432df44-245a-40c8-bd27-0145d315b213",
+              "caption": "Opportunity Matrix",
+              "alt": "Opportunity Matrix",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037832,
+              "key": "91a79675-3733-4515-a6c9-5516e7344de0",
+              "title": "Where do we start? Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "When choosing a _first_ data science project, consider not only feasibility, impact, and the likelihood of value capture, but also choose cases that will\n* Create the greatest value quickly\n* Generate momentum \n* Foster buy-in for future data science investments\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037903,
+          "key": "ecf17be4-ca62-45be-89bd-456ab0cafbfb",
+          "title": "Exercise: Where Do We Start?",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ecf17be4-ca62-45be-89bd-456ab0cafbfb",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037835,
+              "key": "7c313314-b9dc-4ece-95d5-39d235633a2f",
+              "title": "Where do we start? Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037799,
+              "key": "74366ca5-de4b-49cf-a928-0d0da8c22564",
+              "title": "Where do we start? Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate *Lesson 3: Exercise 1 : The Business Case for Data Science* in your downloaded template\n\nConsider Marketing projects below (from Lesson 1) and three additional examples of Procurement and Supply Chain projects detailed below.\n\n*Executive leadership has asked you to determine which of these six projects are most promising for the business.  Conduct a “rack and stack” exercise to determine the relative strategic importance, cost, complexity of implementation, likelihood of value capture, and magnitude of benefit for each of the six projects*\n\n***\n\n*(Specific details for each provided in the exercise in your template)*\n\n**Example Marketing Project 1: Customer Loyalty Program**  \n\n**Example Marketing Project 2: Customer Loyalty Assessment** \n\n**Example Marketing Project 3: Assessing Customer Attitudes** \n\n**Example Supply Chain and Procurement Project 4: Procurement Optimization**\n\n**Example Supply Chain and Procurement Project 5: Supply Chain Optimization** \n\n**Example Supply Chain and Procurement Project 6: Demand Forecasting**  \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045090,
+              "key": "6bde777e-ab61-4139-bf9a-ecdebb14723b",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/July/5f11bcae_screen-shot-2020-07-17-at-7.56.23-am/screen-shot-2020-07-17-at-7.56.23-am.png",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/6bde777e-ab61-4139-bf9a-ecdebb14723b",
+              "caption": "Rack and Stack Exercise Example",
+              "alt": "Rack and Stack Exercise Example",
+              "width": 1268,
+              "height": 1142,
+              "instructor_notes": null
+            },
+            {
+              "id": 1057760,
+              "key": "377d3323-dbe3-4cce-b601-9e34b6df306f",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "377d3323-dbe3-4cce-b601-9e34b6df306f",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "After you complete your own chart, you can see if anyone seems more appealing than the others. Did any of the projects below seem to have more benefits than the others? How would you back up your choice?"
+              },
+              "answer": {
+                "text": "Thanks for completing that. Let's see how your thoughts compared with the instructor on the next page!",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037901,
+          "key": "4e683d35-83cb-4235-a4cb-2520907b972d",
+          "title": "Solution: Where Do We Start?  ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "4e683d35-83cb-4235-a4cb-2520907b972d",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037836,
+              "key": "6f4744fc-7ca8-4f34-bffa-2b4b7cc8cf32",
+              "title": "Where do we start? Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037827,
+              "key": "34e21c19-25c5-4816-a9c4-887660ec1e6a",
+              "title": "ND045 DSBL L02 Where Do We Start Exercis Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "qB-FBmBBXKU",
+                "china_cdn_id": "qB-FBmBBXKU.mp4"
+              }
+            },
+            {
+              "id": 1051750,
+              "key": "b2b794a8-e77a-4313-a6b5-003ed8585e5b",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Where Do We Start? Exercise Solution Summary\n\nThis exercise had you complete a “Rack and Stack” worksheet for six projects in marketing and procurement & supply chain.\nThe exercise directed you to determine the relative strategic alignment, cost, complexity of implementation, certainty of value capture, and magnitude of benefit for each of six projects.\n1. _Customer loyalty program_ is directly aligned with strategic goals. Because of the extensive data required, as well as the need to build a system of loyalty offer delivery as part of the project, is only medium in both cost and complexity of implementation. I project large benefits for this project, but because this is the business's first foray into loyalty programs, and many different parts of the business must align in order to execute, the likelihood of initially capturing value is not high.\n2. _Customer loyalty assessment_ is also aligned closely with strategic goals. The departmental edges of the project are much more narrow, so the cost and complexity of implementation are much lower. Action on the information gained is not clearly defined, however, so only a medium benefit is projected. For this reason, as well, the project does not have a high likelihood of value delivery. \n3. _Assessing customer attitudes_ is aligned with strategic goals and has the lowest cost and implementation complexity of the set, as it requires no new data, relying on extant data from social media sites only. Moreover, methods for scraping such data are well-established, which contributes to the high likelihood of capturing value. The benefit of this project is projected to be among the lowest of the group, however, as there is no clear value-driven use identified for the information generated from the project.\n4. _Procurement optimization_  is closely aligned with strategic goals, as Procurement is key to this business. This project will require the purchase of external market data, so cost is moderate, but there will be little need for new data internally, so the complexity of implementation should be relatively low. Raw material procurement is a critical component of the business's operations, so optimizing procurement should bring the medium to high benefit. Material pricing is driven by market factors out of the business's control, however, so there is substantial uncertainty around value capture. \n5. _Supply chain optimization_ is directly aligned with strategic goals, as supply chain operations are also mission-critical to the company. It will require a fair amount of data engineering to bring data from silos associated with the many factories, so the cost will be moderate, but complexity should not be huge once these ETL pipelines are built. Purchasing and inventory are cost-heavy operations, so centralizing and optimizing these functions should bring large benefits to the company. The project's success is incumbent on operational changes in not only procurement and inventory but also delivery, so the project has only medium certainty of delivering on the value expected of it.\n6. _Demand forecasting_ is also closely aligned to strategic goals. This project will rely primarily on established data streams, so both cost and complexity should be relatively low. Being able to anticipate demand swings and schedule production and manage inventory accordingly are important levers to the business, so the project should bring a medium to high benefit to the business. Moreover, demand forecasting methods are well-established, so this project should be among the most likely to deliver on its expected value. ",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037899,
+          "key": "fe85b813-9155-4f3e-a935-a6783c3fe2cf",
+          "title": "How Do We Start?",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "fe85b813-9155-4f3e-a935-a6783c3fe2cf",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037862,
+              "key": "718a089c-ba20-492a-82d3-8d9b93dac192",
+              "title": "How do we start? Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## How Do We Start?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037843,
+              "key": "044493f6-64cd-4886-8c8c-f761452e192e",
+              "title": "ND045 DSBL L02 How Do We Start",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "X3yRqO36nFY",
+                "china_cdn_id": "X3yRqO36nFY.mp4"
+              }
+            },
+            {
+              "id": 1047049,
+              "key": "cf054221-7084-4c28-9d62-db3849601228",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## How Do We Start? Notes\n**Four key steps to follow in planning and launching a data science project**\n1. Understand current states\n2. Reimagine opportunities with data science\n3. Make the business case for data science\n4. Execute via a rapid prototyping approach\n * Iterative approach\n * Get user feedback often \n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037910,
+          "key": "e1d8f107-9f4d-4f54-9b31-abc45fa19013",
+          "title": "Quizzes: How Do We Start? ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e1d8f107-9f4d-4f54-9b31-abc45fa19013",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1051347,
+              "key": "84f0ea1b-13ed-4094-9035-34542170065b",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Quizzes: How Do We Start?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044671,
+              "key": "e1d93af0-b7d9-4d6b-8edb-9a36fdc41333",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "e1d93af0-b7d9-4d6b-8edb-9a36fdc41333",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represent steps in the process of designing data science projects?",
+                "answers": [
+                  {
+                    "id": "a1594570703411",
+                    "text": "Making the business case",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594570713187",
+                    "text": "Assessing model fit",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594570714075",
+                    "text": "Re-imagining opportunities",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594570714721",
+                    "text": "Understanding current states",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594570715477",
+                    "text": "Cleaning and normalizing data",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594570716600",
+                    "text": "Rapid prototyping",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044101,
+              "key": "4eef9e86-f188-4ac5-874b-0581a54008c4",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "4eef9e86-f188-4ac5-874b-0581a54008c4",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "This section introduced the concept of Rapid Prototyping. In your own words, what are two key benefits of implementing data science projects via a rapid prototyping approach?"
+              },
+              "answer": {
+                "text": "There are many advantages to rapid prototyping. Two key advantages that I have found in my work are (1) ensuring that your project and model stay close to the needs and requirements of the user; and (2) providing a way to leverage progress to generate momentum toward support and continued funding of data science in the business.",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037898,
+          "key": "b8209c2f-9359-4df5-bf76-b8a14a95171f",
+          "title": "Keys to Creating a Strategic Roadmap",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "b8209c2f-9359-4df5-bf76-b8a14a95171f",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037842,
+              "key": "06c23b69-05b5-4f10-97df-dadc524fb0d8",
+              "title": "Keys to Creating a Strategic Roadmap Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Keys to Creating a Strategic Roadmap",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037797,
+              "key": "48db5319-daa9-44ee-81a3-3972806860f2",
+              "title": "ND045 DSBL L02 Keys To Creating A Strategic Roadmap",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "KrjDztweLz8",
+                "china_cdn_id": "KrjDztweLz8.mp4"
+              }
+            },
+            {
+              "id": 1047057,
+              "key": "d1720d8e-35e3-4f74-bf47-3bde81c801d6",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Keys to Creating a Strategic Roadmap Summary\n\n**Seven Keys to Creating a Strategic Roadmap:**\n1. Embrace a philosophy of lots of experiments to gain momentum\n2. Start with narrow examples; these generate stories (the art of possible) that you can \nleverage to gain momentum and scale accordingly across the business\n3. Select only high impact, high feasibility use cases\n4. Consider the milestones relevant to each project\n5. Look for overlap between milestones in various projects\n6. Start to map these milestones against time-based on resources available\n7. Underpromise, overdeliver, and drive success for your organization\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037888,
+          "key": "419615e4-2ebf-403f-b470-7f451e5a1c61",
+          "title": "Quizzes: Keys to Creating a Strategic Roadmap ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "419615e4-2ebf-403f-b470-7f451e5a1c61",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044102,
+              "key": "7be446f1-6abb-4a96-ae47-0166399ac0fb",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "7be446f1-6abb-4a96-ae47-0166399ac0fb",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "When laying out the timing of projects to create a strategic roadmap, what factors should be considered when deciding upon the first project(s) to undertake? Please respond in your own words below."
+              },
+              "answer": {
+                "text": "Several factors should inform your selection of the initial projects with which to launch your data science initiative. For example, you would be wise to start with only high impact, high feasibility use cases, and specify them with relatively narrow scope to generate stories that you can leverage to gain momentum and scale accordingly across the business.\n",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1042929,
+          "key": "e3db467b-fa7b-4ea6-8442-76a63823d9c8",
+          "title": " Exercise: Keys to Creating a Roadmap Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e3db467b-fa7b-4ea6-8442-76a63823d9c8",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1042930,
+              "key": "0770a66c-e019-4a2b-9254-c738074ed156",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Keys to Creating a Roadmap Exercise\n\nPlease locate *Lesson 3: Exercise 2: Keys to Creating a Roadmap* in your downloaded slide deck template. You can also choose to copy/paste your completed version into your document once you are finished if you wish. \n\nComplete the “Data Science Opportunity Matrix” pictured below by modeling each of the six projects in terms of feasibility (time & investment), business value impact, and the likelihood of value capture",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045094,
+              "key": "48fb6cd8-0062-49d3-8cd9-f894d571d325",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/July/5f11bd28_dsbl-exercise-visuals-template/dsbl-exercise-visuals-template.png",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/48fb6cd8-0062-49d3-8cd9-f894d571d325",
+              "caption": "Data Science Opportunity Matrix Example",
+              "alt": "Data Science Opportunity Matrix Example",
+              "width": 960,
+              "height": 540,
+              "instructor_notes": null
+            },
+            {
+              "id": 1045545,
+              "key": "aa913c1b-3af9-4498-bbac-c1c636729fe9",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "aa913c1b-3af9-4498-bbac-c1c636729fe9",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Now that you have completed this exercise, reflect on why you chose the size and position for each of the projects. What were some of the key factors that led you to this decision?"
+              },
+              "answer": {
+                "text": "Thanks for reflecting on this, it's important to take the time to review and think about these items as they can make or break a strategy. Head the next page to see how I answered these questions!",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1042931,
+          "key": "28373e0d-32ca-4e15-8325-68d8a1ab6d62",
+          "title": "Solution: Keys to Creating a Roadmap Exercise ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "28373e0d-32ca-4e15-8325-68d8a1ab6d62",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1042932,
+              "key": "b6bf4960-a399-4197-a9d4-2b142db0bd10",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Keys to Creating a Roadmap Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1042933,
+              "key": "3b549b2e-395c-4651-8345-27cc204b703a",
+              "title": "ND045 DSBL L02 Keys To Creating A Strategic Roadmap Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "mSdHxzruZgQ",
+                "china_cdn_id": "mSdHxzruZgQ.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037909,
+          "key": "13647fdc-829a-44fc-9093-42847889ce19",
+          "title": "Setting Expectations",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "13647fdc-829a-44fc-9093-42847889ce19",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037849,
+              "key": "cfc5e1fe-46c9-4716-9d1e-20b776de74ef",
+              "title": "Setting Expectations Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Setting Expectations",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037859,
+              "key": "40ee5d83-50bc-407c-a54f-577d2007a97e",
+              "title": "ND045 DSBL L02 Setting Expectations",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Vn22nvERmB4",
+                "china_cdn_id": "Vn22nvERmB4.mp4"
+              }
+            },
+            {
+              "id": 1047058,
+              "key": "50c38263-a49a-4900-96d8-eb3cab4d16e5",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Setting Expectations Summary\n**Areas of focus in setting stakeholder expectations:**\n1. Potential project value to the business\n2. Likelihood of value capture\n3. Timing of value capture\n4. Risks and potential blockers\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037900,
+          "key": "9b4c2aa0-8552-424b-979b-5ad47936bb19",
+          "title": " Quizzes: Setting Expectations",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "9b4c2aa0-8552-424b-979b-5ad47936bb19",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044103,
+              "key": "b389057e-d287-47fc-9ce1-aafd254da524",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b389057e-d287-47fc-9ce1-aafd254da524",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "In setting expectations for a data science project, which of the following are critical to be communicated to stakeholders?",
+                "answers": [
+                  {
+                    "id": "a1594297300015",
+                    "text": "Alternative model specifications to ensure success",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594297311295",
+                    "text": "Timing of value capture",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297311991",
+                    "text": "Risks and Potential Blockers",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297312621",
+                    "text": "Potential Project Value to the Business",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297313232",
+                    "text": "Likelihood of value capture",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044677,
+              "key": "1e4fe3ba-04d9-4c5d-89ab-4f3071b791b9",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "1e4fe3ba-04d9-4c5d-89ab-4f3071b791b9",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "A startup CEO is reluctant to invest in a new machine learning initiative, stating, \"As a startup, we have to invest in growth now; we can't afford to wait for machine learning to deliver its benefits in 3 years\". Which of the following areas should a business leader emphasize in order to set more appropriate expectations for the CEO?",
+                "answers": [
+                  {
+                    "id": "a1594571694137",
+                    "text": "Alternative model specifications to ensure success",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594571823256",
+                    "text": "Timing of value capture",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594571824029",
+                    "text": "Risks and Potential Blockers",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594571824621",
+                    "text": "Potential Project Value to the Business",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594571831718",
+                    "text": "Likelihood of value capture",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037905,
+          "key": "b0b6113b-e99e-4d46-9c64-54cfafbf00aa",
+          "title": "Exercise: Setting Expectations ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "b0b6113b-e99e-4d46-9c64-54cfafbf00aa",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037874,
+              "key": "8ab83199-698f-456d-a333-f663ae529ec6",
+              "title": "Setting Expectations Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Setting Expectations Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045548,
+              "key": "0ce421da-a6e2-42f2-9b91-2f95d656a791",
+              "title": "",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "0ce421da-a6e2-42f2-9b91-2f95d656a791",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Potential Project Value to the Business",
+                "Likelihood of value capture",
+                "Timing of value capture",
+                "Risks and Potential Blockers"
+              ],
+              "positive_feedback": "Well done! Head on to the next page to see how the instructor answered this question and compare notes!",
+              "video_feedback": null,
+              "description": "Please locate Lesson 2: Exercise 3 : *Setting Expectations* in your downloaded template\n\nIdentify your top project to implement from the six projects in Exercise 2 represented on the Opportunity Matrix. For this project, provide one example of how you would set expectations regarding each of the following four areas:"
+            }
+          ]
+        },
+        {
+          "id": 1037904,
+          "key": "f54eb99d-eff3-4aec-bd5e-13207f81876f",
+          "title": "Solution: Setting Expectations Exercise ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "f54eb99d-eff3-4aec-bd5e-13207f81876f",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037872,
+              "key": "8f25461a-ed33-42cb-8ce5-5a9dcf73778b",
+              "title": "Setting Expectations Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Setting Expectations Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037869,
+              "key": "5eacfe83-4d44-431f-8d06-cdaa9e6f6516",
+              "title": "ND045 DSBL L02 Setting Expectations Exercise Solutions",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "3-jvw__9JJU",
+                "china_cdn_id": "3-jvw__9JJU.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037908,
+          "key": "a0a855e6-c547-4fbb-a3e0-9c26aca7e81e",
+          "title": "Choosing a First Project",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "a0a855e6-c547-4fbb-a3e0-9c26aca7e81e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037871,
+              "key": "d23532da-3bef-407b-b38d-6ab21748a4b7",
+              "title": "Edge Case: Choosing a first project that is neither greatest in impact nor greatest in feasibility Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Choosing a First Project",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037840,
+              "key": "d6c02716-d7fc-4b78-a2df-5d5ce2e3ee49",
+              "title": "ND045 DSBL L02 Edge Case - Choosing A First Project",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "OjqAJQh2LHE",
+                "china_cdn_id": "OjqAJQh2LHE.mp4"
+              }
+            },
+            {
+              "id": 1051348,
+              "key": "73474e77-db75-4f87-87ad-68048f721ddc",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2562_choosing-a-project/choosing-a-project.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/73474e77-db75-4f87-87ad-68048f721ddc",
+              "caption": "Choosing a First Project",
+              "alt": "Choosing a First Project",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037866,
+              "key": "35f40557-c8e2-4c1f-9c91-41d6e040fd08",
+              "title": "Edge Case: Choosing a first project that is neither greatest in impact nor greatest in feasibility Text",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Choosing a First Project Summary\nAs we discussed during this lesson, when prioritizing data science projects for a roadmap, those projects should be assessed in terms of feasibility, potential impact, and the likelihood of value capture. This is especially critical in the initial stages of data science adoption in order to develop and maintain enthusiasm, momentum, and continued investment in data science from the business.",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044729,
+              "key": "5faf91c2-22e4-42a6-a979-6c37639efbe7",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "5faf91c2-22e4-42a6-a979-6c37639efbe7",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "A leader is deciding which of two candidate projects would be best to implement first in a data science roadmap. The two are similar in cost, time, and complexity of implementation, but project A is projected to bring a 15% greater benefit than project B. In your own words, please provide a reason that the leader might wisely choose to launch the roadmap with project B, even though that project is not likely to bring as great a benefit."
+              },
+              "answer": {
+                "text": "In addition to feasibility (cost, time, complexity of implementation) and projected impact, projects should be assessed on likelihood of value capture - the likelihood that they deliver their expected benefits.  Project B would make a more compelling case than Project A if, in fact, it was much more likely to succeed. This is especially critical in the initial stages of data science adoption in order to develop and maintain enthusiasm, momentum, and continued investment in data science from the business.",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037913,
+          "key": "36187fff-5f9f-4a60-9ceb-92de333d9665",
+          "title": "Lesson Conclusion",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "36187fff-5f9f-4a60-9ceb-92de333d9665",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037851,
+              "key": "f700c35d-5379-4cea-b55d-5e188060a714",
+              "title": "Lesson Conclusion Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037830,
+              "key": "0734848b-6f47-4edf-b92f-13d3419de045",
+              "title": "ND045 DSBL L02 Lesson Conclusion",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "jAB3Jm2Rvc4",
+                "china_cdn_id": "jAB3Jm2Rvc4.mp4"
+              }
+            },
+            {
+              "id": 1037875,
+              "key": "c3a33b36-b376-43be-ba79-f3774cd6fd32",
+              "title": "Lesson Conclusion Text",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion Summary\nWe have come to the end of our lesson on the Business Case for Data Science! You should have a solid foundation in choosing Data Science projects that will have the highest chance of success!\n\nWhat we covered:\n- Surveying the business to identified opportunities for data science projects. \n- Identifying core competencies and scope conditions critical for a business to realize success in data science projects. \n- Prioritizing projects toward developing a roadmap that will guide our data science initiative. \n\nOur next lesson will turn toward the human capital aspect of data science. See you there!",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051349,
+              "key": "f1e22a73-07fc-4bd9-88bd-86ab40175c72",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Recap",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051350,
+              "key": "62b9eaf8-c48d-40f9-b569-5d5e4c89ba3d",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2598_l2-recap/l2-recap.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/62b9eaf8-c48d-40f9-b569-5d5e4c89ba3d",
+              "caption": "",
+              "alt": "",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037893,
+          "key": "156d317b-93f4-460a-9880-89efcfa1d40b",
+          "title": "Lesson Glossary and Additional Resources",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "156d317b-93f4-460a-9880-89efcfa1d40b",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037882,
+              "key": "a7f08f4a-5e9a-491c-a2a6-13e30c448a1c",
+              "title": "Lesson Glossary and Additional Resources Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary and Additional Resources",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037844,
+              "key": "8ea99858-9fd9-4a12-a6dc-eafdd4691ca2",
+              "title": "Glossary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Glossary\n|**Key Term**| **Definition**| \n|--------------|---------------------|\n|COGS| Cost of Goods Sold|\n|P&L Framework| Profit & Loss or Income Statement framework helps determine if and how a product could be profitable.|\n|R&D| Research and Development|\n|Rapid Prototyping| A group of techniques used to quickly fabricate a scale model of a physical part or assembly using three-dimensional computer-aided design data. In software, it is an approach to software development that emphasizes quick, iterative development cycles and minimal feature sets.|\n|SG&A| Selling, General and Administrative|\n|Value Chain| A set of activities that an organization carries out to create value for its customers.|\n|Value Chain Framework| A process to determine how to build the most impactful product for the least cost.|",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

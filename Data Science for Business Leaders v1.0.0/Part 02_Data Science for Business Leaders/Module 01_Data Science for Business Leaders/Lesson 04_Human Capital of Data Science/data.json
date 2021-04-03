@@ -1,0 +1,2316 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1038100,
+      "key": "2735e9c7-9652-4ca2-ba3a-364b8aa46813",
+      "title": "Human Capital of Data Science",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "In this lesson you'll learn how to build a data driven culture and team.",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/2735e9c7-9652-4ca2-ba3a-364b8aa46813/1038100/1599481612701/Human+Capital+of+Data+Science+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/2735e9c7-9652-4ca2-ba3a-364b8aa46813/1038100/1599481607311/Human+Capital+of+Data+Science+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Course Glossary",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31d902_dsbl-course-glossary/dsbl-course-glossary.pdf"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1038074,
+          "key": "ea25eb3d-233a-42e3-821f-68c956b91da0",
+          "title": "Human Capital of Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ea25eb3d-233a-42e3-821f-68c956b91da0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037923,
+              "key": "182a3c8c-21e3-4038-80b1-9b0e82469053",
+              "title": "Human Capital of Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Human Capital of Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037929,
+              "key": "70f7d4fe-47f8-4a8e-929d-60d37d95f3d1",
+              "title": "ND045 DSBL L03 Introduction To Human Capital Of Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "E4k1Pbm9G3U",
+                "china_cdn_id": "E4k1Pbm9G3U.mp4"
+              }
+            },
+            {
+              "id": 1037920,
+              "key": "112805f0-923d-448d-bb79-353e711d29b8",
+              "title": "Human Capital of Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Human Capital of Data Science Summary\n\nTo this point, we have talked in depth about data science and how it fits into the business. With this new lesson, we turn our attention to actually implementing data science initiatives. \n\nAt the conclusion of this lesson, you will be able to answer the following:\n- We start with the question of human capital. How do we stand up a team to actually execute on data science initiatives? \n- What processes do we implement so this team efficiently and effectively carries out data science projects? \n- How to put in place the technical architecture to support data science initiatives?\n\n## Lesson Objectives:\nUpon completion of Lesson 3, you should be able to successfully carry out the following tasks:\n- Use the Data Science Heat Map as a tool for specifying roles within the Data Science organization\n- Manage Data Science operations using structured processes for work and communication. This includes\n  -Project Management\n  -Structured Problem Solving \n  -Synthesis and Storytelling \n  -Communicating the results\t\n- Given the particulars of a company’s strategic and operating contexts, identify the data science organizational model best suited for that company\n- Given a data science strategy, identify and prioritize the mix of roles you would pursue to build out the data science organization\n- Describe project and product management strategies best suited for a given company’s data science organizations \n- Given a broad business challenge, describe how you would approach the development of a data science strategy using the Structured Problem Solving Method \n- Given a business context, identify strategies for promoting a data-driven culture throughout that business\n\nFor now, though, onward into the human capital of data science!\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051351,
+              "key": "c3641080-e1b1-4aa3-b309-b48f11320b9e",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c272f_l3-overview/l3-overview.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/c3641080-e1b1-4aa3-b309-b48f11320b9e",
+              "caption": "Lesson Overview",
+              "alt": "Lesson Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038075,
+          "key": "8f3e3192-a766-45eb-9ede-cf1559d4b29c",
+          "title": "Big Picture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "8f3e3192-a766-45eb-9ede-cf1559d4b29c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037934,
+              "key": "62e048d2-1fdb-4f83-b1bb-9e6d3d378c68",
+              "title": "ND045 DSBL L03 Big Picture Of The Human Capital Of Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "PkdKdqwvcZI",
+                "china_cdn_id": "PkdKdqwvcZI.mp4"
+              }
+            },
+            {
+              "id": 1037924,
+              "key": "c00c5b33-a4e0-4875-a55d-c81dc7012dee",
+              "title": "Big Picture Heading Image",
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "8.0",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/c00c5b33-a4e0-4875-a55d-c81dc7012dee",
+              "caption": "",
+              "alt": "",
+              "width": 787,
+              "height": 512,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051352,
+              "key": "864f8b91-8a0a-4761-847a-6e67c979f045",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2908_l3-big-picture/l3-big-picture.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/864f8b91-8a0a-4761-847a-6e67c979f045",
+              "caption": "Big Picture",
+              "alt": "Big Picture",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037931,
+              "key": "ead8ad9c-5e0c-4159-b7c1-0642e7b21506",
+              "title": "Big Picture Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Big Picture Summary\n\nThe human capital component of Data Science is critical to delivering on a data science strategy. Though universities are now launching data science programs, the large demand for data scientists well outstrips the supply of graduates from such programs. \n\n- Who, then, do we recruit, hire, and train for our Data Science organization? \n- How is that organization structured in order to deliver value to our business? \n- How do our Data Scientists carry out their work in a structured manner? \n- How do we leverage data and data science to foster a data-driven culture throughout the business? \n\nThese are all questions addressed in this lesson. \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044730,
+              "key": "81cf5a3c-8000-408d-a110-8e4a8a9f3f99",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "81cf5a3c-8000-408d-a110-8e4a8a9f3f99",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: The most reliable background for data scientists is the completion of a graduate degree in a formal university program in Data Science.",
+                "answers": [
+                  {
+                    "id": "a1594659411510",
+                    "text": "True",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594659472600",
+                    "text": "False",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038084,
+          "key": "91d0ef1c-5662-4aa9-8982-a1a5df96901f",
+          "title": "Human Capital",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "91d0ef1c-5662-4aa9-8982-a1a5df96901f",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037952,
+              "key": "18720cec-9f56-44eb-a24f-a6352fe26367",
+              "title": "Developing Your Intuition About Human Capital of Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Human Capital of Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038050,
+              "key": "1e3f738c-0342-4494-855a-d7c5b5fc1501",
+              "title": "ND045 DSBL L03 Developing Your Intuition About The Human Capital Of Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "we-QvOwsBlM",
+                "china_cdn_id": "we-QvOwsBlM.mp4"
+              }
+            },
+            {
+              "id": 1037936,
+              "key": "7a6d3aee-8fcd-4ca7-9a8a-aa3b1fcfd9c6",
+              "title": "Developing Your Intuition About Human Capital of Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Developing Your Intuition About Human Capital of Data Science Summary\n\nIn this lesson, we will consider the organizational and talent issues that surround building a data science practice. Although data science human capital issues share many characteristics of building teams and organizations in other technical areas, the distinct mix of skills and job requirements of a data scientist introduces several considerations unique to data science. \n\nOne of the particular challenges arises in sourcing data scientist candidates.\n\nAs we proceed through this lesson, we will cover strategies specifically designed to meet the challenges of staffing and managing a data science practice.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1046318,
+              "key": "e41bfb56-bb1c-4615-b580-786c562e0335",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "e41bfb56-bb1c-4615-b580-786c562e0335",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: The talent and organizational challenges of building a data science practice closely mirror those of building other technology or engineering teams.",
+                "answers": [
+                  {
+                    "id": "a1595176355740",
+                    "text": "True",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1595176425492",
+                    "text": "False",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044737,
+              "key": "01cdebe7-d993-4824-8ad0-4c47226d25fd",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "01cdebe7-d993-4824-8ad0-4c47226d25fd",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Name three educational degree fields that serve as common backgrounds for data scientists."
+              },
+              "answer": {
+                "text": "Data scientists can come from virtually any field -- one of my most talented data scientists was a music theory major! Common backgrounds include Computer Science, Mathematics, Statistics, Economics, Physics, and any other field that has a quantitative component to it.",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038076,
+          "key": "ff7f093e-7ee0-4119-8079-70fd0cc2608e",
+          "title": "Organizational models for Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ff7f093e-7ee0-4119-8079-70fd0cc2608e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037939,
+              "key": "2c32da0b-ed5d-40bc-a9e6-90f97a4b8d35",
+              "title": "Organizational models for Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Organizational models for Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037940,
+              "key": "ea8faee3-3959-4847-ad11-9bde6fc8898a",
+              "title": "ND045 DSBL L03 Organizational Models For Data Science Part 1",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "oMn3vUgJvBI",
+                "china_cdn_id": "oMn3vUgJvBI.mp4"
+              }
+            },
+            {
+              "id": 1047059,
+              "key": "0872e936-1264-4435-ac26-f8d41a0aba9f",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Organizational models for Data Science Summary\n\n**Four key components that characterize data science, organizational models**\n1. The owner of the resources (the business units or a central organization)\n2. Resource allocation (how resources are deployed)\n3. Who does the allocations and makes initiatives?\n4. Who is in control (drives the agenda)?\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051353,
+              "key": "24275290-2145-4fd0-8369-8b8cf330f8d7",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2aa0_key-components/key-components.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/24275290-2145-4fd0-8369-8b8cf330f8d7",
+              "caption": "Key Components of Organizational Structure",
+              "alt": "Key Components of Organizational Structure",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037954,
+              "key": "5d16516a-fd50-4921-840c-254300484036",
+              "title": "ND045 DSBL L03 Organizational Models For Data Science Part 2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "zTPX6tBekPY",
+                "china_cdn_id": "zTPX6tBekPY.mp4"
+              }
+            },
+            {
+              "id": 1037925,
+              "key": "92b90d2e-ca7b-4ed4-be48-6ee582ea7026",
+              "title": "Organizational models for Data Science Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Organizational Models for Data Science\n * Completely Decentralized Data Science Model\n   * Decentralized Functional Model\n   * Decentralized Business Unit Model\n * Completely Centralized Data Science Model\n * Federated Data Science Model\n   * Federated Functional Model\n   * Federated Business Unit-based Model\n  * Federated Central Model\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037942,
+              "key": "ecb4555b-ec6f-4550-9e11-c783b4d47f31",
+              "title": "Organizational models for Data Science Image",
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2c63_org-models/org-models.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/ecb4555b-ec6f-4550-9e11-c783b4d47f31",
+              "caption": "Organizational Models for Data Science",
+              "alt": "Organizational Models for Data Science",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037943,
+              "key": "d857e9ed-101e-45fb-a0d2-b92b88e78332",
+              "title": "Organizational models for Data Science New Terms or Vocabulary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "#### Key Terms\n- **Decentralized Data Science Organization**: Functional areas and business units independently define and manage their data and data science initiatives.\n- **Centralized Data Science Organization**: manages all data and data science-related projects centrally through a group that typically includes a chief data officer.\n- **Federation**: The combination of decentralized and centralized management. ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037917,
+              "key": "0109d0d6-e82d-4eff-b223-2c7bedb43db1",
+              "title": "Organizational models for Data Science Further Research",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Additional Resources\nOrganizational models for Data Science Further Research\nAn alternative specification of data science organizational models is provided by \n- [Accenture: Building Data Analytics-Driven Organizations](https://www.accenture.com/us-en/~/media/accenture/conversion-assets/dotcom/documents/global/pdf/industries_2/accenture-building-analytics-driven-organization.pdf)",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038077,
+          "key": "9391d5b5-638a-4961-8dd5-f8383d618311",
+          "title": "Quizzes: Organizational models for Data Science ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "9391d5b5-638a-4961-8dd5-f8383d618311",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037944,
+              "key": "d2b981e3-c569-4e32-bae5-fa28abded104",
+              "title": "Organizational models for Data Science Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Organizational models for Data Science Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044104,
+              "key": "49c842ce-58ec-4220-a7f5-02303f13e1cb",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "49c842ce-58ec-4220-a7f5-02303f13e1cb",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represents factors that determine the organizational model most appropriate for the data science function in a business?\n\n\n\n",
+                "answers": [
+                  {
+                    "id": "a1594297786467",
+                    "text": "Resource allocation (how resources are deployed)",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297817818",
+                    "text": "Type of approach (supervised or unsupervised) most likely to be adopted",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594297818498",
+                    "text": "Who is in control (drives the agenda)?",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297819074",
+                    "text": "The owner of the resources (business units or a central organization)",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594297819613",
+                    "text": "Who does the allocations and makes initiatives?",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044678,
+              "key": "c054fbc0-5238-4246-b59f-7bb64f50c433",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "c054fbc0-5238-4246-b59f-7bb64f50c433",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "A business has just hired a Chief Data Officer to transition the many data science initiatives that exist across the business as part of a more coordinated strategic effort. This implies a shift from a(n) ___________ organizational data science model to a more  ___________ organizational data science model.",
+                "answers": [
+                  {
+                    "id": "a1594572651062",
+                    "text": "Decentralized; functional",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594572846412",
+                    "text": "Federated; centralized",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594572848068",
+                    "text": "Functional; federated",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594572905769",
+                    "text": "Decentralized; centralized",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038078,
+          "key": "6123a7eb-b647-4294-919d-ae202b662628",
+          "title": "Exercise: Organizational models for Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "6123a7eb-b647-4294-919d-ae202b662628",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037946,
+              "key": "f6afd0e7-62e0-4678-8982-be7355a7fb14",
+              "title": "Organizational models for Data Science Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Organizational models for Data Science Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037947,
+              "key": "d980ced7-7fbf-4fe3-9282-1607166c8688",
+              "title": "Organizational models for Data Science Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate Lesson 4: Exercise 1 : *Organizational Models* in your downloaded template\n\nFor this exercise, identify the organizational model best suited for the data science organization that the business will need in order to deliver on the roadmap *completed in Lesson 2, Exercise* **Keys to Creating a Strategic Roadmap**. \t",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045416,
+              "key": "3fdaf895-4e19-4fe3-9486-4e4c936a8aa9",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "3fdaf895-4e19-4fe3-9486-4e4c936a8aa9",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Do you feel like you are able to identify the model best suited for an organization?",
+                "answers": [
+                  {
+                    "id": "a1594926606245",
+                    "text": "Yes",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594926642006",
+                    "text": "No",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594926646907",
+                    "text": "I was not exactly sure",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038083,
+          "key": "dbd0bfc0-7f12-4906-92fc-b1dd3b89ed40",
+          "title": "Solution: Organizational models for Data Science Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "dbd0bfc0-7f12-4906-92fc-b1dd3b89ed40",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037950,
+              "key": "1a960767-aed1-4835-b72f-f5261273ccaf",
+              "title": "ND045 DSBL L03 Organizational Models For Data Science Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "JsjHEqlg3oM",
+                "china_cdn_id": "JsjHEqlg3oM.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038087,
+          "key": "93d5db84-a209-4cf5-bae9-c58e974f1047",
+          "title": "Who to involve? Identifying Stakeholders and Building Momentum",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "93d5db84-a209-4cf5-bae9-c58e974f1047",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037962,
+              "key": "a1a0e46c-8f4a-4160-ac9d-43fe1a8fdb02",
+              "title": "Who to involve? Identifying Stakeholders and Building Momentum Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who to involve? Identifying Stakeholders and Building Momentum",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037964,
+              "key": "7869d4d9-778d-40b8-b1a6-2b210ab115f3",
+              "title": "ND045 DSBL L03 Who To Involve- Identifying Stakeholders And Building Momentum",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "zOhVVunlgew",
+                "china_cdn_id": "zOhVVunlgew.mp4"
+              }
+            },
+            {
+              "id": 1047060,
+              "key": "b93fdd9b-0b99-4519-8105-8dcad5cf069c",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who to involve? Identifying Stakeholders and Building Momentum Summary\n\nStakeholders tend to be people with contextual knowledge of the business who are closest to the operational goals of the data science program. \nWhat Stakeholders should be considered?\n* Executive stakeholders: \n  - C-suite (CEO; CIO; CMO; COO; CTO)\n  - The business unit leads. \n  - Board members\n* Everybody involved in the day-to-day work to support and execute data science initiatives: \n  - Data scientists \n  - Analysts \n  - Data engineers \n  - Analytics managers/directors\n* Business stakeholders: \n  - Functional area leads \n  - Functional SMEs\n  - Customer Service\n* Technology stakeholders: \n  - IT\n  - Architects\n  - Programmers\n  -Database Administrators\n* External stakeholders: \n  - Customers\n  - Customer Representatives\n  - Client Project Teams\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037973,
+              "key": "51476f86-f83d-471f-9437-d9c10f26c644",
+              "title": "Who to involve? Identifying Stakeholders and Building Momentum Further Research",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Additional Resources\n* [List of Big Data Stakeholders](https://www.stakeholdermap.com/data-analytics-stakeholders.pdf)\n* [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152)",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038054,
+          "key": "55936e09-2143-459c-a6ad-69d944c1461a",
+          "title": "Quizzes: Who to involve? Stakeholders and Momentum",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "55936e09-2143-459c-a6ad-69d944c1461a",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037928,
+              "key": "fb1b9178-ed66-4aec-bdcf-e4bbd783dccf",
+              "title": "Who to involve? Identifying Stakeholders and Building Momentum Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who to involve? Identifying Stakeholders and Building Momentum Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044679,
+              "key": "75bbe3c4-e93e-4c06-b26e-7be0e0caa9ad",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "75bbe3c4-e93e-4c06-b26e-7be0e0caa9ad",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following areas should _always_ be represented as a stakeholder in a data science initiative?",
+                "answers": [
+                  {
+                    "id": "a1594573176014",
+                    "text": "Executive branch",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594573226558",
+                    "text": "Marketing",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594573227303",
+                    "text": "CTO",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594573228045",
+                    "text": "Finance",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594573228701",
+                    "text": "Customers",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044135,
+              "key": "21c33541-aca5-4abf-8d59-51288d927698",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "21c33541-aca5-4abf-8d59-51288d927698",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "We have just discussed the stakeholders who should be involved in data science initiatives. One key stakeholder is the CEO (or Business Unit leader).  If you fail to establish a regular cadence of updates with senior leaders such as the CEO, you may encounter unfortunate circumstances. In your own words, please provide an example of one such outcome that might happen if you fail to provide regular updates? \n"
+              },
+              "answer": {
+                "text": "Two of the most prominent outcomes that might happen as a result of failing to establish an update cadence are as follows:\n* The CEO may forget about your project, leading to disaster if you need more funding/resources or if your project runs into problems.\n* The CEO may begin to pester you and your team for status updates. In the worst instances, you’ll find the CEO bypassing you to talk to your team directly. This can lead to instances of your team reacting to comments or concerns of the CEO directly, which can create problems with your supervision and management.\n",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038090,
+          "key": "9801954e-0d18-4d85-9970-8cb7aa0365f4",
+          "title": "Building the Bench",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "9801954e-0d18-4d85-9970-8cb7aa0365f4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037957,
+              "key": "7cba4500-3dca-4f5b-9454-19201f24e806",
+              "title": "Building the Bench Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Building the Bench",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037921,
+              "key": "caf05175-7169-4e87-85f6-b430d495b1ed",
+              "title": "ND045 DSBL L03 Building The Bench",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Dp0TnxLstM8",
+                "china_cdn_id": "Dp0TnxLstM8.mp4"
+              }
+            },
+            {
+              "id": 1047061,
+              "key": "084ffaf0-73b8-4113-aa1d-0b659e96b9e0",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Key Players to Include in a Data Science Team\n* Data Scientist\n* Machine Learning Specialist\n* Data Analysts\n* Data Engineers\n* Data Visualization Engineer\n* Software Engineer\n* Analytics Translator\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051354,
+              "key": "687d1241-059e-4382-9874-39bf1261b7ae",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2ce7_building-the-bench/building-the-bench.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/687d1241-059e-4382-9874-39bf1261b7ae",
+              "caption": "Building the Bench",
+              "alt": "Building the Bench",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051355,
+              "key": "d5f75fcd-da48-471e-ae6e-a22e1af4e861",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Soft Skills Critical for Data Scientists\n* Skepticism\n* Creativity\n* Perseverance\n* Business acumen\n* Communication\n* Writing\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038036,
+              "key": "0e2fac69-f95e-4782-86c3-0397f9b4650b",
+              "title": "ND045 DSBL L03 Building The Bench Walkthrough",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "qcGZZ0CCxYA",
+                "china_cdn_id": "qcGZZ0CCxYA.mp4"
+              }
+            },
+            {
+              "id": 1051356,
+              "key": "b94379da-fd1d-439d-8b71-22c9284fc04d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Building the Bench Walkthrough Summary\n\nExecutive leadership has allocated eight full-time professional roles for a new data science organization. How might we organize these roles into teams within the organization?\nI would organize my professionals into three groups. First, I would field two project-specific teams to be deployed on individual projects on the roadmap. \nI would also keep a third group of professionals who, at this stage, would float between the two teams. \n\nMy project teams would heavy on data scientists, as the skill set associated with that role tends to be able to complete many of the tasks critical on the road to developing prototypes and proofs of concept. I would not hire only generalists, however -- a machine learning engineer would be a valuable specialist for teams developing data science projects for which machine learning is key. \n\nI would fill my last two positions with a Data Engineer and a Data Visualization Engineer. At this point the goal is to develop working prototypes, so I believe that data engineering and data visualization skills will not yet be in demand enough to allocate full-time specialists in those areas to individual teams. Once our prototypes prove the concept and value of a data science solution, they will be built into production-quality products and applications, at which point my specialist talent base will need to become much more deep.\n\nProject Team 1:\n* Data Scientist\n* Data Scientist\n* Machine Learning Engineer\n\nProject Team 2:\n* Data Scientist\n* Data Scientist\n* Machine Learning Engineer\n\nFloat between the two teams:\n* Data Engineer\n* Data Visualization Engineer\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051357,
+              "key": "288343e9-d711-4671-baa1-761ed70eb4a9",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2d57_building-the-bench-org-chart/building-the-bench-org-chart.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/288343e9-d711-4671-baa1-761ed70eb4a9",
+              "caption": "Building the Bench Org Chart",
+              "alt": "Building the Bench Org Chart",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1047062,
+              "key": "c564ef71-8f54-4b76-8105-379e8ca2f547",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Additional Resources\n* [Soft Skills for Data Scientists](https://towardsdatascience.com/soft-skills-for-data-science-fee73ae4821a)\n* [Soft Skills Will Make or Break You as a Data Scientist](https://towardsdatascience.com/soft-skills-will-make-or-break-you-as-a-data-scientist-7b9c8c47f9b)\n* [The Best Soft Skill for Data Scientists](https://medium.com/@ODSC/the-best-soft-skill-for-data-scientists-1f725e86219a)\n* [Soft Skills Every Data Scientist Must Possess](https://www.datasciencecentral.com/profiles/blogs/soft-skills-every-data-scientist-must-possess)\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038096,
+          "key": "1996ff98-096c-4a8a-bba3-55d7dc77fa21",
+          "title": "Quizzes: Building the Bench",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "1996ff98-096c-4a8a-bba3-55d7dc77fa21",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1051358,
+              "key": "7679756a-a0c6-47e2-b389-989e3bdbfc05",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Quizzes: Building the Bench",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044681,
+              "key": "4dd7c1a8-9852-4cdd-ae3d-1c5c44726c25",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "4dd7c1a8-9852-4cdd-ae3d-1c5c44726c25",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following roles is more likely to contribute to a broad set of multiple projects rather than contribute deeply to one or two projects?\n",
+                "answers": [
+                  {
+                    "id": "a1594575051590",
+                    "text": "Data Scientist",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594575123821",
+                    "text": "Machine Learning Engineer",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594575124579",
+                    "text": "Data Analyst",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594575125286",
+                    "text": "Data Visualization Engineer",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044680,
+              "key": "7c3a87dc-d39a-4b15-a702-1746907b8361",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "7c3a87dc-d39a-4b15-a702-1746907b8361",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: When building a data science practice that will focus primarily on machine learning initiatives, the best initial hire is generally a Machine Learning Engineer.",
+                "answers": [
+                  {
+                    "id": "a1594574830011",
+                    "text": "True",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594574898408",
+                    "text": "False",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038081,
+          "key": "00334ddb-a90d-4966-b1fa-7b21090d13db",
+          "title": "Exercise: Building the Bench ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "00334ddb-a90d-4966-b1fa-7b21090d13db",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037966,
+              "key": "2f8826f4-a5ef-4fd7-be61-0b47393d7f46",
+              "title": "Building the Bench Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Building the Bench Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037967,
+              "key": "4eca81ed-b60a-4148-8693-80e6af57f513",
+              "title": "Building the Bench Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate *Lesson 4: Exercise 2: Building the Bench* in your downloaded template and complete the following:\n\n1. Identify the first ten professional roles for which you would recruit. How would you organize these roles into teams within the organization?\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045098,
+              "key": "77b04b58-4954-4621-bf70-b04d0e141f7e",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/July/5f0f26d9_l3ex1/l3ex1.png",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/77b04b58-4954-4621-bf70-b04d0e141f7e",
+              "caption": "You'll complete this chart in your template document",
+              "alt": "10 ten professional roles to be recruited",
+              "width": 261,
+              "height": 157,
+              "instructor_notes": null
+            },
+            {
+              "id": 1045099,
+              "key": "5302ee4a-d042-4c6c-a2c4-432930b80ae3",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "2. Assume that leadership will allocate four new FTE’s for your data science organization during the current fiscal year. How would you prioritize your organizational buildout?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045100,
+              "key": "e0f51e00-6931-4156-bf9d-b905b46c4adc",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/July/5f0f2823_l3ex1b/l3ex1b.png",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/e0f51e00-6931-4156-bf9d-b905b46c4adc",
+              "caption": "You'll complete this chart in your template document",
+              "alt": "4 new FTE",
+              "width": 237,
+              "height": 94,
+              "instructor_notes": null
+            },
+            {
+              "id": 1045418,
+              "key": "21132de2-a264-4000-a4e6-209e7267f7e6",
+              "title": "",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "21132de2-a264-4000-a4e6-209e7267f7e6",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "The first ten professional roles",
+                "New full time employees"
+              ],
+              "positive_feedback": "Excellent work! Hear what Ed thinks on the next page.",
+              "video_feedback": null,
+              "description": "Were you able to complete both charts completely?"
+            }
+          ]
+        },
+        {
+          "id": 1038058,
+          "key": "a51f331b-9d11-46e6-9255-182ca21b0b2a",
+          "title": "Solution: Building the Bench Exercise ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "a51f331b-9d11-46e6-9255-182ca21b0b2a",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037981,
+              "key": "918382b1-40be-4767-8c38-f7e5b8262a0f",
+              "title": "Building the Bench Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Building the Bench Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037958,
+              "key": "8daaa745-810b-4b5f-afed-acdabd6e4785",
+              "title": "ND045 DSBL L03 Building The Bench Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "upNfSSQdKGQ",
+                "china_cdn_id": "upNfSSQdKGQ.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038056,
+          "key": "06290d47-1b11-4802-8498-370bf5aea997",
+          "title": "Finding the Players",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "06290d47-1b11-4802-8498-370bf5aea997",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037972,
+              "key": "7b2ac94e-bda7-4a33-b590-9c137ef49dc8",
+              "title": "Finding the Players Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Finding the Players",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037968,
+              "key": "bf2fb511-da39-4d2b-9b06-d62421d2b230",
+              "title": "ND045 DSBL L03 Finding The Players",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "AtEvxZrsyRc",
+                "china_cdn_id": "AtEvxZrsyRc.mp4"
+              }
+            },
+            {
+              "id": 1037955,
+              "key": "4436ad3d-1bc8-4d13-9816-378cc1ef5f41",
+              "title": "Finding the Players Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Finding the Players Summary\nA leader sometimes finds herself faced with the need to staff a team in a hurry. People with data science-related skills are in high demand, so be creative and improvise. Some areas you might consider include:\n* Individual Contractors\n* Generalist consultancies (tend to be expensive)\n* High-end boutique (specialist) consultancies\n* Functional-specific consultancies\n* Off-shore consultants\n* **MLaaS**: Machine Learning as a Service\n* Exploit company rotation programs\n* Technical recruiters\n* University/Boot Camp partnerships\n- **Be sure to look inside your organization there may be hidden gems**\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037977,
+              "key": "c993ec2f-bd65-4cd4-b48a-42d31d2be357",
+              "title": "ND045 DSBL L03 Finding The Players Walkthrough",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "2s_AMZTYBcs",
+                "china_cdn_id": "2s_AMZTYBcs.mp4"
+              }
+            },
+            {
+              "id": 1051359,
+              "key": "e9ffa651-8de7-4e02-8bce-2860c73488f3",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Finding the Players Walkthrough Summary\n\nWhen I joined Sears as Chief Data Scientist, the first time I met the CEO he told me “when you come to me, I want to talk about opportunities that are at least a $100 million, margin accretive”.  At the time, my team consisted of the one remaining junior data scientist from a converted Economic Modeling team, and one member of Sears’ management rotation program, a recent MBA grad whose current rotation was with my data science team. \nI needed to scale up fast and began looking for people to join the team. Of course, the market was tight for these highly technical specialists, so I took full advantage of my network to find talent quickly. \nIn addition to traditional channels, I found talent in the following places:\n* A special data science consultancy provided several people.\n* I brought in two more people who were on MBA rotational programs through Sears. \n* I hired one person with an MBA in business analytics as an intern \n* I brought in 3 contractors that I had worked with previously on my Penlink team,  \n* And I filled in technical gaps with team members from an offshore data science consultancy.\n\nAs you can see, I had to get quite creative to fill out the project with the team members needed. \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1047063,
+              "key": "22ee8d81-7be4-4d07-91a1-4f413c0521b5",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Data Science Hackers\n* The Data Science Hacker is a generalist, experienced with many of the technologies required for digitally transformative projects. \n* The Data Science Hacker is literate in multiple specialties and will help you scope out your project with their inquisitive minds and understanding of the big picture. \n* Data Science Hackers apply and combine established packages and open-source examples to get a proof of concept in minimal time, work with the business, interact with end-users, and perform presentations.\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038059,
+          "key": "8561c770-946c-4a2e-82dc-d06e83a24d2d",
+          "title": "Quizzes: Finding the Players Quizzes",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "8561c770-946c-4a2e-82dc-d06e83a24d2d",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044683,
+              "key": "4a9111af-b32e-4b17-bf4f-fcecf99b89cf",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "4a9111af-b32e-4b17-bf4f-fcecf99b89cf",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "We've described the \"Data Science Hacker\" as a role that is often hired before the other team members are in place. In your own words, how would you describe the skillset that characterizes an ideal candidate for this role?"
+              },
+              "answer": {
+                "text": "The Data Science Hacker is a generalist, experienced with many of the technologies required for digitally transformative projects. They tend to be literate in multiple specialties and can help scope out a project with an inquisitive mind and understanding of the big picture.  Data Science Hackers are best able to apply and combine established packages and open-source examples to get a proof of concept in minimal time, work with the business, interact with end-users, and present results that generate excitement and momentum for data science in the business.\n",
+                "video": null
+              }
+            },
+            {
+              "id": 1044682,
+              "key": "1b33806e-27ae-4f3c-a289-eca35eb6fb5a",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "1b33806e-27ae-4f3c-a289-eca35eb6fb5a",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Hiring members of a data science team can take quite a lot of time; sometimes timelines are such that you need to find people to contribute so quickly that hiring is not possible. In your own words, please provide two strategies that you might employ to scale up a data science team in a hurry."
+              },
+              "answer": {
+                "text": "There are many strategies that could help scale teams in a hurry. A few in particular include:\n* Hiring independent contractors rather than full-time data scientists\n* Using data science consultancies\n* Re-skilling and/or up-skilling current employees in other areas of the business who have tech or quant interests and skills\n* Partnering with university programs to offer internships and graduate fellowships\n* Engaging with providers of Machine Learning as a Service (MLaaS) solutions",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038062,
+          "key": "702c7405-8961-49fe-a6b1-2282f40af0ba",
+          "title": "Configuring the Team",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "702c7405-8961-49fe-a6b1-2282f40af0ba",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037996,
+              "key": "f665b198-2004-4aaf-9af6-4b584c096111",
+              "title": "Configuring the Team Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Configuring the Team",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037999,
+              "key": "38af0cdb-b885-4070-810e-34bf695cac34",
+              "title": "ND045 DSBL L03 Configuring The Team",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "RHkUg764_h8",
+                "china_cdn_id": "RHkUg764_h8.mp4"
+              }
+            },
+            {
+              "id": 1047064,
+              "key": "71f6a3ba-06b4-49cf-8f90-aef0674f4710",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Configuring the Team Summary\n\n**Three levels of data science competency represented on the Data Science Heat Map**\n* Apprentice\n* Fellow\n* Master\n\n**Roles represented on the Data Science Heat Map**\n* Core Roles\n * Data Scientist\n * Machine Learning Specialist\n * Data Analysts\n * Data Engineers\n * Data Visualization Engineer\n * Software Engineer\n* Adjunct Roles\n * Full-Stack Engineers\n * Front-End Engineers\n * Back-End Engineers\n * UI/UX Engineer\n * Business Analyst\n * Security Engineer\n* Executive Stakeholders \n * CEO\n * Chief Analytics Officer\n * Chief Data Officer\n * BU Head\n * Functional Area Lead\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051360,
+              "key": "4c162eed-8a15-4270-bf98-cb7b4efc49f6",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2e6b_heat-map-roles/heat-map-roles.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/4c162eed-8a15-4270-bf98-cb7b4efc49f6",
+              "caption": "Heat Map Roles",
+              "alt": "Heat Map Roles",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1038000,
+              "key": "720296df-0d18-4f81-a33e-8033fa61df52",
+              "title": "ND045 DSBL L03 Configuring The Team Walkthrough",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "xGHSrZQlBHI",
+                "china_cdn_id": "xGHSrZQlBHI.mp4"
+              }
+            },
+            {
+              "id": 1051362,
+              "key": "dc47a1b8-6045-4b34-856a-e9dac1362989",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Configuring the Team Walkthrough Summary\n\nLet's walk through an example of how to configure a team, and plan for the future, using the data science heat map. This particular example comes from one of the teams that I built for a medium-sized organization that was just starting out on its data science journey. Recall that the data science heat map specifies individuals involved in data science initiatives according to their specific roles, their levels of experience, and expertise. \n\nIn year one, my priority was building prototypes and delivering on projects that gave quick wins in order to build momentum for the data science practice. \nI knew that I needed the most experience and expertise in my data science roles. As such, I filled two of my open FTEs with data scientists, one a master data scientist who could lead many of the efforts of the team, and a second fellow data scientist who was able to independently lead many aspects of the initial prototypes.  Our prototypes were embedded in machine learning, so I needed a skilled machine learning engineer who I hired at the fellow level. \nWe built our data science products projects into internally focused products. So fellow-level professionals in data visualization and software engineering also played key roles on the first-year team. In this early stage, I did not employ any additional adjunct roles, but I did have as stakeholders the CEO, the chief data officer, and two functional heads, the chief marketing officer and the chief technological officer. \n\nIn year two, I built on the momentum and enthusiasm that we had generated in year one to better fill out the team for developing and hosting models in production. As such, I added two members to the team. The first was a fellow-level data engineer who could build professional-grade ETL pipelines to bring data from disparate silos throughout the organization directly to the point of analytics. I also added a full-stack engineer at the fellow level to the team, whose role was critical in building production-quality applications with embedded data science. \n\nYear three marked a major build-out of our Data Science footprint, mainly through adjunct roles to support our work that was now in production. \nI added three apprentice-level engineers to the team - one a full-stack engineer, a second who specialized in front end engineering, and a third who specialized in back end engineering. I also added a fellow level UI/UX engineer, as we were now working closely with customers to get feedback that informed iterations of the product.  As the team's operational scope grew more expansive, I added a fellow level Product Manager to manage activities.  Finally, as our product became open to external customers accessing the product through a web interface, I contracted with a security engineer who was able to address critical issues around maintaining the security of our product. ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051363,
+              "key": "c93d33a2-7622-40f2-b0f1-574dc423b0ec",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c2eeb_heat-map/heat-map.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/c93d33a2-7622-40f2-b0f1-574dc423b0ec",
+              "caption": "Completed Heat Map",
+              "alt": "Completed Heat Map",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038089,
+          "key": "0e93edba-b9fe-44c2-86f0-3a9328e13dd9",
+          "title": "Quizzes: Configuring the Team ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "0e93edba-b9fe-44c2-86f0-3a9328e13dd9",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1051364,
+              "key": "61627110-8595-442d-894b-266b7796c578",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Quizzes: Configuring the Team ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044684,
+              "key": "8c501f6a-d7ad-42d1-8ecb-2745bc720aac",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "8c501f6a-d7ad-42d1-8ecb-2745bc720aac",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of these is _not_ a level of expertise on the Data Science Heat Map? ",
+                "answers": [
+                  {
+                    "id": "a1594575994566",
+                    "text": "Apprentice",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594576020700",
+                    "text": "Fellow",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594576021521",
+                    "text": "Master",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594576022167",
+                    "text": "Expert",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044685,
+              "key": "3c07ab3c-29b2-4557-8ad0-52fdf9851bf0",
+              "title": "",
+              "semantic_type": "MatchingQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "3c07ab3c-29b2-4557-8ad0-52fdf9851bf0",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "complex_prompt": {
+                  "text": "Please match the roles below with the type of role they fulfill on the Data Science Heat Map"
+                },
+                "concepts_label": "Role",
+                "answers_label": "Section of Data Science Heat Map",
+                "concepts": [
+                  {
+                    "text": "Front-end Engineer",
+                    "correct_answer": {
+                      "id": "a1594576294435",
+                      "text": "Adjunct Role"
+                    }
+                  },
+                  {
+                    "text": "Data Scientist",
+                    "correct_answer": {
+                      "id": "a1594576362149",
+                      "text": "Core Role"
+                    }
+                  },
+                  {
+                    "text": "Full-stack Engineer",
+                    "correct_answer": {
+                      "id": "a1594576362754",
+                      "text": "Adjunct Role"
+                    }
+                  },
+                  {
+                    "text": "Machine Learning Engineer",
+                    "correct_answer": {
+                      "id": "a1594576363296",
+                      "text": "Core Role"
+                    }
+                  },
+                  {
+                    "text": "UI/UX Engineer",
+                    "correct_answer": {
+                      "id": "a1594576363845",
+                      "text": "Adjunct Role"
+                    }
+                  }
+                ],
+                "answers": [
+                  {
+                    "id": "a1594576294435",
+                    "text": "Adjunct Role"
+                  },
+                  {
+                    "id": "a1594576362754",
+                    "text": "Adjunct Role"
+                  },
+                  {
+                    "id": "a1594576362149",
+                    "text": "Core Role"
+                  },
+                  {
+                    "id": "a1594576363845",
+                    "text": "Adjunct Role"
+                  },
+                  {
+                    "id": "a1594576363296",
+                    "text": "Core Role"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038071,
+          "key": "d11d29ef-b428-437f-86de-676475d089eb",
+          "title": "Managing the Process",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "d11d29ef-b428-437f-86de-676475d089eb",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037992,
+              "key": "9f3e369c-0486-4c03-8efa-a06ad2c4c1b3",
+              "title": "Managing the Process Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Managing the Process",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037984,
+              "key": "fc9d4ab1-6951-42b9-bfa0-f37e378c9e53",
+              "title": "ND045 DSBL L03 Managing The Process",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "-dniOnzJYP0",
+                "china_cdn_id": "-dniOnzJYP0.mp4"
+              }
+            },
+            {
+              "id": 1047099,
+              "key": "90d0a0a8-4bfe-4fc5-aab2-841e0def6626",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Managing the Process Summary\n\n**Three Project Management Paradigms Common to Data Science**\n* **Waterfall**: A project management process that is linear in nature where one phase must be done before moving on the next.\n* **Agile**: A project management process that is much more flexible and iterative. Work is prioritized and often completed in short time frames known as \"Sprints\".\n* **Wagile**: This term refers to teams as they transition from Waterfall to Agile.\n\n**Four levels of task structure in Ed's combination of OKR and Agile frameworks**\n1. Goals (Objectives)\n2. Key Results\n3. Epics\n4. Tasks\n\n### Additional Resources\n- [Waterfall Overview](http://www.datascience-pm.com/waterfall/)\n- [Waterfall or Agile? The best methodology for AI and machine learning](https://datascienceathome.com/waterfall-or-agile-the-best-methodology-for-ai-and-machine-learning/)\n- [Manifesto for Agile Software Development](https://agilemanifesto.org/)\n- [Atlassian's Agile Resources](https://www.atlassian.com/agile)\n- [Wagile - when a combination of Waterfall and Agile works](https://rescuecrm.com/wagile-when-a-combination-of-waterfall-and-agile-works/)\n- [Atlassian on Agile vs. Waterfall](https://www.atlassian.com/agile/project-management/program)\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038068,
+          "key": "02e0d7aa-5b0e-4144-a179-4acab4f77693",
+          "title": "Quizzes: Managing the Process",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "02e0d7aa-5b0e-4144-a179-4acab4f77693",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1051365,
+              "key": "fe02d4da-0098-4971-855b-9a95d3096e06",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Quizzes: Managing the Process",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044686,
+              "key": "78b9f271-756b-4979-8228-9731597126b2",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "78b9f271-756b-4979-8228-9731597126b2",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ a project management methodology that can be used to manage the data science process?",
+                "answers": [
+                  {
+                    "id": "a1594577051136",
+                    "text": "Wagile",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594577092379",
+                    "text": "Agile",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594577093248",
+                    "text": "Scrum",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594577093786",
+                    "text": "Waterfall",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044690,
+              "key": "eb31e743-2f4f-4d8a-acd6-8811034642f5",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "eb31e743-2f4f-4d8a-acd6-8811034642f5",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "In traditional Agile methodology, software development work is managed and allocated to developers at two-week intervals called sprints. What is the *primary* drawback of using sprints to manage work in a data science context?\n",
+                "answers": [
+                  {
+                    "id": "a1594577313785",
+                    "text": "Data science tasks may require more than one person ",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594577338940",
+                    "text": "Data science tasks may require more than two weeks to complete",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594577339575",
+                    "text": "Data science tasks are more speculative in nature than traditional software development tasks",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594577340079",
+                    "text": "Data science tasks require a greater degree of quantitative skills than traditional software development tasks",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038064,
+          "key": "49abb1db-ed1d-49eb-ada7-35180aec3fb8",
+          "title": "Structured Problem Solving Method",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "49abb1db-ed1d-49eb-ada7-35180aec3fb8",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038009,
+              "key": "bf49afee-7b68-4965-ac43-212691ee35cf",
+              "title": "Structured Problem Solving Method Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Structured Problem Solving Method",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038028,
+              "key": "e77d5263-a9b1-46dd-85a2-1e713c2cf259",
+              "title": "ND045 DSBL L03 Structure Problem Solving Method",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "v7SBvW2RaJg",
+                "china_cdn_id": "v7SBvW2RaJg.mp4"
+              }
+            },
+            {
+              "id": 1047100,
+              "key": "a1c717d8-c928-4aa0-adff-a10903053bee",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Structured Problem Solving Method Summary\n\n**Three tools for structured problem solving:**\n\nThese are some fantastic strategies to use to help scope your work properly.\n1. **MECE Principle**: Mutually Exclusive, Collectively Exhaustive\n2. Issue Tree\n3. 80/20 Rule (Pareto Principle)\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038085,
+          "key": "1d3b5500-591d-4bd2-8ddf-1dc3c2c4e3cc",
+          "title": "Quizzes: Structured Problem Solving Method ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "1d3b5500-591d-4bd2-8ddf-1dc3c2c4e3cc",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044694,
+              "key": "b3dbce19-884d-454b-88ee-1a4c1d66c30c",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b3dbce19-884d-454b-88ee-1a4c1d66c30c",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "One way to break up an assessment of a business's data science opportunities is to consider areas of the Income Statement; in particular, you might identify opportunities as being relevant to decreasing costs or increasing revenues.  Does this approach hold up to the principle of MECE?",
+                "answers": [
+                  {
+                    "id": "a1594577900383",
+                    "text": "Yes",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594578027407",
+                    "text": "No",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044704,
+              "key": "eed95c93-c2a1-4a69-8498-39697f89077d",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "eed95c93-c2a1-4a69-8498-39697f89077d",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ a desired outcome of using the 80/20 rule (Pareto Principle) to prioritize your work?",
+                "answers": [
+                  {
+                    "id": "a1594578426839",
+                    "text": "More likely to focus on the highest-impact cases",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594578483156",
+                    "text": "Greater return on effort",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594578483827",
+                    "text": "Ensures that no cases are excluded from consideration",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594578484630",
+                    "text": "Greater efficiency",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038097,
+          "key": "5cb8d4d5-5f33-48e2-a53c-c44595edc77e",
+          "title": "Synthesis with Actionable Insights and Storytelling with Data",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "5cb8d4d5-5f33-48e2-a53c-c44595edc77e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037932,
+              "key": "2c25ddb4-5342-405e-ba78-d54282a777ae",
+              "title": "Synthesis with Actionable Insights and Storytelling with Data Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Synthesis with Actionable Insights and Storytelling with Data",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038033,
+              "key": "39c64ac6-a00d-4dcd-a732-7d4de3bf51ec",
+              "title": "ND045 DSBL L03 Synthesis With Actionable Insights And Storytelling With Data",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "G-eNAIZxIBI",
+                "china_cdn_id": "G-eNAIZxIBI.mp4"
+              }
+            },
+            {
+              "id": 1047108,
+              "key": "0cfb5e7c-fa31-4192-bd57-d8c030a52d24",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Synthesis with Actionable Insights and Storytelling with Data Summary\nThere are many methods for creating impactful presentations that will help hook your audience, gain their attention, and get results. These are a couple of strategies I recommend:\n- **Barbara Minto's Pyramid Principle** is great for communicating with executive leaders who tend to have shorter attention spans and therefore must be given the most important information first. You can learn more about that method in the links below.\n- **JD Schramm’s Seven-part Formula for Storytelling Success in Presentations and Business meetings.** is helpful in communicating about data science initiatives particularly. Below are the parts of this framework. There is more information linked below on this method as well. \n\n\n1. Parachute in, don’t preamble. \n2. Choose the first and final words carefully. \n3. Follow the “Goldilocks” theory of details. \n4. Focus your delivery on “one person with one thought.” \n5. Consider the power of poetry. \n6. Use silence for impact and emphasis. \n7. Know your AIM (Audience, Intent, Message)\n\n## Additional Resources\n- [Barbara Minto's Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) \n- [A Refresher on Storytelling 101](https://hbr.org/2014/10/a-refresh-on-storytelling-101)",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051369,
+              "key": "3bf2e144-4030-4589-9e69-cc73ed4632f7",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c31a5_mintos-principles/mintos-principles.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/3bf2e144-4030-4589-9e69-cc73ed4632f7",
+              "caption": "Minto's Pyramid Principle",
+              "alt": "Minto's Pyramid Principle",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051370,
+              "key": "801043e3-9b69-4d8d-87b2-744c86280491",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c315e_schrams-7-part-formula-for-storytelling/schrams-7-part-formula-for-storytelling.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/801043e3-9b69-4d8d-87b2-744c86280491",
+              "caption": "Schramm's 7 Part Formula for Storytelling",
+              "alt": "Schramm's 7 Part Formula for Storytelling",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038093,
+          "key": "298cf9b7-b07d-4072-a807-68ba3970e9ec",
+          "title": "Quizzes: Synthesis and Storytelling with Data",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "298cf9b7-b07d-4072-a807-68ba3970e9ec",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044705,
+              "key": "dc89ed12-1e95-4f5f-ba1c-6c3459a9ffca",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "dc89ed12-1e95-4f5f-ba1c-6c3459a9ffca",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represents a framework for providing information to support ideas to be communicated?",
+                "answers": [
+                  {
+                    "id": "a1594578852710",
+                    "text": "Pyramid Principle",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594578917877",
+                    "text": "Schramm’s Seven Steps",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594578918557",
+                    "text": "MECE Principle",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594578919104",
+                    "text": "80/20 Rule",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044706,
+              "key": "0766c9ae-cd6b-4470-8870-f65e2bf995b7",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "0766c9ae-cd6b-4470-8870-f65e2bf995b7",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ one of Schramm’s Seven Rules of Storytelling with Data?",
+                "answers": [
+                  {
+                    "id": "a1594579301572",
+                    "text": "Support ideas with clarity.",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594579317369",
+                    "text": "Consider the power of poetry.",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594579318094",
+                    "text": "Parachute in, don’t preamble. ",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594579318746",
+                    "text": "Know your AIM. ",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038092,
+          "key": "ccf4c513-657b-4b56-95f3-a10e854b3de4",
+          "title": "Fostering a Data-driven Culture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ccf4c513-657b-4b56-95f3-a10e854b3de4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037980,
+              "key": "91560f42-a6d2-4ed6-b469-16ed5c58918a",
+              "title": "Fostering a Data-driven Culture Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Fostering a Data-driven Culture",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038045,
+              "key": "834f69a5-76ec-4a48-ba76-78fcc217deaf",
+              "title": "ND045 DSBL L03 Fostering A Data-Driven Culture",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "wlbhe_Vz4A4",
+                "china_cdn_id": "wlbhe_Vz4A4.mp4"
+              }
+            },
+            {
+              "id": 1047110,
+              "key": "5c7a3cd9-cd33-41c9-868b-b07969182b0d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Fostering a Data-driven Culture Summary\n**Tips for Fostering a Data Drive Culture**\n* Data-driven culture starts at the (very) top. \n* Choose metrics with care — and cunning. \n* Don’t pigeonhole your data scientists. \n* Fix basic data-access issues quickly. \n* Quantify uncertainty. \n* Make proofs of concept simple and robust, not fancy and brittle. \n* Specialized training should be offered just in time. \n* Use analytics to help employees, not just customers. \n* Be willing to trade flexibility for consistency \n* Get in the habit of explaining analytical choices. \n\n## Additional Resources\n- [David Waller's 10 Steps to Creating a Data-Driven Culture (HBR, 2020)](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture)",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038099,
+          "key": "58466db1-d871-4e7e-a1f9-0b29c260a14b",
+          "title": "Quizzes: Fostering a Data-driven Culture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "58466db1-d871-4e7e-a1f9-0b29c260a14b",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1051371,
+              "key": "5795e094-155e-43a2-affb-7f28dad987a2",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Quizzes: Fostering a Data-driven Culture",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044707,
+              "key": "baf8f833-37d1-4bc6-9e3d-ad580198e011",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "baf8f833-37d1-4bc6-9e3d-ad580198e011",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ a principle for fostering a data-driven culture?",
+                "answers": [
+                  {
+                    "id": "a1594580344658",
+                    "text": "Don’t pigeonhole your data scientists. ",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594580370304",
+                    "text": "Make proofs of concept simple and robust.",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594580370761",
+                    "text": "Employ analytics as a tool to help customers. ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594580371209",
+                    "text": "Fix basic data-access issues quickly. ",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044708,
+              "key": "b9249524-360a-4f9e-943a-b6f79565d966",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b9249524-360a-4f9e-943a-b6f79565d966",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is a desirable outcome of requiring teams to be explicit and quantitative about their levels of uncertainty?",
+                "answers": [
+                  {
+                    "id": "a1594580854787",
+                    "text": "Leaders are held accountable for the results of efforts when they have to consider sources of uncertainty",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594580893687",
+                    "text": "Analysts gain a deeper understanding of their models when they have to rigorously evaluate uncertainty",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594580894395",
+                    "text": "An emphasis on understanding uncertainty pushes organizations to run experiments",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594580895345",
+                    "text": "It forces decision makers to grapple directly with potential sources of uncertainty",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038082,
+          "key": "bd27ac5e-19c8-437d-8dd2-ab602a0f9484",
+          "title": "Exercise: Fostering a Data-driven Culture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "bd27ac5e-19c8-437d-8dd2-ab602a0f9484",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038049,
+              "key": "dcd1a2ee-4ff8-4936-b89f-5adcf6b665c0",
+              "title": "Fostering a Data-driven Culture Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Fostering a Data-driven Culture Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045551,
+              "key": "465ebb86-2ec1-4e0b-adf5-e6da1d285c68",
+              "title": "",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "465ebb86-2ec1-4e0b-adf5-e6da1d285c68",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Initiative 1",
+                "Initiative 2",
+                "Initiative 3",
+                "Initiative 4",
+                "Initiative 5"
+              ],
+              "positive_feedback": "Awesome job on this part, these might have been hard to complete. Head to the next section so see how you did!",
+              "video_feedback": null,
+              "description": "Please locate Lesson 4: Exercise 3: Fostering a Data-driven Culture in your downloaded template\n\nDetail six individual initiatives that you would recommend a business to undertake in order to promote a data-driven culture."
+            }
+          ]
+        },
+        {
+          "id": 1038066,
+          "key": "d1b52285-82b9-4096-85e2-e4e1bd369d4e",
+          "title": "Solution: Fostering a Data-driven Culture Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "d1b52285-82b9-4096-85e2-e4e1bd369d4e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037982,
+              "key": "3d13e9e8-7e86-488c-abf1-d5ff5bd3376e",
+              "title": "Fostering a Data-driven Culture Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Fostering a Data-driven Culture Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038010,
+              "key": "4649d5d9-9585-48ab-b58d-a669bf392913",
+              "title": "ND045 DSBL L03 Fostering A Data-Driven Culture Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "2L7GlXApfPA",
+                "china_cdn_id": "2L7GlXApfPA.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038069,
+          "key": "8968b714-dd28-4ca2-8570-5a44dfaddf43",
+          "title": "Lesson Conclusion",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "8968b714-dd28-4ca2-8570-5a44dfaddf43",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038017,
+              "key": "939a45c9-2d09-4dab-aae9-3a5933bb2d40",
+              "title": "Lesson Conclusion Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038025,
+              "key": "1ac466b2-c5a8-4d34-bfbf-f68f39c9e35e",
+              "title": "ND045 DSBL L03 Lesson Conclusion",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "F7rtQA2t6rk",
+                "china_cdn_id": "F7rtQA2t6rk.mp4"
+              }
+            },
+            {
+              "id": 1038013,
+              "key": "f071b144-0928-48df-b422-4e837473804c",
+              "title": "Lesson Conclusion Text",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion Summary\nWe have come to the end of our lesson on the **human capital of data science**. \n\nHere is what we have covered:\n\n**Organizing People**:\n- Organizational models, and how the data science organization might be organized within the company. \n- Identifying stakeholders and building momentum, as well as building the bench of data science professionals. \n- How to find the right people for your data science team, and how to configure that team, using the data science heat map. \n\nOnce we have the people on board we need to have a process by which they carry out data science projects. To this end we discussed \n- How product management frameworks such as Agile, Waterfall, and Wagile will help structure your day to day activities as you execute a data science project. \n- Implementing tools for structured problem solving\n- Applying Mintos’s and Schramm’s frameworks for synthesizing with actionable insights and storytelling with data. \n- Implementing strategies for fostering a data-driven culture, something that is key to an organization's ability to truly become data-driven. \n\nIn the next lesson, we will discuss the technological infrastructure that needs to be put in place to support data science initiatives. I look forward to seeing you there!\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051373,
+              "key": "ac0da908-e760-4e21-83e0-6073f80f2768",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Recap",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051372,
+              "key": "ce9a0cfe-e97d-4cf8-a41c-538bcd803fff",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c32b4_l3-recap/l3-recap.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/ce9a0cfe-e97d-4cf8-a41c-538bcd803fff",
+              "caption": "Lesson Recap",
+              "alt": "Lesson Recap",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038072,
+          "key": "690fb48c-b629-47a9-bbae-fe6a774b4774",
+          "title": "Lesson Glossary and Additional Resources",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "690fb48c-b629-47a9-bbae-fe6a774b4774",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038023,
+              "key": "7fc90c32-ca50-493a-b985-1bbabb9f8422",
+              "title": "Lesson Glossary and Additional Resources Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary and Additional Resources",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038019,
+              "key": "578a3204-659d-4bfb-ae8f-251309cb7e98",
+              "title": "Glossary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Glossary\n|**Key Term**| **Definition**| \n|--------------|---------------------|\n|Agile| A project management process that is much more flexible and iterative. Work is prioritized and often completed in short time frames known as \"Sprints\".|\n|Centralized Data Science Organization| manages all data and data science-related projects centrally through a group that typically includes a chief data officer.|\n|Decentralized Data Science Organization| Functional areas and business units independently define and manage their data and data science initiatives.|\n|Federation| The combination of decentralized and centralized management. |\n|MECE Principle| Mutually Exclusive, Collectively Exhaustive|\n|MLaaS| Machine Learning as a Service|\n|Wagile| This term refers to teams as they transition from Waterfall to Agile.|\n|Waterfall| A project management process that is linear in nature where one phase must be done before moving on the next.|",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

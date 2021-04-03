@@ -1,0 +1,946 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1037544,
+      "key": "2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c",
+      "title": "Introduction to Data Science for Business Leaders",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "In this lesson, you'll meet your  instructor and learn about what this course is going to cover.",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c/1037544/1597756650272/Introduction+to+Data+Science+for+Business+Leaders+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/2e0a3639-bd2a-42fa-8d9b-d38ad2a75a4c/1037544/1597756641888/Introduction+to+Data+Science+for+Business+Leaders+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Course Glossary",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31d902_dsbl-course-glossary/dsbl-course-glossary.pdf"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1037530,
+          "key": "7adac5eb-f935-4fd0-8ef7-2c602ae2b218",
+          "title": "Meet Your Instructor",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "7adac5eb-f935-4fd0-8ef7-2c602ae2b218",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037485,
+              "key": "537fd16f-3dd7-4530-bbbc-4281a4ec3e7c",
+              "title": "Meet Your Instructor Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Meet Your Instructor Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037482,
+              "key": "546d40ae-0688-4128-821a-240c7b89ebe5",
+              "title": "ND045 DSBL L00 Introduction",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "nhPJsiHQmm8",
+                "china_cdn_id": "nhPJsiHQmm8.mp4"
+              }
+            },
+            {
+              "id": 1037490,
+              "key": "61ca4a84-5340-48e9-bf35-9fe9737e9f0c",
+              "title": "Meet Your Instructor Text",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Ed Wiley, Ph.D.**\n\nHi, I'm Ed, your instructor for this class.\n\nI have over 20 years of experience building data science teams and leading data science initiatives across companies both large and small. I built the first Big Data team at Seagate and served as Chief Data Scientist for Sears and Kmart; I've also built teams for startups such as Nurx and Enveda Therapeutics.  I often keynote and present workshops on data sciences at conferences, and have written and published a book on implementing artificial intelligence, data science, and machine learning (_Artificial Intelligence: from Buzzword to Business Function._)  \n\nPrior to building my first data science team, I chaired a doctoral program in social science research methods as a faculty member at the University of Colorado, Boulder. I studied under some of the pioneers of machine learning during my doctoral studies at Stanford and also spent several years as a McKinsey management consultant in San Francisco. You can find me on LinkedIn (https://www.linkedin.com/in/edwileyphd) and Twitter (**@WileyEd**), where I post often about data science and machine learning.\n\nI'm delighted to bring this course to you through Udacity. I hope you enjoy it!\n\nGood luck!",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050645,
+              "key": "c449dafa-dd35-473f-aa2b-bf356172dc40",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac59c_instructor/instructor.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/c449dafa-dd35-473f-aa2b-bf356172dc40",
+              "caption": "Ed Wiley, Your Instructor",
+              "alt": "Ed Wiley, Your Instructor",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037535,
+          "key": "c064ea57-a363-48f7-bc02-d01447c01642",
+          "title": "Prerequisites",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "c064ea57-a363-48f7-bc02-d01447c01642",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037491,
+              "key": "1a32a0d4-1bb4-4256-91b8-9d1a65445f4f",
+              "title": "Prerequisites Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Prerequisites Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037514,
+              "key": "f4ad0b85-25f8-497e-bee8-4559d9a5f2e6",
+              "title": "ND045 DSBL L00 Course Prerequisites",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "AdjOijJzlgM",
+                "china_cdn_id": "AdjOijJzlgM.mp4"
+              }
+            },
+            {
+              "id": 1050660,
+              "key": "8640e798-f943-4979-afe1-6adc5decf879",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Course Prerequisites",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050661,
+              "key": "d43f44c2-cb0b-421e-8ba9-ea1a2b7b4810",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ae889_course-prereqs/course-prereqs.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/d43f44c2-cb0b-421e-8ba9-ea1a2b7b4810",
+              "caption": "Course Prerequisites",
+              "alt": "Course Prerequisites",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037484,
+              "key": "26190a18-fa6b-4b44-867b-0dbc9732cc3e",
+              "title": "Prerequisites Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Prerequisite Skills**\n\nA well-prepared student for this program:\n* Will have had some prior exposure to statistics and probability in an academic or professional setting\n* Will have spent time in a business setting being involved in business decision-making and technical/IT projects.\n* Will understand the process of aligning business initiatives/decisions to a business’s top-of-line strategic objectives\n\nAlthough data science has foundations in math and computer science, no technical background is assumed or required for this course.  For those of you who would like to dive more deeply into the technical/mathematical aspects of data science, I have provided references for additional reading throughout.",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037543,
+          "key": "5177f0bc-9cba-4c82-80a0-9cc73f11d72e",
+          "title": "Introduction to Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "5177f0bc-9cba-4c82-80a0-9cc73f11d72e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037492,
+              "key": "9aa27a05-ab50-4dce-b1dc-e7dde98d0bc9",
+              "title": "Introduction to Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Introduction to Data Science Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037483,
+              "key": "270509dd-ed1a-481d-9b3f-356453fc2443",
+              "title": "ND045 DSBL L00 What Is Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "BcN7U_ZK82I",
+                "china_cdn_id": "BcN7U_ZK82I.mp4"
+              }
+            },
+            {
+              "id": 1046772,
+              "key": "7cf7c385-7e0d-4ee6-a4e2-66ac5bbe6f6d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Introduction to Data Science Summary\nData science is a field of inquiry that focuses on extracting meaningful insights from data. \n\nFor our purposes, data science will serve as an umbrella term that includes the subfields of artificial intelligence, machine learning, and data analytics. \n\nSuccess in data science generally requires some combination of the following:\n* Business or domain expertise\n* Knowledge of mathematics and statistics\n* Some degree of programming skills\n* \"Soft\" skills such as communication and storytelling skills\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1046573,
+              "key": "2f48c667-07e5-4562-8565-9d10fd8b6ac7",
+              "title": "The definition of Data Science",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "2f48c667-07e5-4562-8565-9d10fd8b6ac7",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Data Science is a field of study in which we can extract meaningful insights from data through a combination of which of the following?",
+                "answers": [
+                  {
+                    "id": "a1595261074403",
+                    "text": "Domain expertise",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1595261118884",
+                    "text": "Programming skills",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1595261120018",
+                    "text": "Random guessing",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1595261120918",
+                    "text": "Knowledge of mathematics and statistics",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037532,
+          "key": "262d95d9-8f21-4c5c-ae40-8b827e9a7363",
+          "title": "Data Science Is Important",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "262d95d9-8f21-4c5c-ae40-8b827e9a7363",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037513,
+              "key": "7c1bedbe-4ecd-4dbf-b1f3-a52efc32d1e5",
+              "title": "Data Science Is Important Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Is Important Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037495,
+              "key": "19a5656d-04b6-43dd-9859-a02cba7d0cf4",
+              "title": "ND045 DSBL L00 Why Is Data Science Important",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "lpL2a-63E9M",
+                "china_cdn_id": "lpL2a-63E9M.mp4"
+              }
+            },
+            {
+              "id": 1037494,
+              "key": "15e53d9e-917a-46b5-bc6c-db46e678f136",
+              "title": "Data Science Is Important Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Is Important Summary\n\n*  A 2020 survey by the analyst firm Cognilytica revealed that nearly 90% of respondents indicated that they will have some sort of in-progress AI implementation within the next two years [Cognilytica, 2020](https://www.cognilytica.com/2020/01/22/global-ai-adoption-trends-forecast-2020/) \n*  86 percent of executives say their organizations have been at best only somewhat effective at meeting the primary objective of their data and analytics programs, including more than one-quarter who say they’ve been ineffective [McKinsey, 2016](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/the-need-to-lead-in-data-and-analytics) \n*  Additional detail regarding the state of adoption of data science and artificial intelligence can be found in this McKinsey survey of the data science landscape. [McKinsey, 2019](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact) ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050648,
+              "key": "284e3fa5-a3f3-4447-a044-5f09987630c5",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac670_data-science-stats/data-science-stats.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/284e3fa5-a3f3-4447-a044-5f09987630c5",
+              "caption": "Importance of Data Science",
+              "alt": "Importance of Data Science",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037531,
+          "key": "3905068d-3122-4e6c-b1ba-13cf4ad61a3d",
+          "title": "Business Stakeholders",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "3905068d-3122-4e6c-b1ba-13cf4ad61a3d",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037486,
+              "key": "ce586cd1-c42c-4b16-adfd-b4329f0f6cc3",
+              "title": "Business Stakeholders Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Business Stakeholders Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037497,
+              "key": "f0144f22-a84d-410a-a420-e5fed7ad7dcc",
+              "title": "ND045 DSBL L00 Key Stakeholders",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "uYn8zJnxme8",
+                "china_cdn_id": "uYn8zJnxme8.mp4"
+              }
+            },
+            {
+              "id": 1037500,
+              "key": "76fc49bc-0531-4c51-913d-0f0d0b80fde0",
+              "title": "Business Stakeholders Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Business Stakeholders Summary\nStakeholders for data science projects include:\n* Senior leadership (CEO or Business Unit Head)\n* Functional area representatives (e.g., Marketing, Finance, Human Resources, Manufacturing)\n* Technical area representatives (Data, DevOps, Engineering)\n* Voice of the Customer\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050649,
+              "key": "ebcd6854-0683-4c4b-bc58-554fbed28035",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac692_stakeholders/stakeholders.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/ebcd6854-0683-4c4b-bc58-554fbed28035",
+              "caption": "Key Stakeholders",
+              "alt": "Key Stakeholders",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1044721,
+              "key": "d5a58e53-de3b-4db3-8f81-b4644feebb77",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "d5a58e53-de3b-4db3-8f81-b4644feebb77",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following can serve as business stakeholders for data science projects? Select all that apply\n",
+                "answers": [
+                  {
+                    "id": "a1594653994683",
+                    "text": "Business Unit heads",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654004684",
+                    "text": "Chief Marketing Officer",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654005312",
+                    "text": "Chief Technology Officer",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654005803",
+                    "text": "Chief Executive Officer",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654006311",
+                    "text": "Facilities Manager",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1595261761569",
+                    "text": "Director of Procurement",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037540,
+          "key": "667e9799-1c42-49a3-9313-2cc369ea2949",
+          "title": "When to Use or Not Use Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "667e9799-1c42-49a3-9313-2cc369ea2949",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037496,
+              "key": "464ed722-f77a-42a2-a340-b7500ee6effc",
+              "title": "When to use or not use Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## When to Use or Not Use Data Science Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037522,
+              "key": "78725f3d-e7d8-4479-ac05-248d31ba7567",
+              "title": "ND045 DSBL L00 When To Use Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "1JzEnfj0O7Q",
+                "china_cdn_id": "1JzEnfj0O7Q.mp4"
+              }
+            },
+            {
+              "id": 1037493,
+              "key": "cbf414c9-9d5f-49ad-bdd4-c14b4ee3d1f8",
+              "title": "When to use or not use Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## When to Use or Not Use Data Science Summary\n\nIn general, data science initiatives are most appropriate when:\n* Data to support the initiative is available and accessible; \n* The initiative aligns with the strategic priorities of the organization; \n* The organization has the right human capital to carry out the initiative; and \n* The organization has the right technical architecture in place to support the initiative.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044722,
+              "key": "232e3d45-8ffc-4985-9ba6-660ff8d8e4d1",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "232e3d45-8ffc-4985-9ba6-660ff8d8e4d1",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: Virtually any business has the opportunity to leverage data science to improve its operations.",
+                "answers": [
+                  {
+                    "id": "a1594654326098",
+                    "text": "True",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654370704",
+                    "text": "False",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037542,
+          "key": "d911c129-3e1a-451d-bbbe-daf85cff6456",
+          "title": "History of Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "d911c129-3e1a-451d-bbbe-daf85cff6456",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037518,
+              "key": "84a9d8f0-8013-44a4-b6f6-357ebcf03610",
+              "title": "History of Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## History of Data Science Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037525,
+              "key": "25ebd671-1299-4ce7-97ad-31939d503796",
+              "title": "ND045 DSBL L00 History Of Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "pYi3BEv0p34",
+                "china_cdn_id": "pYi3BEv0p34.mp4"
+              }
+            },
+            {
+              "id": 1037498,
+              "key": "8bdd7567-6000-4f43-ab0d-7f320743e627",
+              "title": "History of Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## History of Data Science Summary\n\nSome key milestones in the history of Data Science and AI:\n* During World War II, Alan Turing, a British computer scientist, deciphered the German “Enigma” code. \n* In 1940, science fiction writer Isaac Asimov published the first of a series of short stories that would eventually be collected in the 1950 book I, Robot, which postulated intelligent robots and the three rules of robotics. \n* In 1950, Turing set the bar for general artificial intelligence by proposing a computer that would be indistinguishable from a human player. This has become known as the Turing Test. \n* A machine called Ferranti Mark 1 mastered checkers in 1951. \n* In a paper for the 1956 Dartmouth Conference (the first artificial intelligence conference), John McCarthy created the term “Artificial Intelligence”. He also created the LISP programming language which for decades was the lingua franca of machine learning. \n*In 1956, AI researchers such as Marvin Minsky (who founded the AI Laboratory at MIT) focused on a “top-down” approach by programming computers with human behavioral rules. \n* In 1968, the movie 2001: A Space Odyssey featured HAL 9000, an intelligent computer. Marvin Minsky served as an advisor for the movie. \n* Shakey the Robot, which was the first general-purpose mobile robot, made its appearance in 1969. This robot could make decisions based on its perceptions of the surroundings. \n* In 1973, a period known as the “AI Winter” resulted from huge drops in funding because AI initiatives to date hadn’t lived up to expectations. \n* Research into narrow AI, also known as expert systems, started in 1981. These systems focused on providing solutions to specific tasks. Digital Equipment Corporation was among the companies that were successful at narrow AI systems. Successes such as these helped bring the end of the AI Winter. \n* In 1990, Rodney Brooks focused on a “bottom-up” approach to AI by laying the groundwork for the development of neural networks. \n* Later in the 1990s, the Japanese government supported an initiative to develop what they called a fifth-generation computer which used parallel computing to use concurrent logic programming for AI. \n* The Supercomputer Deep Blue (created by IBM) beat chess Grand Master Garry Kasparov in 1997. \n* The bursting of the dotcom bubble in the early 2000s brought a retreat in funding for AI.\n* In 2002, Roomba created the iRobot, an autonomous vacuum cleaner that learned the layout of the owner’s home. \n* The US military began investing in autonomous robots in 2004 and 2005. \n* In 2008, Google released a speech recognition application on the iPhone. \n* At the Shanghai 2010 World Expo, 20 NAO robots danced together. \n* IBM’s Watson emerged victorious over two of the world’s all-time best Jeopardy players in 2011. \n* In 2013, the idea of a robotic exoskeleton for soldiers – known as the Tactical Light Operator Suit (TALOS) – was proposed by the US Special Operations Command. Challenges such as dealing with the weight of power sources sufficient for the suit led the project to be shut down in 2019. \n* In 2014, the Eugene Goostman chatbot is reported to have passed the Turing Test. \n* In 2017, Google’s DeepMind AlphaGo defeated the world’s best Go champion. \n* In 2019, Google’s Alphastar defeated professional Starcraft II players with a score of 10-0. \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050650,
+              "key": "6082e7c1-9b1b-428a-beb3-5377b477c5c5",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac6b8_ai-timeline/ai-timeline.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/6082e7c1-9b1b-428a-beb3-5377b477c5c5",
+              "caption": "History of Data Science Timeline",
+              "alt": "History of Data Science Timeline",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051694,
+              "key": "b9617730-18be-482a-97d2-4d1306362688",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b9617730-18be-482a-97d2-4d1306362688",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Choose the statement below that most accurately reflects the cause of data science and machine learning to emerge in prominence over the last decade.",
+                "answers": [
+                  {
+                    "id": "a1596813041049",
+                    "text": "The field of Data Science has seen several booms and winters, with cycles alternating as hype and excitement rises.",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1596813101000",
+                    "text": "Although data science, artificial intelligence, and machine learning have risen to prominence in over the last decade, the mathematical and philosophical roots of these technologies date back to the middle of the last century. ",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1596813103328",
+                    "text": "Data science is rising in the hype cycle.",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1596813104369",
+                    "text": "Many of the machine learning techniques in use today, were originally proposed in  decades ago, but have only become feasible in practice as computing power has increased and computing costs have decreased. ",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037534,
+          "key": "d7d18e2b-8d85-44a7-9830-7a6dc3ae4364",
+          "title": "Course Outline",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "d7d18e2b-8d85-44a7-9830-7a6dc3ae4364",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037501,
+              "key": "172e9e4a-52b3-4b09-8635-f1c72d4f04f2",
+              "title": "Course Outline Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Course Outline Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037499,
+              "key": "c9078098-cc76-4133-8e57-6ed80f9c10bb",
+              "title": "ND045 DSBL L00 Course Overview",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "4Wmr9-PhQHc",
+                "china_cdn_id": "4Wmr9-PhQHc.mp4"
+              }
+            },
+            {
+              "id": 1050651,
+              "key": "195bb719-61bd-4a72-bb85-c0d7d5b386db",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Course Overview\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050652,
+              "key": "82049b7c-6b17-4b94-8f1d-56c8ab75ce70",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac9a7_course-outline/course-outline.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/82049b7c-6b17-4b94-8f1d-56c8ab75ce70",
+              "caption": "Course Overview",
+              "alt": "Course Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037517,
+              "key": "3d2a2c2e-aed6-4999-938e-dedd89aa9876",
+              "title": "Course Outline Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "** Data Science for Business Leaders - Course Outline**\n\nWelcome to \"Data Science for Business Leaders.\" The course consists of the following four lessons:\n\n* Lesson 1: Principles of Data Science\n\nData Science is rising in the hype cycle; businesses often suspect that they want Data Science capabilities, and may even sense a need for Data Science capabilities...but many are not sure where to start. \n- What is Data Science?\n- Who is a Data Scientist? \n- What is possible through Data Science? \n\nAll these questions are addressed in the first lesson of the course, which provides a broad introduction to Data Science and what it can do for a business. \n* Lesson 2: The Business Case for Data Science \n\nCreating a data science strategy isn’t a standalone activity; it must be driven by your overarching business operations and strategy. Therefore, a critical starting point for any data strategy is the articulation of a  business’s strategic objectives and identification of opportunities for data science-based transformation. \n* Lesson 3: Human Capital of Data Science: Managing Data Science Teams and Stakeholders\n\nThe human capital component of Data Science is critical to delivering on a data science strategy. This lesson will address:\n- Who do we recruit, hire, and train for our Data Science organization? \n- How is that organization structured in order to deliver value to our business? \n- How do our Data Scientists carry out their work in a structured manner? \n- How do we leverage data and data science to foster a data-driven culture throughout the business? \n* Lesson 4: Data and Machine Learning Infrastructure Strategy \n\n\n\nFinally, executing the Data Science strategy requires technology -- technology for data and technology for machine learning.  \n\nTechnology needs are specific to each business; \n- they depend on the types of data to be leveraged for Data Science \n- the form and magnitude of that data\n- the types of data science models that a business plans to create\n- the overall scale of operations represented by those data science models.  \n\nThe fourth lesson covers in great detail the parameters that must be considered both in creating a Data and Data Architecture Strategy and in building a Machine Learning Architecture to support Data Science initiatives.\n \n**Course Learning Objectives**\n\nUpon completion of this executive program, students will be able to:\n\n* Given a set of candidate data science projects, determine the relative strategic importance, cost, complexity of implementation, risk, the likelihood of value capture, and magnitude of benefit for each \n* Identify and prioritize the mix of roles they would pursue to build out a data science organization. \n* Prepare a detailed Data and Data Architecture strategy for their business (including the various roles of data consumers, data pipelines, and data sources)\n* Prepare a detailed Machine Learning Architecture strategy for their business.\n* Generate strategies for promoting a data-driven culture for their business.\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037537,
+          "key": "4079702a-4527-4401-8b57-b9514c3ae954",
+          "title": "Tools, Environment & Dependencies",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "4079702a-4527-4401-8b57-b9514c3ae954",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037523,
+              "key": "85cd1ffe-a19f-427e-93aa-fcbe6b6a48bf",
+              "title": "Tools, Environment & Dependencies Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Tools, Environment & Dependencies Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037524,
+              "key": "9d9d5159-0416-4bec-bb49-d68e4266663d",
+              "title": "ND045 DSBL L00 Tools Used In This Course",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "F3cAiiN61lY",
+                "china_cdn_id": "F3cAiiN61lY.mp4"
+              }
+            },
+            {
+              "id": 1037503,
+              "key": "9c502db6-c540-44c3-9c4b-29210d414ee1",
+              "title": "Tools, Environment & Dependencies Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Tools, Environment & Dependencies Summary\n\nTools for this course include templates that use Presentations and Documents.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051163,
+              "key": "fd663740-ea1c-42ca-ac8b-99799eb9c456",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1c2e_tools/tools.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/fd663740-ea1c-42ca-ac8b-99799eb9c456",
+              "caption": "Tools for this Course",
+              "alt": "Tools for this Course",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051164,
+              "key": "bc55d26c-d561-482e-a063-740257fa54d1",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Many tools are available to support Data Science. Although we will not use such tools in this course, I've added references for the most prominent Data Science tools below.## \n\nData Science Programming Languages\n* [The R Project](https://www.r-project.org/)\n* [Python](https://www.python.org/)\n\nCommercial Data Science Applications\n* [Alteryx](https://www.alteryx.com/)\n* [SAS](https://www.sas.com/)\n\nData Science Visualization and Analytics Tools\n* [Tableau](https://www.tableau.com/)\n* [Mode](https://mode.com/)\n* [Looker](https://looker.com/)\n\nIntegrated Development Environments (IDEs)\n* [Jupyter](https://jupyter.org/)\n* [PyCharm](https://www.jetbrains.com/pycharm/)\n\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037533,
+          "key": "6a70e95d-81af-4c83-aca8-23476b9b238a",
+          "title": "Project: Build a Data Science Strategy",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "6a70e95d-81af-4c83-aca8-23476b9b238a",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037502,
+              "key": "20d8cd07-a421-49f7-b988-700655bab590",
+              "title": "Project: Build a Data Science Strategy Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Project: Build a Data Science Strategy Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037508,
+              "key": "7e45d334-4d92-49d6-9d8d-e17f9e9e6999",
+              "title": "ND045 DSBL L00 Capstone Project",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "dxi2wPoXw-g",
+                "china_cdn_id": "dxi2wPoXw-g.mp4"
+              }
+            },
+            {
+              "id": 1050653,
+              "key": "2d28e099-9e4d-46ae-a199-7ba31fa99193",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Capstone",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037511,
+              "key": "b177f76b-47ba-49c2-b751-2c57081ea3a5",
+              "title": "Project: Build a Data Science Strategy Image",
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac9d7_capstone-slide/capstone-slide.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/b177f76b-47ba-49c2-b751-2c57081ea3a5",
+              "caption": "",
+              "alt": "",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037505,
+              "key": "1d0ee81f-538d-4446-b9e2-baf8feb88139",
+              "title": "Project: Build a Data Science Strategy Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Capstone Project: 100-day Data Science Plan: Build a Data Science Strategy**\n\nUpon assuming a new leadership role within a company (whether from an internal move or joining the company anew), it is common for an executive to be asked to prepare a plan for their first 100 days in the job.\n\nThe capstone project asks students to prepare that 100-day data science plan for a company of their choosing; this could be the student’s current company, some other existing company, or a fictitious business context we provide. \n\nAs part of this project, the student will build/create the following:\n* The Human Capital plan for their data science organization\n* The Technical plan for their data science organization\n * Data and Data Architecture Strategy\n * Machine Learning Architecture\n* Identification of six data science opportunities for the organization\n * Rack and stack evaluation of these opportunities  \n * Detail the risks, challenges, and key factors for success for each of these opportunities\n* Roadmap for executing these six data science opportunities.\n\nThe work product for this Capstone project will be a detailed presentation to the CEO, detailing your plan and the rationale behind your decisions.\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037536,
+          "key": "57b3a761-6ec5-4ba0-8f83-180e4af463a4",
+          "title": "Good Luck!",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "57b3a761-6ec5-4ba0-8f83-180e4af463a4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037520,
+              "key": "29d3b278-5653-4e8f-bb03-db423eba2905",
+              "title": "Good Luck! Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Good Luck! Video",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037516,
+              "key": "70417627-9a8c-4018-b557-3a35fabd1d50",
+              "title": "ND045 DSBL L00 Good Luck",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "ACeQvdnnnro",
+                "china_cdn_id": "ACeQvdnnnro.mp4"
+              }
+            },
+            {
+              "id": 1046773,
+              "key": "3ceeea06-46de-4834-9b9f-3ad08a1a76c9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Good Luck and Let's get started! \nHead to the next page to start learning!",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1050654,
+              "key": "0ef067e1-8ead-4269-9113-2f15e47c6b05",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ac9ff_good-luck/good-luck.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/0ef067e1-8ead-4269-9113-2f15e47c6b05",
+              "caption": "Good Luck",
+              "alt": "Good Luck",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037541,
+          "key": "9ccc04b4-be73-44a9-999d-72c6c9bf32d0",
+          "title": "Lesson Glossary and Additional Resources",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "9ccc04b4-be73-44a9-999d-72c6c9bf32d0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037528,
+              "key": "1f905425-dc58-4bf6-b793-d0a2845af8c2",
+              "title": "Lesson Glossary and Additional Resources Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary and Additional Resources",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037519,
+              "key": "8f537252-5272-4c9f-9bb7-8cba353809cd",
+              "title": "Glossary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Glossary\n|**Key Term**|** Definition**|\n |--------------|---------------------|\n|Data Science| A field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.|",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037526,
+              "key": "ec9915ed-2211-445c-9c84-66b63e11d7b5",
+              "title": "Additional Resources",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Additional Resources\n\nFor additional detail behind many courses covered in the course, you may want to explore _Artificial Intelligence: From Buzzword to Business Function_, a book I wrote with Chris Diana on implementing data science into a business.  \n\nFor more technical detail regarding machine learning, two classic texts are the following:\n* _Elements of Statistical Learning_ by Hastie, Tibshirani, & Friedman\n* _An Introduction to Statistical Learning_ by James, Witten, Hastie, & Tibshirani\n",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

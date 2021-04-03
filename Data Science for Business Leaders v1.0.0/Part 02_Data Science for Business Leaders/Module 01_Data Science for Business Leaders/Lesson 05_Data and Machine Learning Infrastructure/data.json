@@ -1,0 +1,1185 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1038194,
+      "key": "9d029835-11f7-4476-af10-6ac4199d5d12",
+      "title": "Data and Machine Learning Infrastructure",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "In this lesson you'll learn about creating a strategy around Data and Machine Learning Infrastructure.",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/9d029835-11f7-4476-af10-6ac4199d5d12/1038194/1597756552675/Data+and+Machine+Learning+Infrastructure+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/9d029835-11f7-4476-af10-6ac4199d5d12/1038194/1597756544074/Data+and+Machine+Learning+Infrastructure+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Course Glossary",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31d902_dsbl-course-glossary/dsbl-course-glossary.pdf"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1038177,
+          "key": "f2b27859-7192-4948-9b27-85e691c9e10c",
+          "title": "Data and Machine Learning Infrastructure Strategy",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "f2b27859-7192-4948-9b27-85e691c9e10c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038115,
+              "key": "a02dee79-84cb-4dc6-b701-2b5a667d0b28",
+              "title": "Data and Machine Learning Infrastructure Strategy Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Machine Learning Infrastructure Strategy",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038126,
+              "key": "25bb66c4-2bc0-4f6d-b93d-29652e759b90",
+              "title": "ND045 DSBL L04 Introduction To Data And Machine Learning Infrastructure Strategy",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "m4lciyyqKCc",
+                "china_cdn_id": "m4lciyyqKCc.mp4"
+              }
+            },
+            {
+              "id": 1038128,
+              "key": "9d303eb4-ef18-4b2b-9779-b59714dd0f30",
+              "title": "Data and Machine Learning Infrastructure Strategy Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Machine Learning Infrastructure Strategy Summary\n\nWe have discussed how data science fits into the business, and how to staff and manage data science initiatives. \n\nThe technical infrastructure is the last thing to think about to support a business's data science initiatives. \n\n## Lesson Objectives\nUpon completion of Lesson 4, you will be able to successfully carry out the following tasks:\n- Given a particular business context, prepare a detailed Data and Data Architecture strategy \n- Detail how a Machine Learning Architecture strategy fits into a business's Data and Data Architecture strategy.\n- Identify the strengths and weaknesses of a given business’s Data and Data Architecture strategy\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051379,
+              "key": "9487cf6a-d165-4962-a81d-9746c7e9eabc",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Overview",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051380,
+              "key": "f281855e-ecd8-48c1-af79-fe71296f7044",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c381f_l4-overview/l4-overview.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/f281855e-ecd8-48c1-af79-fe71296f7044",
+              "caption": "Lesson Overview",
+              "alt": "Lesson Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038175,
+          "key": "ab7ac9d6-9449-4e40-bb86-5449fdb77e32",
+          "title": "Big Picture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ab7ac9d6-9449-4e40-bb86-5449fdb77e32",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038109,
+              "key": "79de9046-f533-4766-84d5-6f65eaace765",
+              "title": "ND045 DSBL L04 Big Picture Of Data And Machine Learning Infrastructure Strategy",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "mwzViGBaUtg",
+                "china_cdn_id": "mwzViGBaUtg.mp4"
+              }
+            },
+            {
+              "id": 1038139,
+              "key": "8da2b327-c8dd-4b98-8ad8-aa9e3c4fd6ec",
+              "title": "Big Picture Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Big Picture Summary\n\nWe will look at the use of technology for data as well as technology for machine learning.  \nTechnology needs are specific to each business; they depend on:\n- The types of data to be leveraged for Data Science\n- The form and magnitude of that data, the types of data science models that a business plans to create\n- The overall scale of operations represented by those data science models. \n\nThis lesson covers the parameters that must be considered both in creating a Data and Data Architecture Strategy, and the Machine Learning Architecture needed to support Data Science initiatives.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051381,
+              "key": "e4a2c99d-2801-4b34-a59a-03fe81685d5c",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3870_infrastructure-big-picture/infrastructure-big-picture.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/e4a2c99d-2801-4b34-a59a-03fe81685d5c",
+              "caption": "Infrastructure Big Picture",
+              "alt": "Infrastructure Big Picture",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1044739,
+              "key": "1c22ce1c-c11b-4a98-828c-7fa3e3e4e22d",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "1c22ce1c-c11b-4a98-828c-7fa3e3e4e22d",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: In order to adopt data science initiatives, a business should develop a formal Data and Data Architecture strategy.",
+                "answers": [
+                  {
+                    "id": "a1594662334669",
+                    "text": "True",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594662407239",
+                    "text": "False",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038183,
+          "key": "2eef44a4-d204-4814-80b1-8468a20f057c",
+          "title": "Infrastructure",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "2eef44a4-d204-4814-80b1-8468a20f057c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038155,
+              "key": "861c3c81-eebd-4bc6-bf9d-aebd32b6013d",
+              "title": "Developing Your Intuition About Infrastructure Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Infrastructure",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038157,
+              "key": "1b1279c5-0858-4c31-9d62-5825d74638ac",
+              "title": "ND045 DSBL L04 Developing Your Intuition About Data And Machine Learning Infrastructure Strategy",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "xKHZxwuDFBc",
+                "china_cdn_id": "xKHZxwuDFBc.mp4"
+              }
+            },
+            {
+              "id": 1038137,
+              "key": "8c905e56-c475-4830-9e43-9226d86d0005",
+              "title": "Developing Your Intuition About Infrastructure Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Three Components of a Data Science Architecture**\n1. **Data Layer**: the Data and Data Architecture used to bring data to the point of analysis\n2. **Analysis Layer**: the machine learning architecture to support analytics and machine learning tasks\n3. **User Layer**: front-end environment used to develop products and solutions\n\n**Three Broad Data Science Architecture Alternatives** \n1. Build and maintain fully in-house\n2. Build and maintain via managed services in a public cloud provider\n3. Buy a commercial platform or Machine Learning as a Service solution\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051382,
+              "key": "98d07dca-81ce-4015-9e91-75dd221876cf",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3a74_data-science-architecture/data-science-architecture.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/98d07dca-81ce-4015-9e91-75dd221876cf",
+              "caption": "Data Science Architecture: 3 Layers",
+              "alt": "Data Science Architecture: 3 Layers",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1044741,
+              "key": "83b61cb3-f9d2-4727-87eb-2565032ab958",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "83b61cb3-f9d2-4727-87eb-2565032ab958",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "To support data science efforts, a business should invest in which of the following:",
+                "answers": [
+                  {
+                    "id": "a1594662530436",
+                    "text": "In-house data and machine learning architectures",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594662574234",
+                    "text": "External, cloud-supported data and machine learning architectures",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594662588415",
+                    "text": "Either an in-house or an external architecture, depending on the unique strengths and needs of the business",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038179,
+          "key": "84bd2cb9-afcf-456e-a6d7-741aa5df1799",
+          "title": "Data and Data Architecture Strategy",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "84bd2cb9-afcf-456e-a6d7-741aa5df1799",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038116,
+              "key": "c2211606-4b93-44ae-bcc4-edcbb3623c6e",
+              "title": "Data and Data Architecture Strategy Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Data Architecture Strategy",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038138,
+              "key": "65794484-35d3-4c6d-b95e-40685f3a0d4a",
+              "title": "ND045 DSBL L04 Data And Data Architecture Strategy",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "_TFd0nIudS4",
+                "china_cdn_id": "_TFd0nIudS4.mp4"
+              }
+            },
+            {
+              "id": 1047102,
+              "key": "5153347d-0c37-472b-aa54-aa2328cdcb41",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Data Architecture Strategy\n\nData and Data Architecture strategy  has five components that guide the leader\n\n- **Data requirements**\n\n- **Data and Data Architecture** \n\n- **Technology component**\n\n- **Skills and capacity**\n\n- **Support for machine learning** \n\n\nThere are three alternatives for data science infrastructure \n-  fully built and maintained in house\n- hosted via managed services using cloud service providers\n- reliance on commercial solutions.\n\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051383,
+              "key": "f272d4f2-100f-4d0e-a8a6-34520f81c6db",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3ada_data-science-architecture-strategy/data-science-architecture-strategy.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/f272d4f2-100f-4d0e-a8a6-34520f81c6db",
+              "caption": "Data and Data Architecture Strategy: Five Components",
+              "alt": "Data and Data Architecture Strategy: Five Components",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1047101,
+              "key": "b9b26796-dc39-4786-9a74-3b9fe9dc1952",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Components of a Data and Data Architecture Strategy**\n\n* Data Requirements\t\n * What data should be included in the Data Strategy?\n* Data Governance\n * How will we promote data availability? \n * How will we promote usability? \n * How will we guarantee integrity?\n * How will we guarantee security?\n* Technology\n * What are the components of your Data Architecture?\n* Skills and Capacity\n * How will we promote the development of data literacy skills and capacity throughout the organization? \n* Support for Machine Learning\n * What are the components of the machine learning architecture and how will it interface with the data architecture?",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038174,
+          "key": "972ab5de-e136-4d65-a86f-b49c4ef7874b",
+          "title": "Quizzes: Data and Data Architecture Strategy",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "972ab5de-e136-4d65-a86f-b49c4ef7874b",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038107,
+              "key": "133b24d9-7a80-4039-bfc7-3270b71b4b7a",
+              "title": "Data and Data Architecture Strategy Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Data Architecture Strategy Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044709,
+              "key": "03325148-de16-4c2c-8512-5c34b363dded",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "03325148-de16-4c2c-8512-5c34b363dded",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following is _not_ a component of a Data and Data Architecture Strategy?",
+                "answers": [
+                  {
+                    "id": "a1594584727777",
+                    "text": "Skills and Capacity",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594584750968",
+                    "text": "Technology",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594584751736",
+                    "text": "Data Governance",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594584752494",
+                    "text": "Data Requirements",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594584753074",
+                    "text": "Model Evaluation ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594584834275",
+                    "text": "Support for Machine Learning",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038186,
+          "key": "fa74b111-6cd9-4c8d-8d93-2e2cf5bac169",
+          "title": "Exercise: Data and Data Architecture Strategy",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "fa74b111-6cd9-4c8d-8d93-2e2cf5bac169",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038165,
+              "key": "da5860e3-0d6a-47dd-ada8-ac4e81c037a9",
+              "title": "Data and Data Architecture Strategy Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data and Data Architecture Strategy Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038124,
+              "key": "c549a909-7c56-4e44-a8b6-40f4910f3176",
+              "title": "Data and Data Architecture Strategy Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate Lesson 5: Exercise 1 : *Data and Data Architecture*  in your downloaded template. \n\nIn this exercise, you will consider a company's **Production Function**, which is described as the manufacturing of products or delivery of services. Additionally, several illustrative examples of what is included in the charge of the Production function are detailed in the links below. \n\n**Note: for all of the exercises in this lesson, please consider manufacturing to be the production function for the business.**\n\n### Your Task:\nA business's executive leadership wants to understand aspects of Data and Data Architecture Strategy, and has tasked you with the following: \n\nIn your template document, please identify the components of a Data Architecture that could support data science initiatives in the Production Function. \n\n## Additional Resources\n- [Production Function](https://simplicable.com/new/business-functions)\n- [Production Function Illustrated Examples](https://simplicable.com/new/production)",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045419,
+              "key": "d51e148d-a00f-4af9-a0ef-cd554ab309d9",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "d51e148d-a00f-4af9-a0ef-cd554ab309d9",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "How many components were you able to identify?",
+                "answers": [
+                  {
+                    "id": "a1594927221022",
+                    "text": "less than 3",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594927241313",
+                    "text": "3-5",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594927242079",
+                    "text": "6-8",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594927242742",
+                    "text": "more than 8",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038184,
+          "key": "06d30afa-6717-47b3-bef7-25bc19d9cffe",
+          "title": "Solution: Data and Data Architecture Strategy Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "06d30afa-6717-47b3-bef7-25bc19d9cffe",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038144,
+              "key": "6b1d40df-29d9-49f5-9d4b-8b1ca1ac0247",
+              "title": "ND045 DSBL L04 Data And Data Architecture Strategy Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "VkQxUVagk5M",
+                "china_cdn_id": "VkQxUVagk5M.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038190,
+          "key": "71bab027-13c7-4ab0-a0be-14543b7a88ca",
+          "title": "Training Data Bias",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "71bab027-13c7-4ab0-a0be-14543b7a88ca",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038118,
+              "key": "33f01e03-79f7-447a-ae09-a0baca8e5549",
+              "title": "Training Data Bias  Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Training Data Bias ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038160,
+              "key": "b210d5a1-23d7-4fbb-8ada-a399a9cef2bd",
+              "title": "ND045 DSBL L04 Training Data Bias",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "PQ06hPObM7w",
+                "china_cdn_id": "PQ06hPObM7w.mp4"
+              }
+            },
+            {
+              "id": 1051385,
+              "key": "870c205e-db00-412d-a6a5-ea763c2f1c42",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Bias Summary\n\nIn building a machine learning model, we distinguish between the data that we will use to train that model, which we call the \"training data,\" with a subset of that data that is held out from model training but used to test the fit of the model, which we call the \"test data.\" \n\nFor your model to perform well in production, it is critically important that the training data used to build that model be as representative as possible of the data that will ultimately pass to that model in production. For example, consider the case of a natural language processing-based message classifier. As customer inquiry messages come in, they may specifically address issues with specific product lines. If these messages can be automatically classified and routed to specialists particular to those lines, we can save a lot of time and provide better customer service. We run into a challenge when product lines change. If we train our model based on data from the first half of the year, and then in the second half of the year we launch a new product line, we shouldn't expect our model to be able to classify messages according to that new product line because it was never trained on messages associated with that product line. In this case, the training data is not representative of the data that is encountered by the model in production. \n\nThere are two particular forms of bias that may occur in training data:\n1. **Convenience bias.** Some types of data may be easier to collect than other types of data. If this more convenient data is not fully representative of the full variety of data that will be encountered in production, this can skew the data you have available in your ground truth data set, the one you use to train your model, which then skews your machine learning model. \n2. **Recency bias.** You may have gathered more data recently than in the past for some reason. This may be fine, unless that data is skewed for some reason, and does not represent the full variety of data that the machine learning model will encounter in the future. It is critically important to ensure that any machine learning model has been built on data that is most representative of how that model will be used in the future.\n\n### Key Terms:\n- **Training Data**: Subset of your data used to train the machine learning model.\n- **Testing Data**: Subset of your data held out from model training used to test model fit.\n- **Convenience bias**: Some types of data may be easier to collect than other types of data, thus skewing the data you have available in your ground truth dataset, and then skewing your ML model.\n- **Recency bias**: You may have gathered more data recently than in the past for some reason, and that recent data may be skewed for some reason, and not sufficiently represent the full variety of data that your ML model will encounter in the future.",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1038191,
+          "key": "01b97103-3101-419c-b2b7-05aae5cbfb2d",
+          "title": "Quizzes: Training Data Bias ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "01b97103-3101-419c-b2b7-05aae5cbfb2d",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038159,
+              "key": "18bab67d-a778-4d4d-8a6d-b208addf2d0c",
+              "title": "Training Data Bias  Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Training Data Bias  Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044713,
+              "key": "825f9b35-5868-4758-91a2-57f74c986790",
+              "title": "",
+              "semantic_type": "MatchingQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "825f9b35-5868-4758-91a2-57f74c986790",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "complex_prompt": {
+                  "text": "Match each description of machine learning training bias with its source below."
+                },
+                "concepts_label": "Machine Learning Bias",
+                "answers_label": "Source of Bias",
+                "concepts": [
+                  {
+                    "text": "Some types of data may be easier to collect than other types of data, thus skewing the data you have available in your ground truth dataset, and then skewing your ML model.",
+                    "correct_answer": {
+                      "id": "a1594585318701",
+                      "text": "Convenience"
+                    }
+                  },
+                  {
+                    "text": "You may have more data available from current operations than from past operations which may not represent the full variety of data that your ML model will need to consider.",
+                    "correct_answer": {
+                      "id": "a1594585368649",
+                      "text": "Recency"
+                    }
+                  }
+                ],
+                "answers": [
+                  {
+                    "id": "a1594585456923",
+                    "text": "Training"
+                  },
+                  {
+                    "id": "a1594585368649",
+                    "text": "Recency"
+                  },
+                  {
+                    "id": "a1594585318701",
+                    "text": "Convenience"
+                  },
+                  {
+                    "id": "a1594585437441",
+                    "text": "Anchoring"
+                  },
+                  {
+                    "id": "a1594585449330",
+                    "text": "Bias"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044714,
+              "key": "f75a0a45-3679-4cdb-8529-89708d07b63f",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "f75a0a45-3679-4cdb-8529-89708d07b63f",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "To better understand the opinions of a business's customers, a marketing data scientists suggests analyzing a survey deployed via email to the 20% of last week's customers for whom the business has emails on record.  Which of the following sources of bias should the data scientist be concerned about? ",
+                "answers": [
+                  {
+                    "id": "a1594585944655",
+                    "text": "Recency",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594585948379",
+                    "text": "Convenience",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038185,
+          "key": "5b37a16d-c82b-4d64-8044-3b7b00018d96",
+          "title": "Machine Learning Architecture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "5b37a16d-c82b-4d64-8044-3b7b00018d96",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038166,
+              "key": "05c36e83-141e-4105-b18f-51279855c507",
+              "title": "Machine Learning Architecture Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Architecture",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038161,
+              "key": "bdda5979-20da-4f59-a9bf-0b4a02d2b09f",
+              "title": "ND045 DSBL L04 Machine Learning Architecture",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "e2_cRSiGSZE",
+                "china_cdn_id": "e2_cRSiGSZE.mp4"
+              }
+            },
+            {
+              "id": 1051386,
+              "key": "e7379210-f559-4a06-92e0-3bc1cec8cc10",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Architectures Summary\n\n**Build In House**: In many of today's largest companies it is common for the machine learning architecture to be deployed, hosted, and maintained entirely in-house; this was the case for the Big Data Analytics team I built at Seagate, where we hosted all three layers – data, analytics, and user - on our own servers that we maintained. Seagate had specialized expertise in datacenter and cloud deployment, which made hosting internally a natural choice. \n\n**Cloud-hosted Architecture**: At companies that did not have such a level of skill, I have leveraged public cloud providers for hosting and deployment. I have personally worked with three of the top public cloud providers - Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure.  Managed services, such as AWS Sagemaker, provide many of the data architecture, security, and monitoring services necessary for data and machine learning architecture management, providing an alternative well-suited for the organization that does not have the internal expertise to maintain its own solutions in-house. \n\n**Commercial Solutions**: For organizations with little development expertise, data science is still possible through commercial solutions such as Software as a Service or Machine Learning as a Service provider. For these companies, an off-the-shelf solution, such as those of Alteryx or SAS, is preferable to building and maintaining the infrastructure to support data science (either internally or via a public cloud). Commercial solutions provide ready-to-go functionality that essentially combines all three layers of the data science architecture. For companies wishing to start out with analytics with targeted analytics and machine learning use cases, who have data science or data analytic talent on hand but lack the data engineering and DevOps skills necessary to build, configure, maintain and support a data science architecture, a commercial alternative can provide a compelling way to access the benefits of data science.\n\n\n\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051387,
+              "key": "322a0a41-eaf5-42b6-a529-d40e564c8db5",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3d4d_ml-architectures/ml-architectures.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/322a0a41-eaf5-42b6-a529-d40e564c8db5",
+              "caption": "ML Architectures",
+              "alt": "ML Architectures",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051388,
+              "key": "c8ebaa58-5fac-4aec-9e75-0ead71d0ae07",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Build vs Buy Summary\n\nIf you are building your own architecture, hosted either in-house or via a public cloud, you have quite a lot of flexibility regarding the data storage and computing capabilities you might need. These must be matched to your use case; if you intend to deploy complex deep learning models, for example, you will need a great deal more computing power than if your models tend more toward parametric and tree-based alternatives. \n\nThe type of data you intend to use will determine your selection of data storage technology – whether that be in a data lake or in a relational or nonrelational data store. Cloud hosting provides elastic capabilities so that computing and storage can be scaled on-demand, a critical degree of flexibility for many companies whose data science workloads may be uneven or likely to change.\n\nFinally, cloud hosting solutions provide automated services for model monitoring and maintenance, the final key component of a machine learning architecture. \nMonitoring should focus particularly on whether model performance degrades over time, as ground truth data drifts from the training set on which the model was trained. Monitoring solutions allow the user to set predefined thresholds and scheduled procedures that identify model drift and trigger retraining and redeploying the model and can provide A/B testing capabilities to support the redeploy decision. Cloud monitoring and maintenance solutions typically integrate with appropriate notification technologies, such as SMS or Slack. ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1047130,
+              "key": "3b151fb3-5c52-4276-9375-1594cc274096",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Critical factors in the \"build or buy\" decision:\n* **Size of initiative**: In general, smaller initiatives favor purchasing an outside platform, because the fixed costs of in-house development and support are too large for a small project. \n* **Complexity of models**: Standard models and algorithms favor purchasing a platform since the platform is likely to support most standard approaches. \n* **Cash resources**: A well-funded budget can favor purchasing an outside platform, as providers charge a premium for hosting and supporting services that do not have to be maintained in-house. Alternatively, smaller budgets might favor cloud providers or more targeted commercial applications, since either avoids the need for large capital outlays required of in-house solutions.\n* **Internal technical skills**: Lower internal technical skills favor purchasing an external platform, since the organization’s existing team may not have the expertise to develop in-house. \n* **Maintenance budget**: A smaller long-term maintenance budget favors an external platform since most of the maintenance cost will be borne by the vendor.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1052233,
+              "key": "509ce9e6-5efb-45c8-bc20-c6255b68bbbb",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f31c576_critfac/critfac.png",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/509ce9e6-5efb-45c8-bc20-c6255b68bbbb",
+              "caption": "",
+              "alt": "",
+              "width": 1466,
+              "height": 764,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038189,
+          "key": "927b32e2-02f5-4e73-902c-54740e43488e",
+          "title": "Quizzes: Machine Learning Architecture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "927b32e2-02f5-4e73-902c-54740e43488e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044716,
+              "key": "5a289e6c-0d5b-43cf-93e0-c304459fd643",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "5a289e6c-0d5b-43cf-93e0-c304459fd643",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "An organization's data science initiative favors machine learning skills over traditional engineering expertise. Which of the following represents a more favorable machine learning architecture for that business?\n",
+                "answers": [
+                  {
+                    "id": "a1594586486675",
+                    "text": "In-house machine learning architecture",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594586674781",
+                    "text": "External, cloud-hosted machine learning architecture",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044715,
+              "key": "325d20cf-dad8-454d-875a-e9fecef8d30f",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "325d20cf-dad8-454d-875a-e9fecef8d30f",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Name three factors that should be considered when deciding between an in-house machine learning architecture and an external, cloud-hosted machine learning architecture. "
+              },
+              "answer": {
+                "text": "There are many factors that together drive the \"build vs. buy\" decision; some of the primary factors include the size of an initiative to be supported, the complexity of the models to be developed, cash resources available, internal technical skills, and budget and level of in-house capabilities to support architecture maintenance.",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038188,
+          "key": "2c5dba8b-2b04-4e41-915c-1c274c4a9f94",
+          "title": "Exercise: Machine Learning Architecture",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "2c5dba8b-2b04-4e41-915c-1c274c4a9f94",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038164,
+              "key": "1fdd277f-3676-4b13-a5c0-5ed20c662446",
+              "title": "Machine Learning Architecture Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Architecture Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038112,
+              "key": "fe0c61f0-9b2b-4c42-8196-97340fb78e02",
+              "title": "Machine Learning Architecture Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate Lesson 5: Exercise 2 : *Machine Learning Architecture* in your downloaded template\n\n### Your Task;\nYou are helping the business understand the relative merits of an in-house machine learning architecture vs. a cloud-based machine learning architecture.  Please give at least four benefits of each alternative in support of data science initiatives in the Production Function. \n\n**Note: for all of the exercises in this lesson, please consider manufacturing to be the production function for the business.**\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045420,
+              "key": "e58da772-cb51-492a-ae56-61ab64348e29",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "e58da772-cb51-492a-ae56-61ab64348e29",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "How sure were you of your machine learning architecture recommendation?",
+                "answers": [
+                  {
+                    "id": "a1594927345246",
+                    "text": "I nailed it",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594927392213",
+                    "text": "Pretty sure",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594927398659",
+                    "text": "maybe",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594927404937",
+                    "text": "I don't think I got it",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038178,
+          "key": "203d15b0-9d55-4314-b302-cae056f9a855",
+          "title": "Solution: Machine Learning Architecture Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "203d15b0-9d55-4314-b302-cae056f9a855",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038121,
+              "key": "a977cba2-0840-475e-b62a-066e7557e54c",
+              "title": "Machine Learning Architecture Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Architecture Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038134,
+              "key": "ac34daa6-5a3f-4365-b7a7-2ba3667f482d",
+              "title": "ND045 DSBL L04 Machine Learning Architecture Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "G_u7z02d4Qo",
+                "china_cdn_id": "G_u7z02d4Qo.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038176,
+          "key": "52615ea0-4165-48de-9864-95d88cc9a6aa",
+          "title": "Final Review Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "52615ea0-4165-48de-9864-95d88cc9a6aa",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038145,
+              "key": "e8dda76a-9910-4cc4-b059-153a7ca7c467",
+              "title": "Final Review Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Final Review Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045421,
+              "key": "0b0dc806-688a-4531-a3d3-e5ac8e6aad20",
+              "title": "",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "0b0dc806-688a-4531-a3d3-e5ac8e6aad20",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Data availability",
+                "Usability",
+                "Integrity",
+                "Security"
+              ],
+              "positive_feedback": "Yes! Fantastic, head to the next page to see how your answers compare to the instructors.",
+              "video_feedback": null,
+              "description": "Please locate Lesson 5: *Final Review Exercise*  in your downloaded template\n\nThe business's executive leadership wants to understand aspects of Data Governance. For each of the questions below, please provide at least one example initiative or policy that the business should adopt to support data science initiatives in the Production Function. \n\n**Note: for all of the exercises in this lesson, please consider manufacturing to be the production function for the business.**\n\nComplete the following tasks in your template document around the business's Production function:"
+            }
+          ]
+        },
+        {
+          "id": 1038182,
+          "key": "75d5c4ba-0635-4c05-807b-3ca472ee58e7",
+          "title": "Solution: Final Review Exercise",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "75d5c4ba-0635-4c05-807b-3ca472ee58e7",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038168,
+              "key": "2ca1a714-9bb0-4c4f-934c-11e8093bd062",
+              "title": "Final Review Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Final Review Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038135,
+              "key": "a4d4e41e-47e6-4bc0-8294-a03fee4a6601",
+              "title": "ND045 DSBL L04 Final Review Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Xpi_bl1SvM0",
+                "china_cdn_id": "Xpi_bl1SvM0.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1038193,
+          "key": "d4ce6423-7dcf-4ba5-8bed-6b151e145ae6",
+          "title": "Lesson/Course Recap",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "d4ce6423-7dcf-4ba5-8bed-6b151e145ae6",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038140,
+              "key": "f491bc69-f79f-4b80-8fc4-875f74dae6cb",
+              "title": "Lesson Conclusion Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson/Course Recap",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038173,
+              "key": "96e8737f-d534-480e-8d87-f13b88f22c31",
+              "title": "ND045 DSBL L04 Lesson Conclusion",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "uhBqKES-YVI",
+                "china_cdn_id": "uhBqKES-YVI.mp4"
+              }
+            },
+            {
+              "id": 1047131,
+              "key": "30cf9f65-8fe4-4c3d-b9fd-d1521665b9ee",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion Summary\n\nWe've discussed:\n- the three layers of a data science architecture:\n- the components of a Data and Data Architecture strategy\n- training data bias. \n- the key determinants of which direction to go on the \"build vs. buy\" decision for how to host your machine learning architecture.\n\nGet ready for your capstone project!\n\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051389,
+              "key": "d45424dc-7322-46f6-8a94-6fb823842660",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Course Recap\n\nWe have discussed Data Science, who is a Data Scientist, and what is possible through Data Science. We noted that a critical starting point for any data strategy is the articulation of a business’s strategic objectives and identification of opportunities for data science-based transformation. \n\nWe discussed the human capital component of Data Science, which is critical to delivering on a data science strategy. We discussed recruiting, hiring, and training for our Data Science organization. We discussed organizational structure for the data science organization, and we learned how our Data Scientists carry out their work in a structured manner. We also discussed how to leverage data and data science to foster a data-driven culture throughout the business. \n\nFinally, we noted that executing the Data Science strategy requires technology for data and technology for machine learning.  Technology needs are specific to each business; they depend on the types of data to be leveraged for Data Science, the form and magnitude of that data, the types of data science models that a business plans to create, and the overall scale of operations represented by those data science models.  To that end, we discussed the parameters that must be considered both in creating a Data and Data Architecture Strategy and in building a Machine Learning Architecture to support Data Science initiatives.",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051390,
+              "key": "a17c1740-ece4-40ee-969b-1b75e0850919",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3e4a_l4-recap/l4-recap.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/a17c1740-ece4-40ee-969b-1b75e0850919",
+              "caption": "Lesson Recap",
+              "alt": "Lesson Recap",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1038181,
+          "key": "c9dc8992-f5e2-4026-b260-3db2b34d5be0",
+          "title": "Lesson Glossary and Additional Resources",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "c9dc8992-f5e2-4026-b260-3db2b34d5be0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1038152,
+              "key": "7085ed8e-4272-4bc0-b6ed-e84cf965e021",
+              "title": "Lesson Glossary and Additional Resources Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary and Additional Resources",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1038122,
+              "key": "cf42cd03-06e3-4e51-808c-313e99fa30f3",
+              "title": "Glossary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary\n\n|**Key Term**| **Definition**| \n|--------------|---------------------|\n|Analysis Layer| the machine learning architecture to support analytics and machine learning tasks|\n|Convenience| Some types of data may be easier to collect than other types of data, thus skewing the data you have available in your ground truth dataset, and then skewing your ML model.|\n|Data Layer| the Data and Data Architecture used to bring data to the point of analysis|\n|Regency| You may have gathered more data recently than in the past for some reason, and that recent data may be skewed for some reason, and not well represent the full variety of data that your ML model will encounter in the future.|\n|Testing Data| Subset held out from model training used to test model fit.|\n|Training Data| Subset used to train the machine learning model.|\n|Training Data Bias| When the data being used to train the system is not representative of real data|\n|User Layer| front-end environment used to develop products and solutions|",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1052247,
+              "key": "abfec9cd-b9bf-43f1-b7b2-8b300cb1ee0b",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Course Glossary\n\n|KeyTerm| Definition| \n|--------------|---------------------|\n|Agile| A project management process that is much more flexible and iterative. Work is prioritized and often completed in short time frames known as \"Sprints\".|\n|Analysis Layer| the machine learning architecture to support analytics and machine learning tasks|\n|Anomaly Detection Methods| are used to identify aberrant or unusual cases, based on the collection of variables that characterize those cases.|\n|Artificial Intelligence| A class of algorithms that direct machines in activities that mimic the cognition and action of humans.|\n|Centralized Data Science Organization| manages all data and data science-related projects centrally through a group that typically includes a chief data officer.|\n|Classification| Predicting toward a categorical outcome|\n|Clustering Algorithms| is to identify groups of cases according to similarities in their variables.|\n|COGS| Cost of Goods Sold|\n|Convenience| Some types of data may be easier to collect than other types of data, thus skewing the data you have available in your ground truth dataset, and then skewing your ML model.\n|\n|Data Analytics| the science of analyzing raw data in order to drive business processes and improve business outcomes.|\n|Data Layer| the Data and Data Architecture used to bring data to the point of analysis|\n|Data Science| A field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.|\n|Decentralized Data Science Organization| Functional areas and business units independently define and manage their data and data science initiatives.|\n|Deep Learning| Powerful class of supervised learning methods that underpins many of today's most exciting use cases in artificial intelligence.|\n|Descriptive Approaches| require statistical analysis to identify, summarize, and describe a phenomenon of interest.|\n|Dimensionality Reduction| is a technique for reducing the complexity of the set of features or variables that might subsequently be used in a supervised learning context.|\n|ETL| Extract, Transfer, Load is a process for creating a reliable data pipeline.|\n|Federation| The combination of decentralized and centralized management. |\n|KPI| Key Performance Indicator used to measure success.|\n|Machine Learning| a family of statistical approaches that use modern statistics to find patterns, classify outcomes, and make predictions using massive amounts of data.|\n|MECE Principle| Mutually Exclusive, Collectively Exhaustive|\n|MLaaS| Machine Learning as a Service|\n|P&L Framework| Profit & Loss or Income Statement framework helps determine if and how a product could be profitable.|\n|Predictive Approaches| attempt to predict a categorical or numeric outcome given a collection of inputs.|\n|Prescriptive Approaches| build on descriptive and predictive models with a bias toward action over monitoring.|\n|R&D| Research and Development|\n|Rapid Prototyping| A group of techniques used to quickly fabricate a scale model of a physical part or assembly using three-dimensional computer-aided design data. In software, it is an approach to software development that emphasizes quick, iterative development cycles and minimal feature sets.|\n|Recommender Systems| exploit similarities between cases (such as customer purchase behavior) to recommend a next item or action based on what was preferred by those most similar to the case in hand.|\n|Regency| You may have gathered more data recently than in the past for some reason, and that recent data may be skewed for some reason, and not well represent the full variety of data that your ML model will encounter in the future.|\n|Regression| Predicting toward a numerical outcome|\n|Reinforcement Learning|  represents a family of algorithms that learn in a “trial and error” fashion.|\n|Semi-Supervised Learning| combines supervised and supervised learning techniques in cases for which only a small number of cases are \"labeled\" (i.e., have a measured outcome associated with them).|\n|SG&A| Selling, General and Administrative|\n|Supervised Learning Methods| target a designated outcome, whether it be a numerical value or a category.|\n|Testing Data| A partition of data used to evaluate your machine learning model.|\n|Testing Data| Subset held out from model training used to test model fit.|\n|Training Data| A partition of data used to train your machine learning models.|\n|Training Data| Subset used to train the machine learning model.|\n|Training Data Bias| When the data being used to train the system is not representative of real data|\n|Unsupervised Learning Models| exploit patterns in the data but are not concerned about predicting a specific outcome.|\n|User Layer| front-end environment used to develop products and solutions|\n|Value Chain| A set of activities that an organization carries out to create value for its customers.|\n|Value Chain Framework| A process to determine how to build the most impactful product for the least cost.|\n|Wagile| This term refers to teams as they transition from Waterfall to Agile.|\n|Waterfall| A project management process that is linear in nature where one phase must be done before moving on the next.|",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1037237,
+      "key": "9d476fa8-b767-4866-b535-1f73b5961fd2",
+      "title": "Build a Data Science Strategy",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "Now that you have completed all of the course material, it's time to put it all together in the project!",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/9d476fa8-b767-4866-b535-1f73b5961fd2/1037237/1598554214999/Build+a+Data+Science+Strategy+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/9d476fa8-b767-4866-b535-1f73b5961fd2/1037237/1598554210385/Build+a+Data+Science+Strategy+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Project Template",
+            "uri": "https://video.udacity-data.com/topher/2020/June/5eecdeec_dsbl-project-template/dsbl-project-template.docx"
+          },
+          {
+            "name": "DSBL CEO Presentation Template",
+            "uri": "https://video.udacity-data.com/topher/2020/June/5eecdf05_dsbl-ceo-presentation-template/dsbl-ceo-presentation-template.pptx"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": {
+        "key": "fe9c30c9-7eca-4de1-b8eb-bc5b95c7fbc6",
+        "version": "1.0.0",
+        "locale": "en-us",
+        "duration": 40320,
+        "semantic_type": "Project",
+        "title": "Build a Data Science Strategy",
+        "description": "## Project Submission\nBefore you submit your project, please make sure that:\n1. You have met all of the requirements on the [Project Rubric](https://review.udacity.com/#!/rubrics/2862/view)\n2. You have completed the following deliverables:\n  - DSBL CEO Presentation in .pptx format\n  - DSBL Project Template in .docx format\n  - You may also want to look at the standout suggestions on the Rubric to see if you can make your project even better. This will make your project *Standout* to potential employers. \n  - **Optional** Your CEO Presentation Video. Please provide your video in .mp4 format. You can use a phone, video camera, or webcam to film this. \n3. Zip all of your files for review\n  - Name your zip file with your name\n  - If you used Google, you can simply select all of the files in Google Drive and click download and Google will create the Zip file for you. \nOn Windows and macOS there are various options such as 7-Zip that allows you to Zip your files as well. \n4. Submit your files for review\n",
+        "is_public": true,
+        "summary": null,
+        "forum_path": "",
+        "rubric_id": "2862",
+        "terminal_project_id": null,
+        "resources": null,
+        "image": null
+      },
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1037239,
+          "key": "8b1de5a4-83d0-4c79-b59d-bbcc9d504796",
+          "title": "Build a Data Strategy Introduction",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "8b1de5a4-83d0-4c79-b59d-bbcc9d504796",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037240,
+              "key": "d29ab1f8-eafa-4de9-8624-7c9f17e5fd74",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Build a Data Strategy Introduction",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037241,
+              "key": "2a2c85cd-bb01-46d1-96f7-a41a34cc8587",
+              "title": "ND045 DSBL L05 Intro To Capstone Project - Build A Data Science Strategy",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "PMrYQCW4ayA",
+                "china_cdn_id": "PMrYQCW4ayA.mp4"
+              }
+            },
+            {
+              "id": 1037242,
+              "key": "e9d129ae-c32f-4171-8bfb-c29264863e62",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Introduction. 100-day Data Science Plan: Build a Data Science Strategy\n\nUpon assuming a new leadership role within a company (whether from an internal move or joining the company anew), it is common for an executive to be asked to prepare a plan for their first 100 days in the job.  This project asks you to prepare that 100-day data science plan for a company of your choosing; this could be your current company, some other existing company, or a fictitious business context we provide. \n\nAs part of this project, you will build/create the following:\n1. Identification of six data science opportunities for the organization\n  - Opportunities must be spread across three different functional areas\n  - Detail the risks, challenges, and key factors for success for each of these opportunities\n2. Prepare a roadmap for executing these six data science opportunities.\n  - Rack and stack evaluation of these opportunities \n3. Prepare a Human Capital plan for your data science organization\n4. Prepare a Technical plan for your data science organization\n  - Data and Data Architecture Strategy\n  - Machine Learning Architecture\n\nThe work product for this Capstone project will be a detailed presentation to the CEO, detailing your plan and the rationale behind your decisions.\n\nGoals of the Capstone:\nUpon completion of this Capstone Project, you will be able to carry out the following tasks:\n- Given a business context,  generate ideas for data science projects across multiple functional areas of the business. \n- Determine the relative strategic importance, cost, complexity of implementation, risk, the likelihood of value capture, and magnitude of benefit for each of a variety of projects\n- Identify and prioritize the mix of roles you would pursue to build out a data science organization. \n- Prepare a detailed Data and Data Architecture strategy that a business can use to carry out the roadmap of data science projects. \n- Generate strategies for promoting a data-driven culture for your business.",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051391,
+              "key": "718a30c3-a799-487c-9139-b3a27cb2f3a5",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c3fb5_capstone-overview/capstone-overview.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/718a30c3-a799-487c-9139-b3a27cb2f3a5",
+              "caption": "Capstone Overview",
+              "alt": "Capstone Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037243,
+          "key": "77916a2b-35a2-4a7a-b83d-0fdaf9322f35",
+          "title": "What is a 100 Day Plan",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "77916a2b-35a2-4a7a-b83d-0fdaf9322f35",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037244,
+              "key": "ae9a968e-6f8c-495a-b7a6-c339eb28b195",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## What is a 100 Day Plan?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037245,
+              "key": "470148a6-491f-4245-b0cd-79c01e1b2950",
+              "title": "ND045 DSBL L05 100-Day Plan",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "LXozz6SXrzk",
+                "china_cdn_id": "LXozz6SXrzk.mp4"
+              }
+            },
+            {
+              "id": 1051392,
+              "key": "34184454-f26d-4deb-808a-aebac6346162",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c40d2_capstone-slide/capstone-slide.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/34184454-f26d-4deb-808a-aebac6346162",
+              "caption": "Capstone Overview",
+              "alt": "Capstone Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037247,
+          "key": "c2519088-3bfe-4c52-9570-f67fbe701d34",
+          "title": "Project Instructions",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "c2519088-3bfe-4c52-9570-f67fbe701d34",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037248,
+              "key": "8d2046cd-aaf9-401c-8905-e4efda418678",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Project Instructions",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037250,
+              "key": "b8063066-bfcd-422d-a05c-d77b4fea140d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Project Instructions\n\n### Project Setup\nBefore beginning the project, please download the project templates from the lesson resources. The document template also contains the project instructions so you can work directly in that document without having to refer back to these instructions. \n\nTemplates to download (Please rename these templates to include your name Ex: **Phil Fuller DSBL Project.docx**):\n1. **DSBL Project Template**\n2. **DSBL CEO Presentation Template**\n\nResources are available in the navigation panel on the left side of the screen under search. You may need to click the three lines to show the menu if it's hidden.\n\nThese documents are saved in Excel and Powerpoint format but can be opened in any spreadsheet application. If you want to to use Google Sheets or if you don't have Microsoft Office, please follow the direction below:\n\nUpload the files into Google Drive\nClick on the file and choose Open With\nSelect Google Sheets for the spreadsheet and Google Slides for the slide deck.\nIf the file opens in Google Drive's Compatibility Mode, indicated by an Excel or PowerPoint icon in the top right of the spreadsheet,\nClick on File in the Menu Bar\nClick Save as Google Sheets or Google Slides\nGoogle will convert the file, and you should be good to go.\n\nIf you have other spreadsheet software or use MS Office, the files should open in that software as well, but you will need to consult the documentation for that software in order to create the visualizations in this project for your software as the steps may be different from Google.\n\n### Project Steps\n**Step 1 - Identify Data Science Opportunities in the Business**\n\nThroughout the course, you have been exposed to multiple examples of data science projects implemented in a business setting. Now, based on your knowledge of your specific business context, you will generate _at least six_ potential projects to be considered by the executive leadership team. These projects must span three unique functional areas of the business, with any single functional area representing no more than 3 projects:\n\nAcceptable Project Mixes \n* 2 marketing + 2 supply chain + 2 finance\n* 2 marketing + 1 human resources + 1 procurement + 1 product + 1 manufacturing\n* 3 finance + 1 legal + 2 marketing\n\nUnacceptable Project Mixes: \n* 3 marketing + 3 finance \n* 4 marketing + 1 product + 1 manufacturing\n\nFor each candidate project, please provide the following detail in the “Project Specification” workbook:\n1. Description of the project\n  - Business problem to be addressed\n  - Role of data science in addressing the business problem\n  - Targeted business objective(s)\n2. Data Science Classification\n  - Approach\n  - Type of Model\n3. Data needed for project and sources for that data\n4. The magnitude of opportunity (with justification)\n5. Cost and complexity of development and implementation\n6. Likelihood of value capture\n7. Key Business Stakeholders\n\n**Step 2 - Developing a Roadmap: Prioritizing Data Science Opportunities in the Business**\n\nA strategic approach to data science requires the business to consider the relative opportunities, costs, and risks of potential projects to identify the best order to carry out the projects. What should be tackled first? What is best pushed off until later? Completing the Data Science Roadmap requires stepping through key considerations to determine which project(s) should be considered ‘top priority’ and at what pace these and subsequent projects should be initiated. \n\n1. Complete this “Rack and Stack Exercise” worksheet to determine the strategic alignment, cost, complexity of implementation, certainty of value capture, and magnitude of benefit for each of the six projects\n2. Complete the Data Science Opportunity Matrix, using slide 1 of the CEO Presentation Template (You may or may not decide to include this slide as part of your CEO presentation)\n3. Based on the information you prepared for #1, complete the “Data Science Roadmap” to capture the relative order and timing with which you would recommend the business carry out the six projects.\n\n**Step 3 - Establishing a Data Science Human Capital Strategy for your Data-driven Business**\n\nNow that we have established a roadmap for carrying out data science projects, our attention must turn to building and configuring the organization we will leverage to carry out this roadmap. The Data Science Human Capital Plan completed in this step will cover the organizational structure and talent configuration best suited to carry out the business’s roadmap, as well as the activities that the organization in particular -- and business more broadly -- must complete in order to promote a data-driven culture throughout the business.\n\n1. Identify the organizational model best suited for the data science organization at your company.\n2. Complete the “Human Capital Plan” Worksheet for your data science organization. \n  - Identify the first ten professional roles for which you would recruit. How would you organize these roles into teams within the organization? \n  - Assume that leadership will allocate four new FTE’s for your data science organization during the current fiscal year. How would you prioritize your organizational buildout?\n  - Craft a “Data-Driven Transformation Strategy” by identifying six specific initiatives that you would recommend the data science organization and/or the business undertakes in order to promote a data-driven culture across the business. \n\n**Step 4 - Establishing the Technical Infrastructure to Support the Data Science Organization**\n\nWith a completed Data Science Roadmap and a Human Capital Plan for executing the data science strategy, we turn our attention to the technological capabilities that must be built to support the new Data Science organization. \n\n1. Prepare a strategy that your business might consider to meet its Data and Data Architecture needs (use the “Data and Data Architecture Strategy” template provided in the resources to record your strategy).  \n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037253,
+          "key": "522a2bc9-9780-4c5e-9cd4-acb81daf782f",
+          "title": "Good Luck",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "522a2bc9-9780-4c5e-9cd4-acb81daf782f",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037255,
+              "key": "1890a07b-0d0b-4bac-9e85-3edcdc610eb8",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Good Luck",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037256,
+              "key": "8854743a-827f-4f6d-a64d-438889fe221d",
+              "title": "ND045 DSBL L05 Good Luck",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "mi7EOC9tyyo",
+                "china_cdn_id": "mi7EOC9tyyo.mp4"
+              }
+            },
+            {
+              "id": 1053095,
+              "key": "dc895999-06f6-443e-a1e9-27d22710f152",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Good Luck\nOnce you are finished with this project you should have the skills and confidence to help your business better adopt a Data Science Strategy!",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

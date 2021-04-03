@@ -1,0 +1,2021 @@
+{
+  "data": {
+    "lesson": {
+      "id": 1037668,
+      "key": "aeeb90b8-6dce-4d0d-97a3-a51287c197bf",
+      "title": "Principles of Data Science",
+      "semantic_type": "Lesson",
+      "is_public": true,
+      "version": "1.0.0",
+      "locale": "en-us",
+      "summary": "In this lesson,  you'll learn about the principles of data science to help you build a solid foundation. ",
+      "lesson_type": "Classroom",
+      "display_workspace_project_only": false,
+      "resources": {
+        "files": [
+          {
+            "name": "Videos Zip File",
+            "uri": "https://zips.udacity-data.com/aeeb90b8-6dce-4d0d-97a3-a51287c197bf/1037668/1598196310425/Principles+of+Data+Science+Videos.zip"
+          },
+          {
+            "name": "Transcripts Zip File",
+            "uri": "https://zips.udacity-data.com/aeeb90b8-6dce-4d0d-97a3-a51287c197bf/1037668/1598196302572/Principles+of+Data+Science+Subtitles.zip"
+          },
+          {
+            "name": "DSBL Exercises Template",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31c524_dsbl-exercises-template/dsbl-exercises-template.docx"
+          },
+          {
+            "name": "DSBL Exercise Visuals Template",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31c541_dsbl-exercise-visuals-template/dsbl-exercise-visuals-template.pptx"
+          },
+          {
+            "name": "DSBL Course Glossary",
+            "uri": "https://video.udacity-data.com/topher/2020/August/5f31d902_dsbl-course-glossary/dsbl-course-glossary.pdf"
+          }
+        ],
+        "google_plus_link": null,
+        "career_resource_center_link": null,
+        "coaching_appointments_link": null,
+        "office_hours_link": null,
+        "aws_provisioning_link": null
+      },
+      "project": null,
+      "lab": null,
+      "concepts": [
+        {
+          "id": 1037642,
+          "key": "7cea217b-1231-4d48-aeda-5d589ef7b2b9",
+          "title": "Introduction to Principles of Data Science",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "7cea217b-1231-4d48-aeda-5d589ef7b2b9",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037565,
+              "key": "3702dd73-3b2c-4944-820c-9052ca37c82d",
+              "title": "Introduction to Principles of Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Introduction to Principles of Data Science",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037547,
+              "key": "a50a4aad-ec7b-4781-93fd-d747ef6840e6",
+              "title": "ND045 DSBL L01 Introduction Of Principles Of Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "3aNfEmAb-9Q",
+                "china_cdn_id": "3aNfEmAb-9Q.mp4"
+              }
+            },
+            {
+              "id": 1037554,
+              "key": "d70ce690-043e-458e-a774-7ca76f985a11",
+              "title": "Introduction to Principles of Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Introduction to Principles of Data Science Summary\n**Topics to be covered in Lesson 1**\n* What is or isn’t Data Science? \n* Who is a Data Scientist?\n* Data Science Approaches\n* Types of Data Science problems\n* Data Science Process \n* Why Data Science Initiatives Fail\n* Foundational requirements for data science success\n\n\n### Lesson Objectives:\n\nUpon completion of Lesson 1, you should be able to successfully carry out the following tasks:\n- Classify data science projects in terms of Area, Approach, and Type of Model\n- For a given Area, Approach, and Model Type, provide one example project from your business \n- Given the particulars of a data science project, identify areas of concern that might lead to the projects failing\n- Given the particulars of a data science project, identify steps that could be taken to help ensure the project succeeds",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037644,
+          "key": "952d889b-11f1-4823-ad38-25e3aee74e23",
+          "title": "Overview",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "952d889b-11f1-4823-ad38-25e3aee74e23",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037560,
+              "key": "eca514dd-ddf7-48f8-86bc-9192d899e6c9",
+              "title": "Big Picture Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Overview",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037558,
+              "key": "5eb1a64e-c690-40aa-a499-0881ecb23b23",
+              "title": "ND045 DSBL L01 Principles Of Data Science - Big Picture",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "Sklhq9U5pN4",
+                "china_cdn_id": "Sklhq9U5pN4.mp4"
+              }
+            },
+            {
+              "id": 1050659,
+              "key": "55fad61b-0c0e-44a6-9242-bf1107ee23fa",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Overview",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037549,
+              "key": "41ce8edd-d7fe-4c7b-a180-f33385ea0cde",
+              "title": "Big Picture Heading Image",
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2ae263_l1-lesson-outine/l1-lesson-outine.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/41ce8edd-d7fe-4c7b-a180-f33385ea0cde",
+              "caption": "Lesson Overview",
+              "alt": "Lesson Overview",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1037562,
+              "key": "d85d4785-03e7-44c9-9244-9d14d8203299",
+              "title": "Big Picture Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Big Picture Summary\n**This first lesson introduces several types of data science problems:**\n* Supervised methods\n* Unsupervised methods\n* Semi-Supervised methods\n* Deep Learning\n* Natural Language Processing\n* Automatic Speech Recognition\n* Voice recognition\n* Computer vision\n* Recommender Systems\n* Knowledge-based systems\n* Reinforcement Learning (optimization)\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1044723,
+              "key": "d36d06c0-f25d-49cb-b6d6-90eaccc5a247",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "d36d06c0-f25d-49cb-b6d6-90eaccc5a247",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Today, nearly everybody's life is affected in one way or another by data science.",
+                "answers": [
+                  {
+                    "id": "a1594654547716",
+                    "text": "True",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594654572945",
+                    "text": "False",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037661,
+          "key": "12dd2a4d-8eb6-4a8d-aef1-d63ec21bede5",
+          "title": "What are Data Science Skills",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "12dd2a4d-8eb6-4a8d-aef1-d63ec21bede5",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037550,
+              "key": "7745226f-696a-429f-adec-cb10917c8ef7",
+              "title": "Developing Your Intuition About Data Science Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## What are Data Science Skills",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037561,
+              "key": "ea62b585-5503-464a-9a3e-7672bb831292",
+              "title": "ND045 DSBL L01 Developing Your Intuition About Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "l2fMgkAcobE",
+                "china_cdn_id": "l2fMgkAcobE.mp4"
+              }
+            },
+            {
+              "id": 1037548,
+              "key": "1393fa00-375c-4fb1-b744-ed1cbd86b134",
+              "title": "Developing Your Intuition About Data Science Summary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Summary\n\nData science requires skills typically found across other technical and business fields, including computer science (coding), mathematics/statistics (quantitative methods), and business (business operation and strategy)\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045674,
+              "key": "c9aad780-4f60-4e70-b498-f7906dce009a",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "c9aad780-4f60-4e70-b498-f7906dce009a",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "True or False: Data science requires skills typically found across other technical and business fields, including computer science, mathematics/statistics, and business.",
+                "answers": [
+                  {
+                    "id": "a1595080224203",
+                    "text": "True",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1595080252794",
+                    "text": "False",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037657,
+          "key": "b83bbb47-071c-4061-9b6e-534112c7c2c0",
+          "title": "What Is Data Science?",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "b83bbb47-071c-4061-9b6e-534112c7c2c0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037559,
+              "key": "6f55139f-ded3-4d2e-8b6a-9571b28e00c3",
+              "title": "What is or isn’t Data Science? Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## What Is Data Science?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037581,
+              "key": "cf9345d9-5e59-4549-ada5-5d1b62953b19",
+              "title": "ND045 DSBL L01 What Is Data Science",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "HGElAcAScPY",
+                "china_cdn_id": "HGElAcAScPY.mp4"
+              }
+            },
+            {
+              "id": 1046822,
+              "key": "796eff63-2e25-4df3-9457-92dc062137c9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## What Is Data Science? \n**Key Areas of Data Science**\n- **Data Science**: A field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. \n- **Data Analytics**: the science of analyzing raw data in order to drive business processes and improve business outcomes. \n- **Artificial Intelligence**: A class of algorithms that direct machines in activities that mimic the cognition and action of humans. \n- **Machine Learning**: a family of statistical approaches that use modern statistics to find patterns, classify outcomes, and make predictions using massive amounts of data. \n\n[Data Science Definition Data Science Basics | Data Science For Life.]( https://datasciencebase.com/)\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051150,
+              "key": "fafe77d6-f3b7-4dc6-80ef-9d0469a0c957",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c143c_what-is-data-science/what-is-data-science.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/fafe77d6-f3b7-4dc6-80ef-9d0469a0c957",
+              "caption": "What is Data Science",
+              "alt": "What is Data Science",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051151,
+              "key": "56c4a8cc-bc89-4e36-9c04-a738d837f5ca",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Machine Learning Examples",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051152,
+              "key": "71e5fcbd-f5fb-4efc-93c9-33f018b5bebc",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1486_ml-examples/ml-examples.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/71e5fcbd-f5fb-4efc-93c9-33f018b5bebc",
+              "caption": "Machine Learning Examples",
+              "alt": "Machine Learning Examples",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037641,
+          "key": "f08bee1e-7498-4995-8905-9361d393311c",
+          "title": "Quizzes: What Is Data Science? ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "f08bee1e-7498-4995-8905-9361d393311c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037551,
+              "key": "a1311696-eb18-43e0-ae47-c83773158ea3",
+              "title": "What is or isn’t Data Science? Easy Quiz",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## What Is Data Science? Quizzes",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1043911,
+              "key": "d638a3eb-b4d6-4fed-a79b-5b5d1136d303",
+              "title": "What is Data Science?",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "d638a3eb-b4d6-4fed-a79b-5b5d1136d303",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represent areas of data science?",
+                "answers": [
+                  {
+                    "id": "a1594211274545",
+                    "text": "Machine Learning",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594211310767",
+                    "text": "Artificial Intelligence",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594211311405",
+                    "text": "Data Analytics",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1595274006580",
+                    "text": "User Interface Design",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044662,
+              "key": "59c8200b-36dd-4983-87ea-8300729a813b",
+              "title": "",
+              "semantic_type": "MatchingQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "59c8200b-36dd-4983-87ea-8300729a813b",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "complex_prompt": {
+                  "text": "Please match the area of data science to the correct description of that area"
+                },
+                "concepts_label": "Area",
+                "answers_label": "Description",
+                "concepts": [
+                  {
+                    "text": "Machine Learning",
+                    "correct_answer": {
+                      "id": "a1594564107135",
+                      "text": "A family of statistical approaches that use modern statistics to find patterns, classify outcomes, and make predictions using massive amounts of data. "
+                    }
+                  },
+                  {
+                    "text": "Artificial Intelligence",
+                    "correct_answer": {
+                      "id": "a1594564141020",
+                      "text": "A class of algorithms that direct machines in activities that mimic the cognition and action of humans."
+                    }
+                  },
+                  {
+                    "text": "Data Science",
+                    "correct_answer": {
+                      "id": "a1594564142061",
+                      "text": "A field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. "
+                    }
+                  },
+                  {
+                    "text": "Data Analytics",
+                    "correct_answer": {
+                      "id": "a1594564143579",
+                      "text": "The science of analyzing raw data in order to drive business processes and improve business outcomes. "
+                    }
+                  }
+                ],
+                "answers": [
+                  {
+                    "id": "a1594564141020",
+                    "text": "A class of algorithms that direct machines in activities that mimic the cognition and action of humans."
+                  },
+                  {
+                    "id": "a1594564107135",
+                    "text": "A family of statistical approaches that use modern statistics to find patterns, classify outcomes, and make predictions using massive amounts of data. "
+                  },
+                  {
+                    "id": "a1594564142061",
+                    "text": "A field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. "
+                  },
+                  {
+                    "id": "a1594564143579",
+                    "text": "The science of analyzing raw data in order to drive business processes and improve business outcomes. "
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037660,
+          "key": "a5062254-e1e4-4e74-9b2e-41c1a2e31e78",
+          "title": "Who is a Data Scientist?",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "a5062254-e1e4-4e74-9b2e-41c1a2e31e78",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037582,
+              "key": "cf6cdb90-183e-4ea0-83b0-bc30d487023f",
+              "title": "Who is a Data Scientist? Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who is a Data Scientist?",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037597,
+              "key": "e414275e-6582-4b36-be9a-220f45d33831",
+              "title": "ND045 DSBL L01 Who Is A Data Scientist",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "iYZwCqaE9OI",
+                "china_cdn_id": "iYZwCqaE9OI.mp4"
+              }
+            },
+            {
+              "id": 1037574,
+              "key": "1b84bdcc-8306-4623-b491-951b5617a39b",
+              "title": "Who is a Data Scientist? Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who is a Data Scientist? Summary\n**Skills required of data scientists:**\n* Coding\n* Statistical methodology\n* Communication\n* Business strategy\n* Machine learning\n* Quantitative reasoning. \n\n**Common academic degree training among data scientists:** \n* Computer Science\n* Statistics\n* Mathematics\n* Engineering\n* Physics\n* Economics \n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037662,
+          "key": "50846f26-8689-41ab-9fe1-8c6817491fda",
+          "title": "Quizzes: Who is a Data Scientist? ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "50846f26-8689-41ab-9fe1-8c6817491fda",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1043912,
+              "key": "eb8e3217-a50f-4798-8691-fda466c649d4",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "eb8e3217-a50f-4798-8691-fda466c649d4",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represents skills valuable to the data science role? Check all that apply.",
+                "answers": [
+                  {
+                    "id": "a1594211702215",
+                    "text": "Coding",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594211739557",
+                    "text": "Statistical Methodology",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594211750302",
+                    "text": "Artistic Expression",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594211750972",
+                    "text": "Business Strategy",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594211753118",
+                    "text": "Machine Learning",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594564757714",
+                    "text": "Quantitative Reasoning",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1595274283089",
+                    "text": "Communication",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044663,
+              "key": "ff018025-e736-4be6-9f95-0317e0b6cc1a",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "ff018025-e736-4be6-9f95-0317e0b6cc1a",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "For data scientists whose primary training is in Computer Science, which of the following represents areas in which they may need additional training?",
+                "answers": [
+                  {
+                    "id": "a1594565757572",
+                    "text": "Statistical Methodology",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594565770282",
+                    "text": "Coding",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594565771135",
+                    "text": "Business Strategy",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044664,
+              "key": "b538d555-f68e-4c53-b128-af1fad569d44",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b538d555-f68e-4c53-b128-af1fad569d44",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "For data scientists whose primary training is in Engineering which of the following represents areas in which they may need additional training?",
+                "answers": [
+                  {
+                    "id": "a1594565923428",
+                    "text": "Quantitative Reasoning",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594565959217",
+                    "text": "Coding",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594565960050",
+                    "text": "Business Strategy",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044665,
+              "key": "b1aee619-fb8d-4908-925e-119f59228def",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b1aee619-fb8d-4908-925e-119f59228def",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "For data scientists whose primary training is in Economics, which of the following represents areas in which they may need additional training?",
+                "answers": [
+                  {
+                    "id": "a1594566108085",
+                    "text": "Quantitative Reasoning",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594566146299",
+                    "text": "Coding",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594566147088",
+                    "text": "Business Strategy",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037648,
+          "key": "1bac5439-5f24-4795-9106-ad6478ca666e",
+          "title": "Exercise: Who is a Data Scientist? ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "1bac5439-5f24-4795-9106-ad6478ca666e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037603,
+              "key": "8cde8c2e-a5ea-4130-9638-1aa33b18cc6c",
+              "title": "Who is a Data Scientist? Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who is a Data Scientist? Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045079,
+              "key": "8287385c-2d58-4de9-9547-749e91b9e6d9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Welcome to the first exercise in the course**\n\nYour responses to exercises are vital to deepening your understanding of the concepts and skills in each lesson. In order for you to keep a permanent copy of these responses for future reference (both during and after your completion of the course), we have created a template to use. \n\nPlease download a copy of **DSBL Exercises Template**  and **DSBL Exercise Visuals Template**, from the upper left corner of this page in the **Lesson Materials** section, and use them throughout the course to record your exercise responses.\n\n***\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1043726,
+              "key": "59fb1f35-c173-4e54-9625-169c12b88e32",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "**Please locate Lesson 2: Exercise 1: Who is a Data Scientist**  in your downloaded template\n\n\nWe have covered the core skills of data scientists. Data scientists may come to the field with training in a variety of academic traditions. For each of the following academic backgrounds, provide one core strength likely to aid in data science work, and at least one area that might need additional exposure or training. \n\n   *   Computer Science\n   *   Statistics\n   *   Mathematics\n   *   Engineering\n   *   Business Administration\n   *   Physics\n   *   Economics \n    ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045371,
+              "key": "ee86e408-7ad4-4d91-bef0-4ac7769ccd12",
+              "title": "Academic Areas",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "ee86e408-7ad4-4d91-bef0-4ac7769ccd12",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Computer Science",
+                "Statistics",
+                "Mathematics",
+                "Engineering",
+                "Business Administration",
+                "Physics",
+                "Economics"
+              ],
+              "positive_feedback": "Excellent work. Data Science can impact all academic areas. Let's see how the instructor answered this on the next page!",
+              "video_feedback": null,
+              "description": "I completed the \"Who is a data scientist\" exercise for each of the following:"
+            }
+          ]
+        },
+        {
+          "id": 1037652,
+          "key": "eee6501d-1add-4938-a174-6960991f5aca",
+          "title": "Who is a Data Scientist? Exercise Solution",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "eee6501d-1add-4938-a174-6960991f5aca",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037579,
+              "key": "b8e45537-3198-4b0d-9c0c-ae3c317fa81b",
+              "title": "Who is a Data Scientist? Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Who is a Data Scientist? Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037594,
+              "key": "efdae902-b816-4640-a711-cf4f7d6f3cbf",
+              "title": "ND045 DSBL L01 Who Is A Data Scientist - Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "SSj6AoqwF0s",
+                "china_cdn_id": "SSj6AoqwF0s.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037646,
+          "key": "0436ce27-de7c-4c42-8f61-8bbf3f938c7d",
+          "title": "Data Science Approaches",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "0436ce27-de7c-4c42-8f61-8bbf3f938c7d",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037590,
+              "key": "e541597d-5191-444d-bec2-9cef4d095313",
+              "title": "Data Science Approaches Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Approaches",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037599,
+              "key": "0c7466ae-7652-41d7-9e97-55142d157222",
+              "title": "ND045 DSBL L01 Data Science Approaches V2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "t3fIeVUftFw",
+                "china_cdn_id": "t3fIeVUftFw.mp4"
+              }
+            },
+            {
+              "id": 1037591,
+              "key": "52770911-d9a7-47f1-9bf2-c681201345eb",
+              "title": "Data Science Approaches Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Approaches Summary\n\n**Three general approaches to data science problems**\n* **Descriptive Approaches**: require statistical analysis to identify, summarize, and describe a phenomenon of interest.\n* **Predictive Approaches**: attempt to predict a categorical or numeric outcome given a collection of inputs.\n* **Prescriptive Approaches**: build on descriptive and predictive models with a bias toward action over monitoring.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051153,
+              "key": "408e57b4-06b0-45c5-9e5d-6c95e2b529d8",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1509_data-science-approaches/data-science-approaches.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/408e57b4-06b0-45c5-9e5d-6c95e2b529d8",
+              "caption": "Data Science Approaches",
+              "alt": "Data Science Approaches",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037666,
+          "key": "841b3630-31d5-4558-9597-29a26c926181",
+          "title": "Quizzes: Data Science Approaches ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "841b3630-31d5-4558-9597-29a26c926181",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044093,
+              "key": "c3e61317-66c1-40a8-80c6-d9b0fd851554",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "c3e61317-66c1-40a8-80c6-d9b0fd851554",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Acquiring and retaining customers can be expensive objectives for a business; a Marketing department will often use data science to try to understand which potential customers are likely to become customers, and which current customers might be at risk of attrition (leaving). Data science models that address these questions are most likely of what approach?\n\n",
+                "answers": [
+                  {
+                    "id": "a1594292266245",
+                    "text": "Descriptive Analytics",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594292290985",
+                    "text": "Predictive Analytics",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594292291884",
+                    "text": "Prescriptive Analytics",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044092,
+              "key": "779f5bd1-9c0a-482c-8354-9b07361ed472",
+              "title": " ",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "779f5bd1-9c0a-482c-8354-9b07361ed472",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Customer Segmentation, another common objective of Marketing data science initiatives, seeks to provide in-depth understanding of their customers; different subgroups of customers are identified, toward which specific marketing and sales initiatives can be crafted. Data science models that address these question are most likely of what approach?",
+                "answers": [
+                  {
+                    "id": "a1594291855819",
+                    "text": "Descriptive Analytics",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594292133268",
+                    "text": "Predictive Analytics",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594292134422",
+                    "text": "Prescriptive Analytics",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037651,
+          "key": "03b27ab7-1e44-4ab1-84ac-7bca052be963",
+          "title": "Types of Data Science Problems",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "03b27ab7-1e44-4ab1-84ac-7bca052be963",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037587,
+              "key": "f66c57d3-b3e8-42e3-94fc-735db528b36a",
+              "title": "Types of Data Science problems Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051165,
+              "key": "7c45d8ce-6acb-422f-8f05-f51ba261c837",
+              "title": "ND045 DSBL L01 Types Of Data Science Problems Part 1",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "mCsPqZqmUkc",
+                "china_cdn_id": "mCsPqZqmUkc.mp4"
+              }
+            },
+            {
+              "id": 1046823,
+              "key": "4fab56bb-a241-4aee-b405-585fabc25c42",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems Part 1 Summary\n\nPerhaps the most common class of data science method is supervised learning. \n\n**Supervised Learning Methods**: target a designated outcome, whether it be a numerical value or a category.\n* **Regression**: Predicting toward a numerical outcome  \n* **Classification**: Predicting toward a categorical outcome\n* **Deep Learning**: Powerful class of supervised learning methods that underpins many of today's most exciting use cases in artificial intelligence.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037618,
+              "key": "f2022614-905b-4ff6-8cd0-91690dc733d0",
+              "title": "ND045 DSBL L01 Types Of Data Science Problems Part 2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "DxMH1qm1-Lw",
+                "china_cdn_id": "DxMH1qm1-Lw.mp4"
+              }
+            },
+            {
+              "id": 1037601,
+              "key": "46ebbef6-c223-424c-b10d-514c71c1b54f",
+              "title": "Types of Data Science problems Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems Part 2 Summary\n\n**Unsupervised Learning Models**: exploit patterns in the data but are not concerned about predicting a specific outcome. \n- **Clustering Algorithms**: is to identify groups of cases according to similarities in their variables. \n- **Anomaly Detection Methods**: are used to identify aberrant or unusual cases, based on the collection of variables that characterize those cases. \n- **Dimensionality Reduction**: is a technique for reducing the complexity of the set of features or variables that might subsequently be used in a supervised learning context.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051039,
+              "key": "aa514a93-860b-4074-b757-fd1b2ca15eaf",
+              "title": "ND045 DSBL L01 Types Of Data Science Problems Part 3",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "ZRLeD1mbR4s",
+                "china_cdn_id": "ZRLeD1mbR4s.mp4"
+              }
+            },
+            {
+              "id": 1046826,
+              "key": "1477f3db-49a3-40a7-a946-a508877017d7",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems Part 3 Summary\n**Other data science methods include:**\n- **Semi-Supervised Learning**: combines supervised and supervised learning techniques in cases for which only a small number of cases are \"labeled\" (i.e., have a measured outcome associated with them). \n- **Reinforcement Learning**:  represents a family of algorithms that learn in a “trial and error” fashion. \n- **Recommender Systems**: exploit similarities between cases (such as customer purchase behavior) to recommend a next item or action based on what was preferred by those most similar to the case in hand.  \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051154,
+              "key": "b4b45efe-6dc3-4998-9c6d-dece29d3e723",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1555_ds-problems/ds-problems.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/b4b45efe-6dc3-4998-9c6d-dece29d3e723",
+              "caption": "Data Science Problems",
+              "alt": "Data Science Problems",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037650,
+          "key": "a13bebbf-26cf-442e-8868-30ad0d89ebcb",
+          "title": "Quizzes: Types of Data Science Problems ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "a13bebbf-26cf-442e-8868-30ad0d89ebcb",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044094,
+              "key": "238670f4-eb54-46e0-8236-8a7ece737d48",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "238670f4-eb54-46e0-8236-8a7ece737d48",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "We have discussed the value in predicting the likelihood that potential customers might actually become customers. This is most likely a case in which what type of data science (machine learning) model might be used? ",
+                "answers": [
+                  {
+                    "id": "a1594292477704",
+                    "text": "Supervised model",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594292628696",
+                    "text": "Unsupervised model",
+                    "is_correct": false
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044095,
+              "key": "3905db09-a530-4480-9248-8b495d995a06",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "3905db09-a530-4480-9248-8b495d995a06",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "We have discussed customer segmentation, wherein the goal is to understand the characteristics of different groups of customers. This is most likely a case in which what type of data science (machine learning) model might be used?",
+                "answers": [
+                  {
+                    "id": "a1594292763856",
+                    "text": "Supervised model",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594292819093",
+                    "text": "Unsupervised model",
+                    "is_correct": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037649,
+          "key": "aaa28482-ee23-4d53-bd98-d7c38003d765",
+          "title": "Exercise: Types of Data Science Problems ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "aaa28482-ee23-4d53-bd98-d7c38003d765",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037604,
+              "key": "07c83ba3-bf4c-48ae-becf-14dd9b43f6aa",
+              "title": "Types of Data Science problems Exercise Instructions",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems Exercise",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037605,
+              "key": "8f704b81-6678-4285-b154-866268ecc9c5",
+              "title": "Types of Data Science problems Exercise",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate *Exercise 2: Types of Data Science Problems* in your downloaded template\n\nGiven a number of example data science projects in Marketing, classify each in terms of the following:\n\n *   Data Science Approach: Descriptive vs. Predictive vs. Prescriptive\n *   Type of Model: Supervised (Regression) vs. Supervised (Classification) vs. Unsupervised  (Clustering; Anomaly Detection) vs. Natural Language Processing vs. Recommender Systems vs. Knowledge-based systems vs. Deep Learning\n***\n(Specific details for each provided in the exercise in your template)\n\n**Example Project 1: Marketing Message Optimization**\n\n**Example Project 2: Marketing Segmentation** \n\n**Example Project 3: Understanding Customer Churn** \n\n**Example Project 4: Customer Loyalty Program**\n\n**Example Project 5: Customer Loyalty Assessment** \n\n\n**Example Project 6: Assessing Customer Attitudes** \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045366,
+              "key": "3e25535e-cd11-45ca-9007-e87e0ea5443a",
+              "title": "",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "3e25535e-cd11-45ca-9007-e87e0ea5443a",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Example Project 1: Marketing Message Optimization",
+                "Example Project 2: Marketing Segmentation",
+                "Example Project 3: Understanding Customer Churn",
+                "Example Project 4: Customer Loyalty Program",
+                "Example Project 5: Customer Loyalty Assessment",
+                "Example Project 6: Assessing Customer Attitudes"
+              ],
+              "positive_feedback": "Great job, please to head to the next page for the answers!",
+              "video_feedback": null,
+              "description": "Complete the following in the provided template."
+            }
+          ]
+        },
+        {
+          "id": 1037653,
+          "key": "e6a2f4f1-54bb-4f7f-8f7c-e24dd5ac9654",
+          "title": "Solution: Types of Data Science Problems Exercise ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e6a2f4f1-54bb-4f7f-8f7c-e24dd5ac9654",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037608,
+              "key": "22094103-93c2-4f64-a7df-b61d75b900f2",
+              "title": "Types of Data Science problems Exercise Solution Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Types of Data Science Problems Exercise Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037611,
+              "key": "0e3c8ce4-9c07-4a10-abfb-2192e9664ee0",
+              "title": "ND045 DSBL L01 Types Of Data Science Problems Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "nLGfgKDxfjY",
+                "china_cdn_id": "nLGfgKDxfjY.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037655,
+          "key": "a345a8e4-d4ee-45bf-ac66-06507ceacf32",
+          "title": "Data Science Process",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "a345a8e4-d4ee-45bf-ac66-06507ceacf32",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037619,
+              "key": "b7ccd526-8980-4e9a-9835-9984253bdbaf",
+              "title": "Data Science Process Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Process",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051714,
+              "key": "34463e0c-4369-4961-ad88-6def15b37625",
+              "title": "ND045 DSBL L01 Data Science Process",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "jwEty2n8wy8",
+                "china_cdn_id": "jwEty2n8wy8.mp4"
+              }
+            },
+            {
+              "id": 1046906,
+              "key": "fcd8e1a8-8a56-4522-97a7-bbcdb1307ee9",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Steps of the Data Science Process\n1. Identify Opportunity and KPI’s, determine success criteria\n2. Collect Data\n3. Explore, understand, and prepare data\n4. Identify the Methodological Approach\n5. Partition Data\n6. Build and Evaluate Models\n7. Deploy Models and Institutionalize\n8. Maintain Models in Production (Retrain, Rollback, Redeploy)\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051155,
+              "key": "07554b7d-54b1-426d-89ff-f25c13d1228a",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1627_ds-process/ds-process.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/07554b7d-54b1-426d-89ff-f25c13d1228a",
+              "caption": "Steps of the Data Science Process",
+              "alt": "Steps of the Data Science Process",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051166,
+              "key": "9eca1828-3fd2-44bf-b41b-dce9d018eecf",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Process Walkthrough Part 1",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037600,
+              "key": "5bd2dadc-f08f-41ed-a53c-8729aaad9b22",
+              "title": "ND045 DSBL L01 Data Science Process Walkthrough Part 1 V2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "2PGtYW_Hb4g",
+                "china_cdn_id": "2PGtYW_Hb4g.mp4"
+              }
+            },
+            {
+              "id": 1051168,
+              "key": "16855c71-1e5e-4dd1-aeb6-5ff859b3bc8b",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Walkthrough Summary\n\nA digital telehealth startup receives messages of all kinds from its patients. \n* One patient may want a copy of last month's invoice. \n* A second patient might want to know more about switching from a daily formulation to a monthly formulation. \n* A third patient might be reporting side effects such as headaches, dizziness, and arm numbness after starting a new medication. \n\nClearly these messages differ in the content; the first might be appropriate for customer support, whereas the other two might need to go directly to a medical provider. Moreover, they differ in urgency. The third patient, dealing with critical side effects of a new medication, clearly has a more urgent need than the second patient who is just curious about changing the frequency with which the medication is taken. \n\nAs a startup grows, these messages might be handled by a single person processing them in a queue and sending them to either customer support or medical support.  As volume grows, however, this soon becomes unwieldy, and an automated process for classifying, and routing these messages might be desired. \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051169,
+              "key": "2974520d-81ba-426d-9b65-81878667155b",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f402c7d_slide-73/slide-73.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/2974520d-81ba-426d-9b65-81878667155b",
+              "caption": "Data Science Walkthrough Example",
+              "alt": "Data Science Walkthrough Example",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            },
+            {
+              "id": 1051167,
+              "key": "f9a2a2c1-80d5-41a8-8124-8e5208a7d891",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Data Science Process Walkthrough Part 2",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037610,
+              "key": "788d0437-44df-46d2-a1cf-d74dfddeeada",
+              "title": "ND045 DSBL L01 Data Science Process Walkthrough Part 2",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "eEKxGkTz3no",
+                "china_cdn_id": "eEKxGkTz3no.mp4"
+              }
+            },
+            {
+              "id": 1051170,
+              "key": "7450947e-2a68-47d8-af5a-ca3507886679",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Walkthrough Summary Part 2\n\n1. _Identify the opportunity._ Here, a machine learning classifier can be employed to bypass a message queue.  This can cut down response times and increase customer satisfaction.  Furthermore, we reduce the risks associated with delays in responding to urgent medical needs, which gives an increase in the level of medical care. \n2. _Obtain the data._ In this case, we will need a large sample of patient messages that vary in their content. This initially may involve simply extracting data from a data warehouse, but in production might require ETL pipelines to bring data to the production system. We will ultimately also need to have the correct classifications for those messages (medical, nonmedical; urgent/nonurgent) so we can train a machine-learning algorithm to do this automatically. \n3. _Prepare the data._ In this case, we will need the message data and all metadata, that is, data besides message content that includes characteristics of the sender, the timing of the message, and so forth.  All this data will need to be cleaned and prepared in a structured form for analysis by a machine learning model. \n4. _Identify modeling approaches._ Here we are looking at supervised learning with a classification task - messages must be classified as medical or nonmedical and as urgent or nonurgent. As such, our modeling approaches would include classification algorithms, such as deep learning approaches, or iterative approaches such as a random forest or gradient boosted machine. We would also identify approaches for carrying out the natural language processing required of classifying text content. In this case, we may choose, for example, a TF-IDF approach to scoring text features extracted from messages. \n5. _Partition our data._ We typically choose the majority of data as a training set -- that is, the data that we will use to train the model to classify messages. A common tactic here is to choose, say, 70% of the data as our training data. The remainder of this data represents our test set. This data is held out from model training to provide an unbiased set of data on which to test model performance. We typically randomly partition data to the training and test sets and may stratify this randomization if there are particular characteristics that need to be represented across both datasets. \n6. _Build and evaluate models based on our training data._ As mentioned before, we may consider deep learning models and other iterative classifiers, such as tree-based methods or a support vector machine. We evaluate based on how accurately they classify messages, according to various fit statistics and model performance measures. We use business context to prioritize the measures that are most critical to evaluate the task at hand. For example, we may prioritize the minimization of false positives or false negatives, or maximize specificity or sensitivity, or optimize for precision or recall. You need not know the definitions of all these measures; they are all characteristics of model fit, and you may pay particular attention to one or another depending on the consequences of the model failing to identify certain priority cases. \n7. _Deploy that model._ The particulars of deployment will depend on the use case. In this case, we may choose to host the model in a cloud environment, accessible via API calls. Models can also be integrated into applications or can stand alone and generate classifications in more of a batch mode. \n8. _Maintain the production model._ We must monitor the performance of our model to protect against drift or degraded performance over time. We must periodically retrain our model using a newly updated training set to ensure that we are reflecting the full set of messages that may need to be classified. Finally, we may choose to roll back and redeploy a new model that performs better than the one currently in production. ",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037632,
+              "key": "018dbbfb-db07-43d0-81e3-4d5fb648f098",
+              "title": "Data Science Process Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Key Terms:\n- **KPI**: Key Performance Indicator used to measure success.\n- **ETL**: Extract, Transfer, Load is a process for creating a reliable data pipeline.\n- **Training Data**: A partition of data used to train your machine learning models.\n- **Testing Data**: A partition of data used to evaluate your machine learning model.",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037665,
+          "key": "62640e4f-762f-493e-a817-0cdb4249513e",
+          "title": "Quizzes: Data Science Process ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "62640e4f-762f-493e-a817-0cdb4249513e",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044096,
+              "key": "8eeb9f21-8a9b-4bca-8fa3-071434500a28",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "8eeb9f21-8a9b-4bca-8fa3-071434500a28",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Of the stages of the Data Science Process, the stage that typically requires the greatest amount of time is building and evaluating models.",
+                "answers": [
+                  {
+                    "id": "a1594293434751",
+                    "text": "True",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594293559980",
+                    "text": "False",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044666,
+              "key": "988fe4a9-1d48-4a79-9962-a5cc0f8d9c6f",
+              "title": "",
+              "semantic_type": "RadioQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "988fe4a9-1d48-4a79-9962-a5cc0f8d9c6f",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following terms best describes the steps of the Data Science Process?",
+                "answers": [
+                  {
+                    "id": "a1594566565135",
+                    "text": "Consecutive",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594566605024",
+                    "text": "Speculative",
+                    "is_correct": false
+                  },
+                  {
+                    "id": "a1594566605649",
+                    "text": "Iterative",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594566606457",
+                    "text": "Circular",
+                    "is_correct": false
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037658,
+          "key": "e186f4d3-4bc6-44a4-97ed-3b1a11662eb3",
+          "title": "Why Data Science Initiatives Fail",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e186f4d3-4bc6-44a4-97ed-3b1a11662eb3",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037624,
+              "key": "baccbde0-1c68-4c85-9951-521a6ef0c01d",
+              "title": "Why Data Science Initiatives Fail Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Why Data Science Initiatives Fail",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037616,
+              "key": "42437376-4429-459d-9848-13fdb6786b1f",
+              "title": "ND045 DSBL L01 Why Data Science Initiatives Fail",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "76V0MOIhBow",
+                "china_cdn_id": "76V0MOIhBow.mp4"
+              }
+            },
+            {
+              "id": 1037583,
+              "key": "fbc178e3-5ee9-4525-bc5e-9112af0cf90a",
+              "title": "Why Data Science Initiatives Fail Notes",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Why Data Science Initiatives Fail Summary\n\n**Ed's 13 causes of data science failure:**\n1. The Data Science Initiative is not aligned with the business’s strategic objectives and therefore fails to address a critical business need.\n2. Groups and people in the organization failed to collaborate well enough around the data science project.\n3. The Data Science Initiative didn't produce the results expected by the business.\n4. The data science initiative failed to maintain sufficient support and buy-in from the executive leaders in the business.\n5. Expectations were set too high, and the resulting product did not measure up.\n6. The idea behind the data science project is flawed and simply won't work as designed.\n7. The idea is great, but there's not enough information or variation in the data for data science and machine learning to detect a robust signal and provide the intended results.\n8. Governance rules restrict the data and uses of the data.\n9. The data exists in different silos and cannot be integrated or reconciled.\n10. The data was not well understood and could not be used as expected for the Data Science Initiative.\n11. The machine learning training set was insufficient.\n12. Insufficient resources – people, hardware, and software – were allocated to the project.\n13. The culture of the business is not accepting of data science and digital \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1046926,
+              "key": "dcd942e9-0821-4987-a49a-706cca298423",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "### Additional Resources:\n\nFor a second perspective on the causes of data science failure, you may wish to check out \n- [McKinsey's 10 Red Flags for Analytics Programs](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail).\n",
+              "instructor_notes": ""
+            }
+          ]
+        },
+        {
+          "id": 1037654,
+          "key": "e43dbaba-be0b-4f97-b6d8-95116e77053c",
+          "title": "Quizzes: Why Data Science Initiatives Fail ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e43dbaba-be0b-4f97-b6d8-95116e77053c",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044097,
+              "key": "a44c1354-4081-4159-a1b3-7fb2402f7564",
+              "title": "",
+              "semantic_type": "CheckboxQuizAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "a44c1354-4081-4159-a1b3-7fb2402f7564",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "prompt": "Which of the following represents common reasons for the failure of data science initiatives?",
+                "answers": [
+                  {
+                    "id": "a1594293797800",
+                    "text": "The project didn’t produce the results expected by the business. ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594293825850",
+                    "text": "Data required of the initiative exists in different silos and could not be integrated or reconciled. ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594293826567",
+                    "text": "Potential ethical, social, and regulatory issues were not identified. ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594293827171",
+                    "text": "The project failed to maintain sufficient support from the leadership of the organization. ",
+                    "is_correct": true
+                  },
+                  {
+                    "id": "a1594293827965",
+                    "text": "Expectations were set too high and the resultant product doesn’t measure up to them.",
+                    "is_correct": true
+                  }
+                ]
+              }
+            },
+            {
+              "id": 1044667,
+              "key": "c029030e-4f44-4031-bd7b-67eb5f1dbec9",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "c029030e-4f44-4031-bd7b-67eb5f1dbec9",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "In order to \"sell\" the executive team on a data science initiative, a leader has strongly promoted all the exciting things that data science will do to transform the business. What is one risk inherent in this strategy for gaining executive buy-in?"
+              },
+              "answer": {
+                "text": "The temptation to promote the potential of data science is natural, but there can be many risks in 'overselling' data science projects. One primary risk that often leads to failure of data science projects occurs when expectations are set too high and the resultant product fails to measure up.\n",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1039111,
+          "key": "ffccce7b-d457-4b8b-9998-ac8b7005d742",
+          "title": "Exercise: Why Data Science Initiatives Fail",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "ffccce7b-d457-4b8b-9998-ac8b7005d742",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1039112,
+              "key": "deb9688a-d5c3-41a6-8442-de4a42fe40fd",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate *Lesson 2: Exercise 3: Why Data Science initiatives Fail* in your downloaded template\n\nConsider projects 1 and 2 below. What are three areas of concern that might lead to each of these projects failing?\n\t\n**Example Project 1: Marketing Message Optimization** \n\nThe consumer division of an electronics company uses a variety of modalities to market its product directly to consumers via email outreach. For any marketing campaign, there are a variety of ways that a message might be articulated and displayed. An automated test and optimization application could randomly assign alternative messages to different clusters of potential customers and identify which of those messages were performing better than others.\n\n**Example Project 2: Marketing Segmentation**  \n\nA customer-centric business knows who their customer is and what motivates them to purchase. The marketing team has historically organized its efforts around customer *archetypes*. Developing these personas has to this point been a manual process, but leadership believes there may be an opportunity to use clustering techniques to analyze the rich data they have on customers to create data-driven customer archetypes that better reflect empirical differences between customer types.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045372,
+              "key": "b8ea2c6c-fa6b-4980-bffa-c9dd8ef28a87",
+              "title": "Why Data Science Initiatives fail",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "b8ea2c6c-fa6b-4980-bffa-c9dd8ef28a87",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Example Project 1: Marketing Message Optimization",
+                "Example Project 2: Marketing Segmentation"
+              ],
+              "positive_feedback": "Great work! Find out more about why projects fail on the next page.",
+              "video_feedback": null,
+              "description": "I completed 3 areas of concern for each:"
+            }
+          ]
+        },
+        {
+          "id": 1039113,
+          "key": "133ae2e8-c157-4ab1-bd75-578578dcecb0",
+          "title": "Solution: Why Data Science Initiatives Fail ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "133ae2e8-c157-4ab1-bd75-578578dcecb0",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1039114,
+              "key": "a8f60038-6498-4708-b9af-dee29a4361eb",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Why Data Science Initiatives Fail Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1039115,
+              "key": "f8e49ecd-1c91-4d0b-be84-05fd2a8825ad",
+              "title": "ND045 DSBL L01 Why Data Science Initiatives Fail Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "wtwXmnak7cs",
+                "china_cdn_id": "wtwXmnak7cs.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037667,
+          "key": "2f401e74-2827-4f75-ba15-8fa6fae122f4",
+          "title": "Foundational Requirements for Data Science Success",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "2f401e74-2827-4f75-ba15-8fa6fae122f4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037563,
+              "key": "1bffffcd-f0c9-4f18-b340-d7ebe4dc4229",
+              "title": "Foundational requirements for data science success Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Foundational Requirements for Data Science Success",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037570,
+              "key": "d45c770d-f401-4d4c-8efc-f8a5b74f7992",
+              "title": "ND045 DSBL L01 Foundational Requirements For Data Science Success",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "9CMniv9fohA",
+                "china_cdn_id": "9CMniv9fohA.mp4"
+              }
+            },
+            {
+              "id": 1046932,
+              "key": "55ff92db-319d-48e6-8719-262a3a77b760",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Foundational requirements for data science success\n1. Intuition and deep knowledge of the problem context\n* Drives decisions about model development\n2. Relevant and high-quality data\n3. Versatile computational toolbox\n - Data pre-processing\n - Visualization\n - Modeling tools\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051156,
+              "key": "3b68e595-2f1d-471c-b9d8-0e8dcdc2e470",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c1674_ds-success/ds-success.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/3b68e595-2f1d-471c-b9d8-0e8dcdc2e470",
+              "caption": "Foundational Requirements for Data Science Success",
+              "alt": "Foundational Requirements for Data Science Success",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037643,
+          "key": "18e6087e-083d-4d9c-b5a5-8003af80f934",
+          "title": "Quizzes: Foundational Requirements for Data Science ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "18e6087e-083d-4d9c-b5a5-8003af80f934",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1044098,
+              "key": "20356481-55f5-4671-85fe-f5dc10153b9a",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "20356481-55f5-4671-85fe-f5dc10153b9a",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "What are the foundational requirements for data science success? Please provide at least two examples of requirements in the space below."
+              },
+              "answer": {
+                "text": "For data science initiatives to be successful, quite a few foundational requirements should be in place. The following are typically identified as most critical foundational requirements: \n* Intuition and deep knowledge of the problem context\n* Relevant and high-quality data\n* Versatile computational toolbox\n",
+                "video": null
+              }
+            },
+            {
+              "id": 1044668,
+              "key": "ac8ef993-b37b-44dd-bf13-486eac8d8883",
+              "title": "Reflect",
+              "semantic_type": "ReflectAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "ac8ef993-b37b-44dd-bf13-486eac8d8883",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "question": {
+                "title": null,
+                "semantic_type": "TextQuestion",
+                "evaluation_id": null,
+                "text": "Data scientists become most familiar with the models they end up using most often, and may develop a small stable of \"go-to\" models, algorithms that they tend to favor over others.  While deep expertise in a given area of data science can be a strength, how might relying on a 'favorite' model or algorithm introduce problems related to the foundations of data science success?"
+              },
+              "answer": {
+                "text": "When data scientists become biased toward specific models or algorithms, they run the risk of fitting problems to their specific models, rather than letting intuition and deep knowledge of the problem context drive the choice of approach. ",
+                "video": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 1039118,
+          "key": "c0a3b3d7-9968-42ed-83b8-60cf04d52122",
+          "title": "Exercise: Foundational Requirements for Data Science Success",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "c0a3b3d7-9968-42ed-83b8-60cf04d52122",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1039119,
+              "key": "79049da6-0a20-4308-9b64-609008db436d",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "Please locate *Lesson 2: Exercise 4: Foundational Requirements for Data Science Success* in your downloaded template\n\nConsider projects 3 and 4 below. What steps would you take to ensure that each of the projects would succeed?\n\n**Example Project 3: Understanding Customer Churn**  \n\nIt is generally much more expensive to acquire new customers than it is to retain your existing customers. As such, businesses can see quite a lot of value in initiatives to prevent \"churn\" (loss of customers). A machine learning model can analyze any aspects of customer data to identify actions that ultimately lead to higher rates of customer churn. Based on such a model, marketing teams can better craft proactive actions to prevent such outcomes.\n\n**Example Project 4: Customer Loyalty Programs**  \n\nA deep understanding of the customer in retail settings can often lay the groundwork for customer loyalty programs. Such programs take any information available about individual customers (e.g., customer demographic characteristics; purchase history) and use machine learning to target offers specific to individuals. A project goal might be to assign a likelihood regarding whether individual customers targeted for a specific offer are likely to take advantage of that offer, providing high-quality information that can help guide the choice of which customers will receive which offer.\n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1045373,
+              "key": "ad34a4ec-a469-4e9f-994d-acffd200909e",
+              "title": "Project Success",
+              "semantic_type": "TaskListAtom",
+              "is_public": true,
+              "instructor_notes": null,
+              "user_state": {
+                "node_key": "ad34a4ec-a469-4e9f-994d-acffd200909e",
+                "completed_at": null,
+                "last_viewed_at": null,
+                "unstructured": null
+              },
+              "tasks": [
+                "Example Project 3: Understanding Customer Churn",
+                "Example Project 4: Customer Loyalty Programs"
+              ],
+              "positive_feedback": "Success! Find out more on the next page!",
+              "video_feedback": null,
+              "description": "I completed 3 Steps to ensure success for each project below:"
+            }
+          ]
+        },
+        {
+          "id": 1039120,
+          "key": "116eca6a-4bd6-425c-9a5b-1525a9d14773",
+          "title": "Solution:Foundational Requirements for Data Science Success ",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "116eca6a-4bd6-425c-9a5b-1525a9d14773",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1039121,
+              "key": "854caf6e-e0f9-447f-a1d7-fbe556ffed7e",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Foundational Requirements for Data Science Success Solution",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1039123,
+              "key": "1e7ac90d-7ff4-49cc-a76e-b018bd041bcf",
+              "title": "ND045 DSBL L01 Foundational Requirements For Data Science Success Exercise Solution",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "mti1-P5ilHA",
+                "china_cdn_id": "mti1-P5ilHA.mp4"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1037656,
+          "key": "fbe57161-81c8-4676-a9e5-5694112665a9",
+          "title": "Lesson Conclusion",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "fbe57161-81c8-4676-a9e5-5694112665a9",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037621,
+              "key": "18be648b-a071-4302-b887-63df7dd4d4ff",
+              "title": "Lesson Conclusion Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037596,
+              "key": "da1e1852-9f91-42e6-968b-6172d9a5ef57",
+              "title": "ND045 DSBL L01 Lesson Conclusion",
+              "semantic_type": "VideoAtom",
+              "is_public": true,
+              "instructor_notes": "",
+              "video": {
+                "youtube_id": "z3VdeppP2k0",
+                "china_cdn_id": "z3VdeppP2k0.mp4"
+              }
+            },
+            {
+              "id": 1046940,
+              "key": "94e44974-2539-4321-a50c-0835fbb7cf00",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Conclusion\n\n**Where we've been:**\n* Landscape of data science methods and approaches \n* Risk factors for the failure of data science initiatives \n* Foundational requirements for data science for success\n\n**Where we're headed next:**\n* The business case for data science\n* Specific opportunities for data science in business\n* Prioritizing data science opportunities within a business \n* Creating a roadmap for carrying out our new data science initiatives. \n",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051158,
+              "key": "1b1b34f7-be08-4ca8-b0b3-88311503a482",
+              "title": null,
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Recap",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1051157,
+              "key": "13d887da-df86-4bed-9daa-261569109093",
+              "title": null,
+              "semantic_type": "ImageAtom",
+              "is_public": true,
+              "url": "https://video.udacity-data.com/topher/2020/August/5f2c16e3_what-is-ds-recap/what-is-ds-recap.jpeg",
+              "non_google_url": "https://s3.cn-north-1.amazonaws.com.cn/u-img/13d887da-df86-4bed-9daa-261569109093",
+              "caption": "Lesson Recap",
+              "alt": "Lesson Recap",
+              "width": 1920,
+              "height": 1080,
+              "instructor_notes": null
+            }
+          ]
+        },
+        {
+          "id": 1037645,
+          "key": "e63eb3de-8f52-4f45-9cb9-7b92230605d4",
+          "title": "Lesson Glossary and Additional Resources",
+          "semantic_type": "Concept",
+          "is_public": true,
+          "user_state": {
+            "node_key": "e63eb3de-8f52-4f45-9cb9-7b92230605d4",
+            "completed_at": null,
+            "last_viewed_at": null,
+            "unstructured": null
+          },
+          "resources": null,
+          "atoms": [
+            {
+              "id": 1037598,
+              "key": "7c71ed29-e3a8-45c1-ab82-9816d96da945",
+              "title": "Lesson Glossary and Additional Resources Heading",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "## Lesson Glossary and Additional Resources",
+              "instructor_notes": ""
+            },
+            {
+              "id": 1037634,
+              "key": "d65cf0e7-1acd-4aca-8fc2-bad94e3a3d31",
+              "title": "Glossary",
+              "semantic_type": "TextAtom",
+              "is_public": true,
+              "text": "|**Key Term**| **Definition**| \n|--------------|---------------------|\n|Anomaly Detection Methods| are used to identify aberrant or unusual cases, based on the collection of variables that characterize those cases.|\n|Artificial Intelligence| A class of algorithms that direct machines in activities that mimic the cognition and action of humans.|\n|Classification| Predicting toward a categorical outcome|\n|Clustering Algorithms| is to identify groups of cases according to similarities in their variables.|\n|Data Analytics| the science of analyzing raw data in order to drive business processes and improve business outcomes.|\n|Deep Learning| Powerful class of supervised learning methods that underpins many of today's most exciting use cases in artificial intelligence.|\n|Descriptive Approaches| require statistical analysis to identify, summarize, and describe a phenomenon of interest.|\n|Dimensionality Reduction| is a technique for reducing the complexity of the set of features or variables that might subsequently be used in a supervised learning context.|\n|ETL| Extract, Transfer, Load is a process for creating a reliable data pipeline.|\n|KPI| Key Performance Indicator used to measure success.|\n|Machine Learning| a family of statistical approaches that use modern statistics to find patterns, classify outcomes, and make predictions using massive amounts of data.|\n|Predictive Approaches| attempt to predict a categorical or numeric outcome given a collection of inputs.|\n|Prescriptive Approaches| build on descriptive and predictive models with a bias toward action over monitoring.|\n|Recommender Systems| exploit similarities between cases (such as customer purchase behavior) to recommend a next item or action based on what was preferred by those most similar to the case in hand.|\n|Regression| Predicting toward a numerical outcome|\n|Reinforcement Learning|  represents a family of algorithms that learn in a “trial and error” fashion.|\n|Semi-Supervised Learning| combines supervised and supervised learning techniques in cases for which only a small number of cases are \"labeled\" (i.e., have a measured outcome associated with them).|\n|Supervised Learning Methods| target a designated outcome, whether it be a numerical value or a category.|\n|Testing Data| A partition of data used to evaluate your machine learning model.|\n|Training Data| A partition of data used to train your machine learning models.|\n|Unsupervised Learning Models| exploit patterns in the data but are not concerned about predicting a specific outcome.|",
+              "instructor_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_deprecated": [
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    },
+    {
+      "name": "non_google_url",
+      "reason": "(2016/8/18) Not sure, ask i18n team for reason"
+    }
+  ]
+}

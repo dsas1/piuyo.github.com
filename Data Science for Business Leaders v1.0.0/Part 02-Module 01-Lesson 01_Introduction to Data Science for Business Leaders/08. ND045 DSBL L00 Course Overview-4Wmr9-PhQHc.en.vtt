@@ -1,0 +1,118 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.280 --> 00:00:04.890
+This course consists of four lessons that
+
+00:00:04.890 --> 00:00:08.310
+together cover data science and its business case,
+
+00:00:08.310 --> 00:00:10.400
+as well as the processes, people,
+
+00:00:10.400 --> 00:00:15.870
+and platforms necessary to execute data science initiatives for the business.
+
+00:00:15.870 --> 00:00:18.300
+Businesses often suspect that they want
+
+00:00:18.300 --> 00:00:23.670
+data science capabilities and may even sense a need for data science capabilities,
+
+00:00:23.670 --> 00:00:26.460
+but many are not sure where to start.
+
+00:00:26.460 --> 00:00:28.875
+What is data science?
+
+00:00:28.875 --> 00:00:31.320
+Who is a data scientist?
+
+00:00:31.320 --> 00:00:34.380
+What is possible through data science?
+
+00:00:34.380 --> 00:00:39.835
+All these questions are addressed in the principles of data science lesson,
+
+00:00:39.835 --> 00:00:45.500
+which provides a broad introduction to data science and what it can do for a business.
+
+00:00:45.500 --> 00:00:50.165
+Creating a data science strategy is not a stand-alone activity,
+
+00:00:50.165 --> 00:00:54.770
+it must be driven by your overarching business operations and strategy.
+
+00:00:54.770 --> 00:01:00.800
+Therefore, a critical starting point for any data strategy is articulation of
+
+00:01:00.800 --> 00:01:03.920
+a business' strategic objectives in
+
+00:01:03.920 --> 00:01:08.210
+identification of opportunities for data science-based transformation.
+
+00:01:08.210 --> 00:01:12.680
+These are the topics of the business case for data science lesson.
+
+00:01:12.680 --> 00:01:15.860
+The human capital component of data science is
+
+00:01:15.860 --> 00:01:19.355
+critical to delivering on a data science strategy.
+
+00:01:19.355 --> 00:01:21.650
+Who do we recruit, hire,
+
+00:01:21.650 --> 00:01:24.590
+and train for our data science organization?
+
+00:01:24.590 --> 00:01:29.810
+How is that organization structured in order to deliver value to our business?
+
+00:01:29.810 --> 00:01:35.020
+How do our data scientists carry out their work in a structured manner?
+
+00:01:35.020 --> 00:01:38.600
+How do we leverage data and data science
+
+00:01:38.600 --> 00:01:42.425
+to foster a data-driven culture throughout the business?
+
+00:01:42.425 --> 00:01:48.070
+These questions are addressed in the human capital for data science lesson.
+
+00:01:48.070 --> 00:01:53.525
+Finally, executing the data science strategy requires technology.
+
+00:01:53.525 --> 00:01:57.580
+Technology for data and technology for machine learning.
+
+00:01:57.580 --> 00:02:01.125
+Technology needs are specific to each business.
+
+00:02:01.125 --> 00:02:05.345
+They depend on the types of data to be leveraged for data science,
+
+00:02:05.345 --> 00:02:08.105
+the form and magnitude of that data,
+
+00:02:08.105 --> 00:02:12.725
+the types of data science models that a business plans to create,
+
+00:02:12.725 --> 00:02:18.215
+and the overall scale of operations represented by those data science models.
+
+00:02:18.215 --> 00:02:21.920
+The technical infrastructure lesson covers in
+
+00:02:21.920 --> 00:02:25.249
+great detail the parameters that must be considered,
+
+00:02:25.249 --> 00:02:29.450
+both in creating a data and data architecture strategy and in
+
+00:02:29.450 --> 00:02:35.040
+building a machine learning architecture to support data science initiatives.
+
