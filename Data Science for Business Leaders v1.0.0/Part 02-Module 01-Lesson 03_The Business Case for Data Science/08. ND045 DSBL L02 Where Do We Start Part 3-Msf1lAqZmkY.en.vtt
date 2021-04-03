@@ -1,0 +1,223 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.310 --> 00:00:04.860
+I take these three components and represent
+
+00:00:04.860 --> 00:00:07.935
+them using the data science opportunity matrix.
+
+00:00:07.935 --> 00:00:11.130
+The course exercises and capstone project,
+
+00:00:11.130 --> 00:00:14.550
+will direct you to craft opportunity matrices of your own.
+
+00:00:14.550 --> 00:00:17.400
+So you may want to take a bit of time now to study
+
+00:00:17.400 --> 00:00:21.090
+the opportunity matrix and how the feasibility,
+
+00:00:21.090 --> 00:00:24.720
+potential impact, and likelihood of value
+
+00:00:24.720 --> 00:00:30.359
+capture of each project drives how that project is represented on the matrix.
+
+00:00:30.359 --> 00:00:33.735
+For this new set of candidate projects,
+
+00:00:33.735 --> 00:00:36.920
+project 1 is medium feasibility,
+
+00:00:36.920 --> 00:00:38.914
+medium to high impact,
+
+00:00:38.914 --> 00:00:42.850
+and has medium to high likelihood of capturing value.
+
+00:00:42.850 --> 00:00:46.145
+Project 2 is high feasibility,
+
+00:00:46.145 --> 00:00:50.530
+medium impact, and highly likely to capture value.
+
+00:00:50.530 --> 00:00:53.505
+Project 3 is low feasibility,
+
+00:00:53.505 --> 00:00:58.870
+high impact with medium likelihood of capturing value.
+
+00:00:58.870 --> 00:01:02.790
+Project 4 is medium to high feasibility,
+
+00:01:02.790 --> 00:01:07.570
+high impact with medium likelihood of value capture.
+
+00:01:07.570 --> 00:01:13.100
+Project 5 is low feasibility and medium to high impact,
+
+00:01:13.100 --> 00:01:16.885
+but it has a low likelihood of capturing value,
+
+00:01:16.885 --> 00:01:20.685
+and so forth for project 6,
+
+00:01:20.685 --> 00:01:23.845
+project 7, and project 8.
+
+00:01:23.845 --> 00:01:28.070
+This completed opportunity matrix provides a visual tool for
+
+00:01:28.070 --> 00:01:33.170
+representing all projects with respect to the three characteristics of feasibility,
+
+00:01:33.170 --> 00:01:36.415
+impact, and likelihood of value capture.
+
+00:01:36.415 --> 00:01:40.610
+From here then, we can start to prioritize projects.
+
+00:01:40.610 --> 00:01:42.245
+For our first project,
+
+00:01:42.245 --> 00:01:44.365
+I would choose project 2.
+
+00:01:44.365 --> 00:01:47.210
+Though we'll not have the impact of say,
+
+00:01:47.210 --> 00:01:49.775
+projects 4, 1 or 3,
+
+00:01:49.775 --> 00:01:52.565
+it is among the most likely to capture value
+
+00:01:52.565 --> 00:01:56.265
+and deliver on the promise of data science to the business.
+
+00:01:56.265 --> 00:01:59.680
+I might begin to build our data science roadmap
+
+00:01:59.680 --> 00:02:02.830
+then with project 2 as our launch project.
+
+00:02:02.830 --> 00:02:05.470
+Assuming my project identification and
+
+00:02:05.470 --> 00:02:09.415
+opportunity assessment might take several weeks before launching any project,
+
+00:02:09.415 --> 00:02:14.420
+I've decided that this will launch one month into our data science initiative.
+
+00:02:14.420 --> 00:02:17.710
+Now that I've identified a first project,
+
+00:02:17.710 --> 00:02:19.680
+which project should follow?
+
+00:02:19.680 --> 00:02:24.750
+Project 1 and project 4 are both compelling options here.
+
+00:02:24.750 --> 00:02:29.415
+Each would bring high impact and they both are pretty feasible.
+
+00:02:29.415 --> 00:02:32.710
+Since we're at the beginning of our data science journey,
+
+00:02:32.710 --> 00:02:38.450
+I'll still favor likelihood of value capture over small differences in impact.
+
+00:02:38.450 --> 00:02:43.770
+As such, I'll choose project 1 as our second project on the roadmap.
+
+00:02:43.770 --> 00:02:45.940
+I may time that to launch at,
+
+00:02:45.940 --> 00:02:49.420
+say the beginning of the fourth month of the initiative.
+
+00:02:49.420 --> 00:02:53.250
+Hopefully the first project will have delivered by this time,
+
+00:02:53.250 --> 00:02:58.000
+so the second project will capitalize on momentum from the first.
+
+00:02:58.000 --> 00:03:01.410
+Project 4 would serve as our third project.
+
+00:03:01.410 --> 00:03:04.580
+It is higher in feasibility and potential impact,
+
+00:03:04.580 --> 00:03:06.710
+and we hopefully will have started to build
+
+00:03:06.710 --> 00:03:10.225
+a foundation of success from our first two projects,
+
+00:03:10.225 --> 00:03:13.880
+so I'd be willing to take a swing at a high impact project,
+
+00:03:13.880 --> 00:03:17.165
+even though there is a little more uncertainty regarding
+
+00:03:17.165 --> 00:03:21.325
+whether the project will deliver on its promised impact.
+
+00:03:21.325 --> 00:03:26.474
+With projects 2, 1 and 3 as our first three projects,
+
+00:03:26.474 --> 00:03:29.025
+which shall we choose as our fourth?
+
+00:03:29.025 --> 00:03:33.515
+In practice, we may consider factors outside of what is represented here,
+
+00:03:33.515 --> 00:03:35.750
+such as whether any remaining projects might
+
+00:03:35.750 --> 00:03:38.840
+capitalize on advances made in the first three,
+
+00:03:38.840 --> 00:03:41.540
+or whether they might use data systems set
+
+00:03:41.540 --> 00:03:44.825
+up during establishment of the first three projects,
+
+00:03:44.825 --> 00:03:49.010
+or involve personnel who have developed specialized insight through one of
+
+00:03:49.010 --> 00:03:53.800
+the first projects that would be valuable to our particular next project.
+
+00:03:53.800 --> 00:03:58.070
+Here, in the absence of such contextual information,
+
+00:03:58.070 --> 00:04:00.280
+I'll choose project 3.
+
+00:04:00.280 --> 00:04:05.165
+Project 3 may be more challenging to implement due to its lower feasibility,
+
+00:04:05.165 --> 00:04:07.220
+but it projects high impact,
+
+00:04:07.220 --> 00:04:09.620
+so the business may be willing to be a little more
+
+00:04:09.620 --> 00:04:12.950
+patient in expecting this project to deliver.
+
+00:04:12.950 --> 00:04:16.910
+We might time it to launch a quarter after the third project,
+
+00:04:16.910 --> 00:04:18.980
+at which point the business should have
+
+00:04:18.980 --> 00:04:24.420
+a healthy portfolio of successful projects to leverage going forward.
+

@@ -1,0 +1,142 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.140
+We have established what data science is and who data scientists are,
+
+00:00:04.140 --> 00:00:06.690
+but how should we approach data science?
+
+00:00:06.690 --> 00:00:10.305
+There are three general approaches to data science problems,
+
+00:00:10.305 --> 00:00:15.870
+these include descriptive, predictive, and prescriptive approaches.
+
+00:00:15.870 --> 00:00:18.330
+As the name suggests,
+
+00:00:18.330 --> 00:00:23.180
+descriptive data science problems require statistical analysis to identify,
+
+00:00:23.180 --> 00:00:26.305
+summarize, and describe a phenomenon of interest.
+
+00:00:26.305 --> 00:00:29.840
+Common descriptive problems include customer segmentation,
+
+00:00:29.840 --> 00:00:32.030
+and business process dash-boarding.
+
+00:00:32.030 --> 00:00:34.640
+Predictive approaches attempt to predict
+
+00:00:34.640 --> 00:00:38.975
+a categorical or numerical outcome given a collection of inputs.
+
+00:00:38.975 --> 00:00:44.930
+For example, it's common for B2C businesses to use predictive models to
+
+00:00:44.930 --> 00:00:51.625
+identify people likely to churn or discontinue using a business' products or service.
+
+00:00:51.625 --> 00:00:55.985
+Prescriptive approaches build on descriptive and predictive models
+
+00:00:55.985 --> 00:01:00.215
+with a bias towards identifying optimal actions over simply monitoring.
+
+00:01:00.215 --> 00:01:05.540
+For example, some forms of automated marketing message testing will
+
+00:01:05.540 --> 00:01:08.120
+incorporate micro experiments comparing
+
+00:01:08.120 --> 00:01:11.539
+slight differences in text using marketing messages,
+
+00:01:11.539 --> 00:01:17.335
+and will automatically optimize messages to be sent to individual customers.
+
+00:01:17.335 --> 00:01:21.199
+The goal of segmentation is to identify
+
+00:01:21.199 --> 00:01:24.845
+groups of customers based on similar characteristics.
+
+00:01:24.845 --> 00:01:27.560
+We use the data we have on customers to
+
+00:01:27.560 --> 00:01:30.875
+describe those groups based on their buying behavior.
+
+00:01:30.875 --> 00:01:33.650
+These descriptions can be very valuable,
+
+00:01:33.650 --> 00:01:37.010
+as they allow a business to target their marketing outreach
+
+00:01:37.010 --> 00:01:41.425
+based on characteristics particular to individual segments.
+
+00:01:41.425 --> 00:01:46.430
+The idea for predicting customer churn is to predict customers that are
+
+00:01:46.430 --> 00:01:51.980
+likely to leave the company or discontinue using the company's products or services.
+
+00:01:51.980 --> 00:01:54.950
+Predictive models can identify triggers that
+
+00:01:54.950 --> 00:01:58.040
+ultimately identify customers likely to churn.
+
+00:01:58.040 --> 00:01:59.585
+Armed with that knowledge,
+
+00:01:59.585 --> 00:02:02.465
+marketers can employ preventative actions,
+
+00:02:02.465 --> 00:02:04.969
+such as targeting outreach that increases
+
+00:02:04.969 --> 00:02:08.060
+the likelihood that a customer will be retained by the business.
+
+00:02:08.060 --> 00:02:11.580
+In other words, that the customer will not churn.
+
+00:02:12.200 --> 00:02:16.015
+In the case of marketing message optimization,
+
+00:02:16.015 --> 00:02:19.010
+the idea is that we have several different ways to
+
+00:02:19.010 --> 00:02:22.645
+craft the content of marketing outreach messages,
+
+00:02:22.645 --> 00:02:27.515
+and we would like a way to identify which of those formulations is optimal.
+
+00:02:27.515 --> 00:02:32.119
+Typically, this is done through AB testing of alternative messages.
+
+00:02:32.119 --> 00:02:36.860
+A prescriptive analytics approach automates this AB testing by sending out
+
+00:02:36.860 --> 00:02:41.875
+slightly differing alternatives to different customer micro-segments.
+
+00:02:41.875 --> 00:02:44.360
+The results of these messages,
+
+00:02:44.360 --> 00:02:47.870
+whether they lead to customer acquisition, for example,
+
+00:02:47.870 --> 00:02:50.915
+are monitored, and a prescriptive solution will
+
+00:02:50.915 --> 00:02:55.380
+automatically optimize toward the best-performing content.
+

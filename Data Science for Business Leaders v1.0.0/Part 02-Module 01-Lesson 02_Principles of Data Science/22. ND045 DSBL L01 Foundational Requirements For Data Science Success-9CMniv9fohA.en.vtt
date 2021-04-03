@@ -1,0 +1,112 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.310 --> 00:00:04.710
+Lest we focus too much on failure,
+
+00:00:04.710 --> 00:00:05.940
+I'd like to outline
+
+00:00:05.940 --> 00:00:11.010
+a few key foundational requirements for a successful data science initiative.
+
+00:00:11.010 --> 00:00:16.755
+The first of these is deep intuition and knowledge of the business and problem context.
+
+00:00:16.755 --> 00:00:19.020
+Data science requires a marriage of
+
+00:00:19.020 --> 00:00:22.860
+technical knowledge about the possible applications of data science,
+
+00:00:22.860 --> 00:00:28.020
+and deep knowledge of the business context of the problem you're trying to address.
+
+00:00:28.020 --> 00:00:31.485
+Initiating data science projects with a lack of
+
+00:00:31.485 --> 00:00:35.190
+either one of these is going to lead to risks of trouble.
+
+00:00:35.190 --> 00:00:40.240
+Your problem context must drive your decisions about model development.
+
+00:00:40.240 --> 00:00:44.270
+In practice, I often see this play out in the other direction.
+
+00:00:44.270 --> 00:00:46.550
+Over time, machine learning specialists
+
+00:00:46.550 --> 00:00:49.650
+naturally develop affinities for certain approaches.
+
+00:00:49.650 --> 00:00:53.225
+As expertise in a given algorithmic family grows,
+
+00:00:53.225 --> 00:00:57.470
+it's tempting to fit problems to a favored algorithmic approach
+
+00:00:57.470 --> 00:01:02.780
+as opposed to matching an algorithmic approach to whatever the problem may require.
+
+00:01:02.780 --> 00:01:07.500
+Contextual knowledge helps prioritize the timing of projects as well.
+
+00:01:07.500 --> 00:01:11.090
+Areas likely to benefit from data science tend to be
+
+00:01:11.090 --> 00:01:13.940
+good initial projects as quick wins can
+
+00:01:13.940 --> 00:01:17.945
+help foster stake holder enthusiasm and generate momentum.
+
+00:01:17.945 --> 00:01:21.140
+Second, data science initiatives that are
+
+00:01:21.140 --> 00:01:24.725
+successful require relevant and high quality data.
+
+00:01:24.725 --> 00:01:27.530
+There's no getting around the fact that data quality is
+
+00:01:27.530 --> 00:01:32.555
+a necessary but not sufficient condition for data science success.
+
+00:01:32.555 --> 00:01:35.345
+You can have world class machine learning experts
+
+00:01:35.345 --> 00:01:37.789
+able to implement state of the art models,
+
+00:01:37.789 --> 00:01:41.930
+but if you do not have quality data that's relevant for your problem context,
+
+00:01:41.930 --> 00:01:45.845
+you're not likely to see success out of your data science project.
+
+00:01:45.845 --> 00:01:50.480
+Third, you must have a versatile computational toolbox.
+
+00:01:50.480 --> 00:01:55.895
+Your data science experts must be able to implement high quality data pre-processing,
+
+00:01:55.895 --> 00:02:01.879
+generate informative data visualizations to explain the model to non-technical experts,
+
+00:02:01.879 --> 00:02:06.410
+and apply the appropriate modeling tools for the context at hand.
+
+00:02:06.410 --> 00:02:10.220
+Your toolbox must be appropriately used as well.
+
+00:02:10.220 --> 00:02:12.170
+Even if you have a great model,
+
+00:02:12.170 --> 00:02:14.435
+if you over fit the data to that model,
+
+00:02:14.435 --> 00:02:19.530
+the results will not generalize to cases likely to be encountered in production.
+

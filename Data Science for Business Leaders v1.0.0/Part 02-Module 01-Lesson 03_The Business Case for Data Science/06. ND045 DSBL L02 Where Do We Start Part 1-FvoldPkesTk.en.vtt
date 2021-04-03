@@ -1,0 +1,106 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.430 --> 00:00:07.845
+A business is a complex system made up of many different units and processes.
+
+00:00:07.845 --> 00:00:12.240
+In order to identify opportunities for data science across a business,
+
+00:00:12.240 --> 00:00:17.235
+it's helpful to use a framework that helps organize the complexity of that business.
+
+00:00:17.235 --> 00:00:21.085
+One such framework is Michael Porter's value chain.
+
+00:00:21.085 --> 00:00:26.164
+In his classic text from 1985 titled Competitive Advantage,
+
+00:00:26.164 --> 00:00:29.690
+Porter introduced the value chain as a series of
+
+00:00:29.690 --> 00:00:34.715
+activities that a business performs in order to create value for its customers.
+
+00:00:34.715 --> 00:00:36.500
+The value chain divides
+
+00:00:36.500 --> 00:00:41.225
+a company's primary operations into categories such as; inbound logistics,
+
+00:00:41.225 --> 00:00:45.860
+operations, outbound logistics, marketing and sales,
+
+00:00:45.860 --> 00:00:48.445
+and service after the sale.
+
+00:00:48.445 --> 00:00:54.320
+Four additional activities identified as supports for the main value chain include,
+
+00:00:54.320 --> 00:00:57.845
+firm infrastructure, human resource management,
+
+00:00:57.845 --> 00:01:01.615
+technology development, and procurement.
+
+00:01:01.615 --> 00:01:06.020
+By focusing on each individual components of the value chain,
+
+00:01:06.020 --> 00:01:09.110
+we might identify opportunities for data science.
+
+00:01:09.110 --> 00:01:13.855
+We will walk through an example of this process towards the end of this lesson.
+
+00:01:13.855 --> 00:01:18.290
+A second framework for identifying opportunities for data science within
+
+00:01:18.290 --> 00:01:20.090
+the business mirrors one of
+
+00:01:20.090 --> 00:01:23.950
+the company's core financial statements, the income statement.
+
+00:01:23.950 --> 00:01:27.500
+This is also referred to as a profit and loss statement,
+
+00:01:27.500 --> 00:01:30.995
+or more colloquially, a P&amp;L.
+
+00:01:30.995 --> 00:01:32.915
+On an income statement,
+
+00:01:32.915 --> 00:01:37.925
+operations are represented as either contributing to revenue or expenses.
+
+00:01:37.925 --> 00:01:42.965
+The P&amp;L identifies the main categories of revenue producing activities,
+
+00:01:42.965 --> 00:01:44.630
+such as, sales revenue,
+
+00:01:44.630 --> 00:01:47.930
+service revenue, and other revenue,
+
+00:01:47.930 --> 00:01:51.140
+as well as different categories of expenses,
+
+00:01:51.140 --> 00:01:53.375
+such as, advertising expenses,
+
+00:01:53.375 --> 00:01:55.070
+cost of goods sold,
+
+00:01:55.070 --> 00:01:59.965
+employee benefits, payroll, and research and development.
+
+00:01:59.965 --> 00:02:03.980
+By identifying subcategories of expenses and revenues,
+
+00:02:03.980 --> 00:02:08.150
+the P&amp;L can provide a guide for identifying opportunities that mirror
+
+00:02:08.150 --> 00:02:13.800
+the largest sources of revenue and contributors to expenses for the company.
+

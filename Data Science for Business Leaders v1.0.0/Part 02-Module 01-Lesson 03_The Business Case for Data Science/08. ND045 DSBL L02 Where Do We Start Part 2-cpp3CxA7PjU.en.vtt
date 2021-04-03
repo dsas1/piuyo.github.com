@@ -1,0 +1,187 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.190 --> 00:00:06.225
+Once you have identified a portfolio of candidate data science projects,
+
+00:00:06.225 --> 00:00:08.700
+you must determine a relative priority for
+
+00:00:08.700 --> 00:00:13.195
+various projects which will inform the order in which they are implemented.
+
+00:00:13.195 --> 00:00:15.515
+To support this exercise,
+
+00:00:15.515 --> 00:00:20.850
+I first rate all the projects on several dimensions that together make up feasibility,
+
+00:00:20.850 --> 00:00:24.200
+impact, and likelihood of value capture.
+
+00:00:24.200 --> 00:00:30.140
+For example, let's say I have a number of projects that I'm considering for inclusion on
+
+00:00:30.140 --> 00:00:33.500
+a data science roadmap and I'd like to assess each of
+
+00:00:33.500 --> 00:00:38.260
+them on various aspects that reflect their potential on the roadmap.
+
+00:00:38.260 --> 00:00:42.080
+Let's say the first of these is a propensity model that
+
+00:00:42.080 --> 00:00:46.610
+predicts a customer's likelihood of responding to a marketing offer.
+
+00:00:46.610 --> 00:00:50.960
+Customer purchase behavior is directly aligned with most companies
+
+00:00:50.960 --> 00:00:54.975
+strategic goals so we would rate this high in that regard.
+
+00:00:54.975 --> 00:00:58.280
+Typical propensity models use data that is already gathered
+
+00:00:58.280 --> 00:01:01.340
+by the business and often this data exists in
+
+00:01:01.340 --> 00:01:05.930
+one or only a few different sources so the cost of this project will
+
+00:01:05.930 --> 00:01:11.165
+likely be low and the complexity of implementing this project will likely be low as well.
+
+00:01:11.165 --> 00:01:14.945
+Propensity modeling is one of the more promising areas of marketing.
+
+00:01:14.945 --> 00:01:19.415
+It tends to deliver pretty regularly with relatively large benefits,
+
+00:01:19.415 --> 00:01:22.384
+with little risk associated with such projects.
+
+00:01:22.384 --> 00:01:25.340
+As such, we would rate this project as having
+
+00:01:25.340 --> 00:01:31.930
+relatively high certainty of value capture and a relatively large magnitude of benefit.
+
+00:01:31.930 --> 00:01:35.055
+Let's consider our second project now.
+
+00:01:35.055 --> 00:01:40.670
+Let's say the business has challenges with backlogs in responding to customer requests.
+
+00:01:40.670 --> 00:01:44.775
+Customers often email or text the company with service questions
+
+00:01:44.775 --> 00:01:49.295
+but it takes a long time for a human to respond appropriately to those questions.
+
+00:01:49.295 --> 00:01:54.530
+The company would like to look into developing a customer service chatbot that uses
+
+00:01:54.530 --> 00:01:58.280
+natural language processing to automatically assess the need
+
+00:01:58.280 --> 00:02:02.480
+represented by each message and respond to that need automatically.
+
+00:02:02.480 --> 00:02:06.605
+How might we rate the customer service chatbot project?
+
+00:02:06.605 --> 00:02:09.890
+First, customer service is certainly aligned
+
+00:02:09.890 --> 00:02:13.115
+with strategic goals so we would rate that as high.
+
+00:02:13.115 --> 00:02:17.405
+The cost of delivering a chatbot would be pretty extensive however,
+
+00:02:17.405 --> 00:02:21.500
+it would take quite a lot of research in tuning to understand categories of
+
+00:02:21.500 --> 00:02:26.630
+customer needs and develop the right responses to be provided automatically.
+
+00:02:26.630 --> 00:02:30.935
+As such, we would rate the costs of this project as high.
+
+00:02:30.935 --> 00:02:32.825
+By the same token,
+
+00:02:32.825 --> 00:02:36.470
+complexity of implementing a system of this kind would be pretty
+
+00:02:36.470 --> 00:02:41.360
+substantial so we would rate complexity as high as well.
+
+00:02:41.360 --> 00:02:46.160
+Chatbots must be customized to a companies customer needs.
+
+00:02:46.160 --> 00:02:50.030
+Developing the right responses can be a speculative exercise
+
+00:02:50.030 --> 00:02:54.520
+so the certainty of value capture here would be relatively low as well.
+
+00:02:54.520 --> 00:02:56.885
+If the company were able to pull it off,
+
+00:02:56.885 --> 00:02:58.760
+the benefit would be substantial.
+
+00:02:58.760 --> 00:03:01.820
+The company would increase customer satisfaction through
+
+00:03:01.820 --> 00:03:07.190
+much quicker response times and could do so with lower payroll impact.
+
+00:03:07.190 --> 00:03:10.700
+Once I've rated all the projects under consideration,
+
+00:03:10.700 --> 00:03:14.480
+I represent the projects in a visual format that allows me to take into
+
+00:03:14.480 --> 00:03:19.299
+consideration the project's relative attractiveness in a number of terms.
+
+00:03:19.299 --> 00:03:24.340
+Here, I consolidate my ratings into three separate components.
+
+00:03:24.340 --> 00:03:27.950
+First, I consider the feasibility of the project.
+
+00:03:27.950 --> 00:03:32.960
+This is a combination of the time required to develop and carry out the project,
+
+00:03:32.960 --> 00:03:35.869
+the costs associated with the project,
+
+00:03:35.869 --> 00:03:38.350
+and the complexity of the project.
+
+00:03:38.350 --> 00:03:42.080
+Second, I consider the potential business value
+
+00:03:42.080 --> 00:03:44.690
+that the project will bring if successful.
+
+00:03:44.690 --> 00:03:49.465
+Third, I consider the likelihood that the project will be successful.
+
+00:03:49.465 --> 00:03:52.730
+Are there any risks that would stand in the way of the project
+
+00:03:52.730 --> 00:03:56.000
+delivering the value we expect to see from it?
+
+00:03:56.000 --> 00:03:58.280
+To what degree is there certainty or
+
+00:03:58.280 --> 00:04:03.780
+uncertainty around the project's ability to deliver on its promise?
+

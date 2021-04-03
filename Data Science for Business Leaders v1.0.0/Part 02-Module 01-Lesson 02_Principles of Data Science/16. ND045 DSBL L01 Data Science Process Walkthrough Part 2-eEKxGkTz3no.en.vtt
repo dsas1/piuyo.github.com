@@ -1,0 +1,229 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.610 --> 00:00:04.845
+First we identify the opportunity.
+
+00:00:04.845 --> 00:00:10.020
+Here a machine-learning classifier can be employed to bypass a message queue.
+
+00:00:10.020 --> 00:00:14.460
+This can cut down response times and increase patient satisfaction.
+
+00:00:14.460 --> 00:00:17.520
+Furthermore, we reduce the risk associated with
+
+00:00:17.520 --> 00:00:20.445
+delays in responding to urgent medical needs,
+
+00:00:20.445 --> 00:00:24.660
+which gives us an increase in our quality of medical care.
+
+00:00:24.660 --> 00:00:27.885
+Second, we obtain the data.
+
+00:00:27.885 --> 00:00:33.855
+In this case we will need a large sample of patient messages that vary in their content.
+
+00:00:33.855 --> 00:00:38.460
+This initially may involve simply extracting data from a data warehouse,
+
+00:00:38.460 --> 00:00:44.240
+but in production might require ETL pipelines to bring data to the production system.
+
+00:00:44.240 --> 00:00:49.355
+We will ultimately also need to have the correct classifications for those messages,
+
+00:00:49.355 --> 00:00:53.255
+medical versus non-medical or urgent versus non-urgent.
+
+00:00:53.255 --> 00:00:57.400
+So we can train a machine learning algorithm to do this automatically.
+
+00:00:57.400 --> 00:01:00.640
+Third, we need to prepare the data.
+
+00:01:00.640 --> 00:01:04.804
+In this case we will need the message data and all metadata,
+
+00:01:04.804 --> 00:01:09.920
+that is data besides message content that includes characteristics of the sender,
+
+00:01:09.920 --> 00:01:13.005
+timing of the message and so forth.
+
+00:01:13.005 --> 00:01:16.609
+All of this data needs to be cleaned and prepared
+
+00:01:16.609 --> 00:01:20.425
+in structured form for analysis by a machine-learning model.
+
+00:01:20.425 --> 00:01:24.030
+Fourth, we must identify modeling approaches.
+
+00:01:24.030 --> 00:01:28.675
+Here we are looking at a supervised learning task with classification.
+
+00:01:28.675 --> 00:01:34.240
+Messages must be classified as medical or non-medical and as urgent or non-urgent.
+
+00:01:34.240 --> 00:01:37.240
+As such, our modeling approaches would include
+
+00:01:37.240 --> 00:01:40.645
+classification algorithms such as deep learning approaches,
+
+00:01:40.645 --> 00:01:45.970
+or iterative approaches such as a random forest or gradient boosted machine.
+
+00:01:45.970 --> 00:01:49.480
+We would also identify approaches for carrying out
+
+00:01:49.480 --> 00:01:54.170
+the natural language processing required of classifying text content.
+
+00:01:54.170 --> 00:01:58.040
+In this particular case we may choose for example
+
+00:01:58.040 --> 00:02:04.040
+a TFIDF approach to scoring text features extracted from messages.
+
+00:02:04.040 --> 00:02:06.685
+Next we partition our data.
+
+00:02:06.685 --> 00:02:10.585
+We typically choose the majority of data as a training set.
+
+00:02:10.585 --> 00:02:16.259
+That is, the data that we will use to train the model to classify messages.
+
+00:02:16.259 --> 00:02:22.960
+A common tactic here is to choose say 70 percent of the data as our training data.
+
+00:02:22.960 --> 00:02:27.400
+The remainder of this data represents our test set.
+
+00:02:27.400 --> 00:02:31.480
+This data is held out for model training to provide
+
+00:02:31.480 --> 00:02:35.605
+an unbiased set of data on which to test model performance.
+
+00:02:35.605 --> 00:02:41.830
+We typically randomly partition data to the training and test sets and may stratify
+
+00:02:41.830 --> 00:02:43.270
+this randomization if there are
+
+00:02:43.270 --> 00:02:48.455
+particular characteristics that must be represented across both data sets.
+
+00:02:48.455 --> 00:02:50.840
+In a sixth step,
+
+00:02:50.840 --> 00:02:54.380
+we build and evaluate models based on our training data.
+
+00:02:54.380 --> 00:02:58.070
+As mentioned before, we may consider deep learning models and
+
+00:02:58.070 --> 00:03:03.215
+other iterative classifiers such as tree-based methods or a support vector machine.
+
+00:03:03.215 --> 00:03:06.470
+We evaluate based on how accurately they classify
+
+00:03:06.470 --> 00:03:11.785
+messages according to various fit statistics and model performance measures.
+
+00:03:11.785 --> 00:03:14.900
+We use business context to prioritize
+
+00:03:14.900 --> 00:03:19.100
+the fit measures that are most critical to evaluate the task at hand.
+
+00:03:19.100 --> 00:03:23.210
+For example, we may prioritize the minimization of
+
+00:03:23.210 --> 00:03:29.465
+false positives or false negatives or maximize specificity or sensitivity,
+
+00:03:29.465 --> 00:03:32.690
+or optimize for precision or recall.
+
+00:03:32.690 --> 00:03:36.800
+You do not need to know all the definitions of these measures.
+
+00:03:36.800 --> 00:03:39.305
+They are all characteristics of model fit
+
+00:03:39.305 --> 00:03:42.080
+and you may pay particular attention to one or another
+
+00:03:42.080 --> 00:03:48.475
+depending on the consequences of the model failing to identify certain priority cases.
+
+00:03:48.475 --> 00:03:52.005
+Once we have selected our best-performing model,
+
+00:03:52.005 --> 00:03:55.295
+our seventh step involves deploying that model.
+
+00:03:55.295 --> 00:03:58.955
+The particulars of deployment will depend on the use case.
+
+00:03:58.955 --> 00:04:01.760
+In this case, we may choose to host the model in
+
+00:04:01.760 --> 00:04:06.275
+a Cloud environment accessible via API calls.
+
+00:04:06.275 --> 00:04:10.310
+Models can also be integrated into applications
+
+00:04:10.310 --> 00:04:14.755
+or can stand alone and generate classifications in more of a batch mode.
+
+00:04:14.755 --> 00:04:17.840
+Once our model is deployed into production,
+
+00:04:17.840 --> 00:04:21.860
+our final step involves maintaining this production model.
+
+00:04:21.860 --> 00:04:25.700
+We must monitor the performance of our model to protect against
+
+00:04:25.700 --> 00:04:29.545
+drift or degraded performance over time.
+
+00:04:29.545 --> 00:04:34.250
+We must periodically re-train our model using a new updated training
+
+00:04:34.250 --> 00:04:36.290
+set to ensure that we're reflecting
+
+00:04:36.290 --> 00:04:39.920
+the full set of messages that may need to be classified.
+
+00:04:39.920 --> 00:04:43.280
+Finally, we may choose to rollback and redeploy
+
+00:04:43.280 --> 00:04:48.005
+a new model that performs better than the one currently in production.
+
+00:04:48.005 --> 00:04:50.330
+I hope this example has provided
+
+00:04:50.330 --> 00:04:54.214
+helpful contexts for the steps involved in the data science process.
+
+00:04:54.214 --> 00:04:56.990
+Data science projects differ substantially,
+
+00:04:56.990 --> 00:04:59.705
+but regardless of the particular context,
+
+00:04:59.705 --> 00:05:03.630
+all projects follow the steps outlined here.
+

@@ -1,0 +1,130 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.340 --> 00:00:06.405
+One way to assess a business' readiness for data science initiatives,
+
+00:00:06.405 --> 00:00:12.000
+is to see the degree to which they meet four scope conditions for data science success.
+
+00:00:12.000 --> 00:00:14.640
+The first of these concerns data.
+
+00:00:14.640 --> 00:00:16.080
+As I've said before,
+
+00:00:16.080 --> 00:00:17.940
+data is a critical component,
+
+00:00:17.940 --> 00:00:20.520
+perhaps the most critical component,
+
+00:00:20.520 --> 00:00:23.055
+of a data science initiative.
+
+00:00:23.055 --> 00:00:25.440
+Data can be structured,
+
+00:00:25.440 --> 00:00:30.040
+which means it's represented neatly in categorical or numerical form and held in
+
+00:00:30.040 --> 00:00:35.115
+tables or common data stores that can be easily managed in a few dimensions.
+
+00:00:35.115 --> 00:00:36.615
+On the other hand,
+
+00:00:36.615 --> 00:00:39.885
+often the case is that your data is unstructured.
+
+00:00:39.885 --> 00:00:42.480
+It's embedded in free text, images,
+
+00:00:42.480 --> 00:00:48.965
+or audio that's difficult to neatly organize due to high variability in dimensionality.
+
+00:00:48.965 --> 00:00:52.970
+Regardless of whether your data is structured or unstructured,
+
+00:00:52.970 --> 00:00:57.245
+you will need to source that data wherever it resides in the business
+
+00:00:57.245 --> 00:01:03.060
+and build ETL pipelines to bring the data to the point of analytics.
+
+00:01:03.670 --> 00:01:08.285
+The second scope condition has to do with data infrastructure.
+
+00:01:08.285 --> 00:01:13.430
+We need to make sure that technical architecture supporting data collection and
+
+00:01:13.430 --> 00:01:18.790
+storage is able to deliver high quality data to the point of analytics.
+
+00:01:18.790 --> 00:01:23.215
+Moreover, we must ensure that proper data security is in place.
+
+00:01:23.215 --> 00:01:28.200
+We'll talk more about data infrastructure in a lesson later in this course.
+
+00:01:28.460 --> 00:01:33.095
+A third critical area is business processes.
+
+00:01:33.095 --> 00:01:36.289
+We need to make sure that the right process
+
+00:01:36.289 --> 00:01:39.470
+is set up for maintaining data science initiatives.
+
+00:01:39.470 --> 00:01:43.085
+In particular, inside the data science organization,
+
+00:01:43.085 --> 00:01:49.670
+I'm strongly in favor of using the Machine Learning Development Lifecycle, or MLDLC.
+
+00:01:49.670 --> 00:01:51.770
+I've included some references to
+
+00:01:51.770 --> 00:01:55.910
+the Machine Learning Development Lifecycle in the notes for this section.
+
+00:01:55.910 --> 00:01:58.775
+Outside the data science organization,
+
+00:01:58.775 --> 00:02:01.250
+we need to make sure that we have the business processes
+
+00:02:01.250 --> 00:02:03.875
+in place to work with supporting organizations,
+
+00:02:03.875 --> 00:02:06.475
+such as engineering, technology,
+
+00:02:06.475 --> 00:02:12.120
+and the various functional areas that serve as the focus for data science projects.
+
+00:02:12.340 --> 00:02:16.010
+Finally, the fourth scope condition that must be in
+
+00:02:16.010 --> 00:02:19.925
+place concerns data science tools and frameworks.
+
+00:02:19.925 --> 00:02:22.550
+When we approach data science development,
+
+00:02:22.550 --> 00:02:25.520
+we need to make sure that we understand our choices in
+
+00:02:25.520 --> 00:02:29.165
+the right direction with regard to programming languages,
+
+00:02:29.165 --> 00:02:33.305
+machine learning libraries, and version control systems.
+
+00:02:33.305 --> 00:02:36.410
+Once again, I've included several references for
+
+00:02:36.410 --> 00:02:40.350
+these tools and frameworks in the notes for this section.
+

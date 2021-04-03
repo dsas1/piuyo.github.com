@@ -1,0 +1,127 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.250 --> 00:00:07.540
+This exercise asked you to classify a number of marketing data science projects,
+
+00:00:07.540 --> 00:00:10.165
+in terms of the data science approach,
+
+00:00:10.165 --> 00:00:12.350
+descriptive, predictive or prescriptive,
+
+00:00:12.350 --> 00:00:17.695
+and type of model such as supervised regression or classification,
+
+00:00:17.695 --> 00:00:22.495
+unsupervised clustering or anomaly detection,
+
+00:00:22.495 --> 00:00:28.850
+Natural Language Processing, recommender systems, or deep learning.
+
+00:00:29.360 --> 00:00:34.210
+Project one was a marketing message optimization project.
+
+00:00:34.210 --> 00:00:38.529
+The approach here does not include prediction or prescribing behavior,
+
+00:00:38.529 --> 00:00:41.305
+so it is a descriptive learning task.
+
+00:00:41.305 --> 00:00:47.060
+The type of model we typically use for this is an AB testing model.
+
+00:00:47.200 --> 00:00:51.980
+Project two is a marketing segmentation task.
+
+00:00:51.980 --> 00:00:56.449
+This project also has no predictive or prescriptive component.
+
+00:00:56.449 --> 00:00:59.945
+It too is a descriptive learning task.
+
+00:00:59.945 --> 00:01:04.745
+Marketing segmentation is typically carried out using clustering methods,
+
+00:01:04.745 --> 00:01:08.790
+which is an example of an unsupervised model.
+
+00:01:09.130 --> 00:01:14.690
+Project three had to do with understanding customer churn.
+
+00:01:14.690 --> 00:01:20.525
+Here we want to predict whether a customer will leave the company's products or services,
+
+00:01:20.525 --> 00:01:23.845
+so the approach is one of predictive learning.
+
+00:01:23.845 --> 00:01:26.540
+We're predicting a binary outcome,
+
+00:01:26.540 --> 00:01:29.360
+whether a customer is to churn or not.
+
+00:01:29.360 --> 00:01:32.360
+This is a classification exercise,
+
+00:01:32.360 --> 00:01:36.210
+which is an example of a supervised model.
+
+00:01:37.150 --> 00:01:41.105
+Project four is a customer loyalty program.
+
+00:01:41.105 --> 00:01:44.180
+At the heart of this project is predicting whether
+
+00:01:44.180 --> 00:01:47.870
+a customer will execute on a particular offer.
+
+00:01:47.870 --> 00:01:54.200
+As such, this is a predictive learning problem with the target of the prediction being
+
+00:01:54.200 --> 00:02:00.710
+the binary classification of execute versus not execute the offer.
+
+00:02:00.710 --> 00:02:05.045
+Tasks such as these require classification algorithms,
+
+00:02:05.045 --> 00:02:09.660
+which again are examples of supervised models.
+
+00:02:09.900 --> 00:02:16.630
+Project five was a data science project having to do with customer loyalty assessment.
+
+00:02:16.630 --> 00:02:19.930
+Here we were predicting a rating that customers would
+
+00:02:19.930 --> 00:02:23.680
+give to reflect their experience with the business.
+
+00:02:23.680 --> 00:02:28.225
+As such, the data science approach is predictive learning.
+
+00:02:28.225 --> 00:02:32.605
+Since we are predicting a numerical rating and not a category,
+
+00:02:32.605 --> 00:02:36.980
+we will use a form of supervised regression model.
+
+00:02:38.810 --> 00:02:46.510
+Finally, projects six was a data science project that assessed customer attitudes.
+
+00:02:46.510 --> 00:02:51.580
+There was no prediction or prescribed behavior associated with this project.
+
+00:02:51.580 --> 00:02:55.325
+It is an example of descriptive learning.
+
+00:02:55.325 --> 00:03:00.380
+The project required understanding postings from social media and
+
+00:03:00.380 --> 00:03:03.350
+natural language processing task that in
+
+00:03:03.350 --> 00:03:08.220
+this case will require sentiment analysis methods.
+

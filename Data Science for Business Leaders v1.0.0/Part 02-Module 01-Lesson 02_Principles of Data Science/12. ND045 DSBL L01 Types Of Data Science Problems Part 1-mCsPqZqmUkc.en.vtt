@@ -1,0 +1,109 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.340 --> 00:00:06.300
+Now that you have a familiarity with different approaches to data science,
+
+00:00:06.300 --> 00:00:10.020
+it's time to learn about the different types of data science problems.
+
+00:00:10.020 --> 00:00:13.380
+Data science problems can come in a variety of forms.
+
+00:00:13.380 --> 00:00:17.220
+In this section, we will discuss the major categories of
+
+00:00:17.220 --> 00:00:21.835
+data science methods you're likely to encounter in your data science journey.
+
+00:00:21.835 --> 00:00:26.840
+Perhaps the most common among these is supervised learning.
+
+00:00:26.840 --> 00:00:29.600
+This target a designated outcome,
+
+00:00:29.600 --> 00:00:31.909
+whether it be a numerical value,
+
+00:00:31.909 --> 00:00:35.600
+such as a customer's annual spend, or a category,
+
+00:00:35.600 --> 00:00:37.940
+such as the likelihood that a customer will
+
+00:00:37.940 --> 00:00:41.149
+cancel their subscription to a company service.
+
+00:00:41.149 --> 00:00:45.125
+With supervised learning, the main goal is usually prediction.
+
+00:00:45.125 --> 00:00:47.615
+How can I predict, for example,
+
+00:00:47.615 --> 00:00:53.585
+a customer lifetime value or assign a credit score or forecast revenues and profits?
+
+00:00:53.585 --> 00:01:00.319
+These examples predict against a numerical outcome and are known as regression problems.
+
+00:01:00.319 --> 00:01:03.245
+The other type of supervised learning problem
+
+00:01:03.245 --> 00:01:06.230
+focuses on predicting a categorical outcome.
+
+00:01:06.230 --> 00:01:09.415
+These are known as classification problems.
+
+00:01:09.415 --> 00:01:12.630
+Examples of classification problems include
+
+00:01:12.630 --> 00:01:15.890
+predicting failure in a manufacturing context,
+
+00:01:15.890 --> 00:01:18.994
+predicting whether a machine will be hacked,
+
+00:01:18.994 --> 00:01:22.985
+identifying fraudulent online transactions,
+
+00:01:22.985 --> 00:01:29.465
+diagnosing medical conditions, and tagging e-mail in categories such as work,
+
+00:01:29.465 --> 00:01:32.945
+friends, family, hobby, and news.
+
+00:01:32.945 --> 00:01:37.459
+Classification and regression tasks aim to understand an outcome,
+
+00:01:37.459 --> 00:01:42.630
+which is the main thing that characterizes them as supervised learning methods.
+
+00:01:42.830 --> 00:01:48.910
+One particularly powerful supervised learning approach is known as deep learning.
+
+00:01:48.910 --> 00:01:53.660
+Deep learning uses an algorithmic approach called neural networks to
+
+00:01:53.660 --> 00:01:56.210
+perform many classification tasks that are
+
+00:01:56.210 --> 00:01:59.105
+commonly used in artificial intelligence today.
+
+00:01:59.105 --> 00:02:04.190
+Speech recognition, computer vision, facial recognition,
+
+00:02:04.190 --> 00:02:06.890
+self-driving cars, and voice enabled
+
+00:02:06.890 --> 00:02:11.830
+digital assistants all have their technical foundations in deep learning.
+
+00:02:11.830 --> 00:02:14.930
+Entire courses are taught on deep learning alone.
+
+00:02:14.930 --> 00:02:20.970
+But here we will treat it as one of many supervised learning methods in data science.
+

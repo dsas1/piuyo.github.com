@@ -1,0 +1,178 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.100 --> 00:00:04.710
+This exercise asks you to take the components used
+
+00:00:04.710 --> 00:00:07.665
+to rate the various projects' feasibility,
+
+00:00:07.665 --> 00:00:10.905
+potential impact, and likelihood of value capture,
+
+00:00:10.905 --> 00:00:15.015
+and represent them using the data science opportunity matrix.
+
+00:00:15.015 --> 00:00:18.630
+I take these three components for each project and
+
+00:00:18.630 --> 00:00:22.275
+represent them using the data science opportunity matrix.
+
+00:00:22.275 --> 00:00:25.380
+These follow from my assessments for each project
+
+00:00:25.380 --> 00:00:28.740
+that were completed as part of the previous exercise.
+
+00:00:28.740 --> 00:00:32.610
+It's quite possible yours may differ, which is just fine.
+
+00:00:32.610 --> 00:00:34.875
+As you can see, Project 1,
+
+00:00:34.875 --> 00:00:38.305
+Customer Loyalty Program projects high impact.
+
+00:00:38.305 --> 00:00:40.610
+But because of the extensive data required,
+
+00:00:40.610 --> 00:00:45.245
+as well as the need to build a system of loyalty offered delivery as part of the project,
+
+00:00:45.245 --> 00:00:49.710
+it's only medium in feasibility because this is the business' first foray in
+
+00:00:49.710 --> 00:00:51.800
+the loyalty programs and
+
+00:00:51.800 --> 00:00:55.220
+many different parts of the business must align in order to execute.
+
+00:00:55.220 --> 00:00:59.310
+The likelihood of initially capturing value is not high.
+
+00:00:59.480 --> 00:01:04.340
+Project 2, Customer Loyalty Assessment is much higher in
+
+00:01:04.340 --> 00:01:08.995
+feasibility as the departmental edges of the project are much more narrow.
+
+00:01:08.995 --> 00:01:11.825
+It only projects medium impact, however,
+
+00:01:11.825 --> 00:01:15.350
+as action on the information gained is not clearly defined.
+
+00:01:15.350 --> 00:01:16.940
+For this reason as well,
+
+00:01:16.940 --> 00:01:21.110
+the project does not have high likelihood of value delivery.
+
+00:01:21.110 --> 00:01:26.825
+Project 3, Assessing Customer Attitudes has highest feasibility of the set,
+
+00:01:26.825 --> 00:01:28.715
+as it requires no new data,
+
+00:01:28.715 --> 00:01:32.315
+relying on extant data from social media sites only.
+
+00:01:32.315 --> 00:01:36.545
+Moreover, methods for scraping such data are well established,
+
+00:01:36.545 --> 00:01:39.815
+which contributes to the high likelihood of capturing value.
+
+00:01:39.815 --> 00:01:44.330
+The impact of this project is projected to be among the lowest of the group however,
+
+00:01:44.330 --> 00:01:47.000
+as there's no clear value-driven use
+
+00:01:47.000 --> 00:01:50.635
+identified for the information generated from the project.
+
+00:01:50.635 --> 00:01:56.060
+Project 4, Procurement Optimization requires little new data,
+
+00:01:56.060 --> 00:01:58.940
+so therefore is medium to high in feasibility.
+
+00:01:58.940 --> 00:02:03.740
+Raw material procurement is a critical component of the business' operations.
+
+00:02:03.740 --> 00:02:08.600
+So optimizing procurement should bring medium to high impact.
+
+00:02:08.600 --> 00:02:13.660
+Material pricing is driven by market factors out of the business' control,
+
+00:02:13.660 --> 00:02:18.815
+however, so there is substantial uncertainty around value capture.
+
+00:02:18.815 --> 00:02:25.055
+Project 5, Supply Chain Optimization also requires little new data,
+
+00:02:25.055 --> 00:02:27.590
+so therefore has medium feasibility.
+
+00:02:27.590 --> 00:02:31.340
+Purchasing an inventory are cost heavy operations.
+
+00:02:31.340 --> 00:02:36.380
+Centralizing and optimizing these functions should bring high impact.
+
+00:02:36.380 --> 00:02:38.645
+The project's success is incumbent on
+
+00:02:38.645 --> 00:02:42.995
+operational changes in not only procurement and inventory, but also delivery.
+
+00:02:42.995 --> 00:02:48.115
+So the project has only medium certainty of delivering on the value expected of it.
+
+00:02:48.115 --> 00:02:51.355
+Project 6, Demand Forecasting,
+
+00:02:51.355 --> 00:02:54.590
+relies primarily on established data streams,
+
+00:02:54.590 --> 00:02:57.305
+so it has medium to high feasibility.
+
+00:02:57.305 --> 00:03:02.690
+Being able to anticipate demand swings as scheduled production and manage inventory
+
+00:03:02.690 --> 00:03:05.150
+accordingly are important levers to
+
+00:03:05.150 --> 00:03:08.950
+the business that should bring medium to high business impact.
+
+00:03:08.950 --> 00:03:12.135
+Demand forecasting methods are well established,
+
+00:03:12.135 --> 00:03:17.300
+so this project should be among the most likely to deliver on its expected value.
+
+00:03:17.300 --> 00:03:20.420
+The course exercises and capstone projects will
+
+00:03:20.420 --> 00:03:23.215
+direct you to craft an opportunity matrix of your own.
+
+00:03:23.215 --> 00:03:25.910
+You may want to take a bit of time now to study
+
+00:03:25.910 --> 00:03:29.000
+the opportunity matrix and how the feasibility,
+
+00:03:29.000 --> 00:03:32.510
+potential impact, and likelihood of value capture of
+
+00:03:32.510 --> 00:03:37.830
+each project drives how that project is represented on the matrix.
+

@@ -1,0 +1,127 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.170 --> 00:00:03.685
+Welcome to our next lesson,
+
+00:00:03.685 --> 00:00:06.790
+the business case for data science.
+
+00:00:06.790 --> 00:00:09.580
+In this lesson, we train our focus on
+
+00:00:09.580 --> 00:00:14.495
+the business context within which data science initiatives may be implemented.
+
+00:00:14.495 --> 00:00:18.610
+Creating a data science strategy is not a standalone activity.
+
+00:00:18.610 --> 00:00:23.900
+It must be driven by your overarching business operations and strategy.
+
+00:00:24.240 --> 00:00:29.920
+A critical starting point for any data strategy is articulation of a businesses
+
+00:00:29.920 --> 00:00:32.680
+strategic objectives and identification
+
+00:00:32.680 --> 00:00:36.130
+of opportunities for data science based transformation.
+
+00:00:36.130 --> 00:00:39.310
+This lesson discusses how a leader may specify
+
+00:00:39.310 --> 00:00:43.665
+the data science projects that can help achieve the company's business strategy.
+
+00:00:43.665 --> 00:00:47.435
+How a data science project may drive value for the business,
+
+00:00:47.435 --> 00:00:51.665
+and how the data for those initiatives can be creatively sourced.
+
+00:00:51.665 --> 00:00:56.225
+Applying a hypothesis led approach to various data science use cases,
+
+00:00:56.225 --> 00:00:59.825
+you will become familiar with evaluating whether
+
+00:00:59.825 --> 00:01:04.045
+a given business opportunity might benefit from data science approaches,
+
+00:01:04.045 --> 00:01:07.430
+racking and stacking potential opportunities across
+
+00:01:07.430 --> 00:01:12.609
+the business to prioritize and identify the optimal places to start,
+
+00:01:12.609 --> 00:01:17.360
+and actually designing data science projects to
+
+00:01:17.360 --> 00:01:22.525
+predict and optimize outcomes towards capitalizing on business opportunities.
+
+00:01:22.525 --> 00:01:25.145
+Upon completion of this lesson,
+
+00:01:25.145 --> 00:01:29.200
+you will be able to successfully carry out the following tasks.
+
+00:01:29.200 --> 00:01:32.660
+Define an organization's data science roadmap.
+
+00:01:32.660 --> 00:01:35.780
+Here we'll identify the best projects to start with and
+
+00:01:35.780 --> 00:01:39.920
+detailed strategies for successfully launching data science initiatives.
+
+00:01:39.920 --> 00:01:43.895
+Second, we'll be able to determine a starting point.
+
+00:01:43.895 --> 00:01:46.760
+The most appropriate first project or suite of
+
+00:01:46.760 --> 00:01:50.360
+projects to capture the most promising opportunities and
+
+00:01:50.360 --> 00:01:53.480
+launch the data science function with adequate momentum to
+
+00:01:53.480 --> 00:01:57.725
+ensure its long-term operation within the organization.
+
+00:01:57.725 --> 00:02:02.240
+Third, you'll be able to work with fellow executives to set and
+
+00:02:02.240 --> 00:02:06.775
+manage reasonable expectations of success for data science projects.
+
+00:02:06.775 --> 00:02:11.435
+Fourth, given a set of candidate data science projects,
+
+00:02:11.435 --> 00:02:15.500
+you'll determine the relative strategic importance, cost,
+
+00:02:15.500 --> 00:02:18.710
+complexity of implementation, risk,
+
+00:02:18.710 --> 00:02:20.765
+likelihood of value capture,
+
+00:02:20.765 --> 00:02:24.575
+and magnitude of benefit for each of the projects.
+
+00:02:24.575 --> 00:02:28.100
+Finally for any data science project,
+
+00:02:28.100 --> 00:02:33.185
+you'll be able to identify strategies for meeting three key factors of success.
+
+00:02:33.185 --> 00:02:35.165
+Executive sponsorship,
+
+00:02:35.165 --> 00:02:40.530
+strategic alignment with core business interests and scope conditions.
+

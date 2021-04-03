@@ -1,0 +1,208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.070 --> 00:00:05.370
+This exercise had you complete a rack and stack worksheet
+
+00:00:05.370 --> 00:00:09.570
+for six projects in marketing and procurement and supply chain.
+
+00:00:09.570 --> 00:00:15.870
+The exercise directed you to determine the relative strategic alignment, cost,
+
+00:00:15.870 --> 00:00:20.190
+complexity of implementation, certainty of value capture,
+
+00:00:20.190 --> 00:00:24.090
+and magnitude of benefit for each of the six projects.
+
+00:00:24.090 --> 00:00:27.855
+I'll share my ratings from my assessment.
+
+00:00:27.855 --> 00:00:29.310
+Your ratings may vary,
+
+00:00:29.310 --> 00:00:31.245
+which is absolutely fine.
+
+00:00:31.245 --> 00:00:33.750
+As you can see, project 1,
+
+00:00:33.750 --> 00:00:37.855
+customer loyalty program, is directly aligned with strategic goals.
+
+00:00:37.855 --> 00:00:40.450
+Because of the extensive data required,
+
+00:00:40.450 --> 00:00:45.685
+as well as the need to build a system of loyalty all for delivery as part of the project,
+
+00:00:45.685 --> 00:00:50.600
+this project is only medium in both cost and complexity of implementation.
+
+00:00:50.600 --> 00:00:53.555
+I project large benefit for this project.
+
+00:00:53.555 --> 00:00:57.755
+But because this is the business' first foray into loyalty programs,
+
+00:00:57.755 --> 00:01:01.535
+and many different parts of the business must align in order to execute,
+
+00:01:01.535 --> 00:01:05.980
+the likelihood of initially capturing value is not high.
+
+00:01:05.980 --> 00:01:10.150
+Project 2, customer loyalty assessment,
+
+00:01:10.150 --> 00:01:14.050
+is also aligned closely to strategic goals.
+
+00:01:14.050 --> 00:01:18.245
+The departmental edges of the project are much more narrow,
+
+00:01:18.245 --> 00:01:22.700
+so cost and complexity of implementation are much lower.
+
+00:01:22.700 --> 00:01:27.020
+Action on the information gained is not clearly defined however,
+
+00:01:27.020 --> 00:01:29.975
+so only medium benefit is projected.
+
+00:01:29.975 --> 00:01:32.075
+For this reason as well,
+
+00:01:32.075 --> 00:01:36.420
+the project does not have high likelihood of value delivery.
+
+00:01:36.980 --> 00:01:41.230
+Project 3, assessing customer attitudes,
+
+00:01:41.230 --> 00:01:44.390
+is aligned with strategic goals and has
+
+00:01:44.390 --> 00:01:47.930
+the lowest cost and implementation complexity of the set,
+
+00:01:47.930 --> 00:01:50.285
+as it requires no new data,
+
+00:01:50.285 --> 00:01:54.605
+relying only on extent data from social media sites.
+
+00:01:54.605 --> 00:01:59.090
+Moreover, methods of scraping such data are well established,
+
+00:01:59.090 --> 00:02:02.590
+which contributes to the high likelihood of capturing value.
+
+00:02:02.590 --> 00:02:07.805
+The benefit of this project is projected to be among the lowest of the group however,
+
+00:02:07.805 --> 00:02:10.460
+as there is no clear value-driven use
+
+00:02:10.460 --> 00:02:14.125
+identified for the information generated from the project.
+
+00:02:14.125 --> 00:02:16.980
+Procurement is key to this business,
+
+00:02:16.980 --> 00:02:20.365
+so project 4, procurement optimization,
+
+00:02:20.365 --> 00:02:23.255
+is closely aligned with strategic goals.
+
+00:02:23.255 --> 00:02:27.140
+This project will require purchase of external market data,
+
+00:02:27.140 --> 00:02:28.655
+so cost is moderate.
+
+00:02:28.655 --> 00:02:31.760
+But there will be little need for new data internally,
+
+00:02:31.760 --> 00:02:35.725
+so complexity of implementation should be relatively low.
+
+00:02:35.725 --> 00:02:40.720
+Raw material procurement is a critical component of the business' operations,
+
+00:02:40.720 --> 00:02:45.010
+so optimizing procurement should bring medium to high benefit.
+
+00:02:45.010 --> 00:02:50.470
+Material pricing is driven by market factors out of the business' control however,
+
+00:02:50.470 --> 00:02:55.045
+so there's substantial uncertainty around value capture.
+
+00:02:55.045 --> 00:02:59.110
+Supply chain operations are also mission critical to the company,
+
+00:02:59.110 --> 00:03:02.230
+so project 5, supply chain optimization,
+
+00:03:02.230 --> 00:03:04.990
+is directly aligned with strategic goals.
+
+00:03:04.990 --> 00:03:08.230
+It will require a fair amount of data engineering to bring
+
+00:03:08.230 --> 00:03:11.530
+data from silos associated with the many factories,
+
+00:03:11.530 --> 00:03:13.390
+so cost will be moderate,
+
+00:03:13.390 --> 00:03:18.395
+but complexity should not be huge once these ETL pipelines are built.
+
+00:03:18.395 --> 00:03:22.095
+Purchasing an inventory are cost-heavy operations,
+
+00:03:22.095 --> 00:03:28.030
+so centralizing and optimizing these functions should bring large benefit to the company.
+
+00:03:28.030 --> 00:03:31.015
+The project's success is incumbent on
+
+00:03:31.015 --> 00:03:34.539
+operational changes in not only procurement and inventory,
+
+00:03:34.539 --> 00:03:37.120
+but also delivery, so the project has
+
+00:03:37.120 --> 00:03:41.760
+only medium certainty of delivering on the value expected of it.
+
+00:03:41.760 --> 00:03:44.780
+Finally, project 6, demand forecasting,
+
+00:03:44.780 --> 00:03:48.605
+is also closely aligned to strategic goals.
+
+00:03:48.605 --> 00:03:53.335
+This project will rely primarily on established data streams,
+
+00:03:53.335 --> 00:03:57.265
+so both cost and complexity should be relatively low.
+
+00:03:57.265 --> 00:04:01.410
+Being able to anticipate demand swings, and schedule production,
+
+00:04:01.410 --> 00:04:06.174
+and manage inventory accordingly are important levers to the business,
+
+00:04:06.174 --> 00:04:10.595
+so the project should bring medium to high benefit to the business.
+
+00:04:10.595 --> 00:04:14.750
+Moreover, demand forecasting methods are well established,
+
+00:04:14.750 --> 00:04:20.550
+so this project should be among the most likely to deliver on its expected value.
+

@@ -1,0 +1,127 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.310 --> 00:00:04.980
+Data science has garnered a great deal of hype.
+
+00:00:04.980 --> 00:00:07.950
+But what exactly is data science?
+
+00:00:07.950 --> 00:00:12.780
+Data science is a field of study that combines domain expertise,
+
+00:00:12.780 --> 00:00:15.960
+programming skills, and knowledge of mathematics and
+
+00:00:15.960 --> 00:00:19.965
+statistics to extract meaningful insights from data.
+
+00:00:19.965 --> 00:00:25.560
+For our purposes, we will consider the field of data science to include data analytics,
+
+00:00:25.560 --> 00:00:28.875
+artificial intelligence, and machine learning.
+
+00:00:28.875 --> 00:00:32.295
+The first of these, data analytics,
+
+00:00:32.295 --> 00:00:35.730
+is the science of analyzing raw data in order to
+
+00:00:35.730 --> 00:00:39.745
+drive business processes and improve business outcomes.
+
+00:00:39.745 --> 00:00:43.850
+Examples of data analytics projects include
+
+00:00:43.850 --> 00:00:48.625
+creation of dashboards to track metrics critical to the company,
+
+00:00:48.625 --> 00:00:54.865
+forecasting sales or other operational outcomes to help align resources to needs,
+
+00:00:54.865 --> 00:00:58.979
+providing a 360 degree view of the customer,
+
+00:00:58.979 --> 00:01:04.145
+and correlational analyses, such as when the degree of engagement increases,
+
+00:01:04.145 --> 00:01:07.075
+so does lifetime customer value.
+
+00:01:07.075 --> 00:01:11.395
+The second of these areas, artificial intelligence,
+
+00:01:11.395 --> 00:01:14.780
+represents a class of algorithms that direct machines in
+
+00:01:14.780 --> 00:01:19.320
+activities that mimic the cognition and action of humans.
+
+00:01:19.320 --> 00:01:24.410
+Artificial intelligence has found a wide variety of uses in business.
+
+00:01:24.410 --> 00:01:29.920
+Email spam filters have long served as an example of artificial intelligence.
+
+00:01:29.920 --> 00:01:34.925
+AI provides opportunities for personalization of the customer experience,
+
+00:01:34.925 --> 00:01:39.125
+and can predict customer service needs on aspects of the customer,
+
+00:01:39.125 --> 00:01:44.285
+and even on tone and content of customer interactions on support calls.
+
+00:01:44.285 --> 00:01:47.360
+Finally, in retail applications,
+
+00:01:47.360 --> 00:01:50.330
+dynamic price optimization can provide a way for
+
+00:01:50.330 --> 00:01:55.595
+real-time pricing based on changing customer and market trends.
+
+00:01:55.595 --> 00:02:01.670
+Finally, Machine learning, often considered a subset of artificial intelligence,
+
+00:02:01.670 --> 00:02:07.220
+is a family of statistical approaches that use modern statistics to find patterns,
+
+00:02:07.220 --> 00:02:12.470
+classify outcomes, and make predictions using massive amounts of data.
+
+00:02:12.470 --> 00:02:16.395
+Examples of machine learning are bound in business.
+
+00:02:16.395 --> 00:02:20.090
+Traditional customer segmentation can be supported at
+
+00:02:20.090 --> 00:02:25.405
+a much more granular level through machine learning based micro-segmentation.
+
+00:02:25.405 --> 00:02:29.315
+Online ad targeting can be supported with machine learning,
+
+00:02:29.315 --> 00:02:32.565
+especially to optimize the bidding process.
+
+00:02:32.565 --> 00:02:35.630
+Machine learning techniques form the basis for
+
+00:02:35.630 --> 00:02:38.755
+recommending products on online retail sites,
+
+00:02:38.755 --> 00:02:43.450
+and can provide predictions of purchases and other customer behavior.
+
+00:02:43.450 --> 00:02:48.470
+Finally, machine learning techniques can aid in pattern and image recognition,
+
+00:02:48.470 --> 00:02:52.520
+which can be helpful in contexts varying as widely as identifying
+
+00:02:52.520 --> 00:02:58.110
+manufacturing defects and recognizing new product and service opportunities.
+

@@ -1,0 +1,82 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.220 --> 00:00:03.524
+Later in the course,
+
+00:00:03.524 --> 00:00:09.435
+we will dive deep into the process of managing data science projects and initiatives.
+
+00:00:09.435 --> 00:00:11.985
+For now however, I would like to introduce
+
+00:00:11.985 --> 00:00:16.200
+eight steps that are typically involved in that process.
+
+00:00:16.200 --> 00:00:22.515
+First, you must identify the data science opportunity and determine success criteria,
+
+00:00:22.515 --> 00:00:26.250
+such as key performance indicators or KPIs.
+
+00:00:26.250 --> 00:00:31.950
+Second, you need to obtain the data required for the data science project.
+
+00:00:31.950 --> 00:00:37.020
+This may require building ETL or extract, transform,
+
+00:00:37.020 --> 00:00:40.820
+and load pipelines and processes to bring
+
+00:00:40.820 --> 00:00:45.850
+the data from different sources together to be available for a data science model.
+
+00:00:45.850 --> 00:00:50.045
+Third, you need to explore, understand,
+
+00:00:50.045 --> 00:00:54.245
+and prepare that data to use in a modeling context.
+
+00:00:54.245 --> 00:00:57.050
+Fourth, you need to identify
+
+00:00:57.050 --> 00:01:01.929
+methodological approaches that will be considered in the data science process.
+
+00:01:01.929 --> 00:01:05.580
+Fifth, you need to partition your data.
+
+00:01:05.580 --> 00:01:11.180
+Data science models usually require your data to be split into a training set,
+
+00:01:11.180 --> 00:01:14.960
+a subset of your data that you used to train a machine learning model,
+
+00:01:14.960 --> 00:01:16.880
+and a test set,
+
+00:01:16.880 --> 00:01:19.930
+a smaller subset that's held out from training,
+
+00:01:19.930 --> 00:01:24.275
+so it can be used to evaluate your machine learning model.
+
+00:01:24.275 --> 00:01:31.630
+Sixth, you need to build and evaluate models based on the aim of your project.
+
+00:01:31.630 --> 00:01:37.895
+Seventh, once you have selected the model best suited for your use,
+
+00:01:37.895 --> 00:01:41.289
+you need to deploy that model in production.
+
+00:01:41.289 --> 00:01:47.675
+Finally, eighth, models in production need continued attention through maintenance.
+
+00:01:47.675 --> 00:01:51.590
+Steps such as model retraining and model rollback
+
+00:01:51.590 --> 00:01:56.490
+and redeploy make up the process of model maintenance.
+

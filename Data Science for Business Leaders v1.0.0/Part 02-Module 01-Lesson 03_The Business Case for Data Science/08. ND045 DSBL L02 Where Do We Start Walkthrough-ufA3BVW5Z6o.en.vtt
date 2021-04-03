@@ -1,0 +1,124 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.160 --> 00:00:05.970
+Let's walk through an example of using one of these frameworks to
+
+00:00:05.970 --> 00:00:10.230
+identify opportunities for data science within the business.
+
+00:00:10.230 --> 00:00:12.420
+Consider the following scenario.
+
+00:00:12.420 --> 00:00:18.480
+Specialty coffee retailer, Fantastic Coffee believes that data science might benefit
+
+00:00:18.480 --> 00:00:20.910
+the business and would like to identify
+
+00:00:20.910 --> 00:00:25.395
+data science project opportunities across the business operations.
+
+00:00:25.395 --> 00:00:29.010
+Let's use Michael Porter's value chain as our framework for identifying
+
+00:00:29.010 --> 00:00:33.165
+data science projects that might benefit Fantastic Coffee.
+
+00:00:33.165 --> 00:00:36.915
+Let's first consider primary operations.
+
+00:00:36.915 --> 00:00:40.940
+Regarding inbound logistics, Fantastic has contracts with
+
+00:00:40.940 --> 00:00:45.815
+many long-term suppliers for the raw materials for their coffee and food items.
+
+00:00:45.815 --> 00:00:51.545
+These items must be routed to each of Fantastic's many locations.
+
+00:00:51.545 --> 00:00:56.330
+Data science projects might focus on either supply chain optimization or
+
+00:00:56.330 --> 00:01:01.960
+logistics optimization to cut down costs associated with those two areas.
+
+00:01:01.960 --> 00:01:07.290
+Operations in local Fantastic Coffee sites are run according to company policy.
+
+00:01:07.290 --> 00:01:11.030
+Tracking time spent with various activities as well as
+
+00:01:11.030 --> 00:01:17.200
+local labor costs could see data science projects to identify operational improvements.
+
+00:01:17.200 --> 00:01:20.690
+Regarding outbound logistics, Fantastic Coffee
+
+00:01:20.690 --> 00:01:24.650
+relies on retail sites that provide counter order service.
+
+00:01:24.650 --> 00:01:27.595
+Some sites offer drive-through service as well.
+
+00:01:27.595 --> 00:01:32.150
+Data science projects could focus on customer service optimization and
+
+00:01:32.150 --> 00:01:34.370
+could also be used to identify sites that would
+
+00:01:34.370 --> 00:01:37.025
+benefit from adding drive-through service.
+
+00:01:37.025 --> 00:01:42.035
+Fantastic focuses its marketing on regional media and print advertising,
+
+00:01:42.035 --> 00:01:47.000
+as well as advertising and offers through search engines and social media sites.
+
+00:01:47.000 --> 00:01:50.720
+Data science projects could target the optimization of
+
+00:01:50.720 --> 00:01:57.035
+these media strategies and could automate A/B testing of alternative marketing messages.
+
+00:01:57.035 --> 00:02:01.670
+Fantastic emphasizes top quality customer service and has
+
+00:02:01.670 --> 00:02:06.380
+traditionally selected and trained employees with service provision as a goal.
+
+00:02:06.380 --> 00:02:09.020
+Data science could be used to identify
+
+00:02:09.020 --> 00:02:12.380
+characteristics of potential employees that are most strongly
+
+00:02:12.380 --> 00:02:15.170
+associated with high-quality service so that
+
+00:02:15.170 --> 00:02:19.405
+identification and hiring of these candidates could be expedited.
+
+00:02:19.405 --> 00:02:23.430
+Just as we did for Fantastic's primary operations,
+
+00:02:23.430 --> 00:02:27.050
+we could use the value chain framework to identify data science opportunities
+
+00:02:27.050 --> 00:02:30.920
+specific to support activities such as firm infrastructure,
+
+00:02:30.920 --> 00:02:35.840
+human resource management, technology development, and procurement.
+
+00:02:35.840 --> 00:02:38.945
+By using Michael Porter's value chain framework,
+
+00:02:38.945 --> 00:02:42.710
+we've now identified several potential data science projects that
+
+00:02:42.710 --> 00:02:47.520
+might benefit Fantastic Coffee across its business operations.
+

@@ -1,0 +1,130 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.640 --> 00:00:05.760
+Now that we have identified our first data science project that we will
+
+00:00:05.760 --> 00:00:09.930
+undertake to launch our data science initiative, how do we begin?
+
+00:00:09.930 --> 00:00:12.900
+I have four steps that I follow when I'm
+
+00:00:12.900 --> 00:00:17.010
+specifying the details that will make up a data science project.
+
+00:00:17.010 --> 00:00:20.010
+First, it is imperative to understand
+
+00:00:20.010 --> 00:00:23.355
+the current state of whatever problem you're trying to solve.
+
+00:00:23.355 --> 00:00:28.590
+If you are trying to develop a customer segmentation strategy based on data science,
+
+00:00:28.590 --> 00:00:33.045
+what is currently done by the business in the area of customer segmentation?
+
+00:00:33.045 --> 00:00:35.340
+What are the strengths of that approach?
+
+00:00:35.340 --> 00:00:38.025
+What aspects must remain the same?
+
+00:00:38.025 --> 00:00:40.960
+Where does that approach fall short?
+
+00:00:41.500 --> 00:00:46.040
+Understanding the current state will help you with the second step,
+
+00:00:46.040 --> 00:00:48.650
+re-imagining opportunities that come about
+
+00:00:48.650 --> 00:00:51.680
+when data science is incorporated into the process.
+
+00:00:51.680 --> 00:00:53.870
+In our segmentation example,
+
+00:00:53.870 --> 00:00:57.230
+what benefits would a data science-based approach bring?
+
+00:00:57.230 --> 00:01:00.620
+Is it able to handle greater complexity?
+
+00:01:00.620 --> 00:01:05.800
+Is it able to scale in ways that the previous process could not?
+
+00:01:05.800 --> 00:01:09.740
+In this case, we're re-imagining how we execute on
+
+00:01:09.740 --> 00:01:15.140
+strategic objectives of the company with the help of data science.
+
+00:01:15.140 --> 00:01:18.170
+At this point, we're ready to put together
+
+00:01:18.170 --> 00:01:20.900
+the business case for the data science project.
+
+00:01:20.900 --> 00:01:25.294
+Once we understand opportunities afforded to us through data science,
+
+00:01:25.294 --> 00:01:27.530
+how can we articulate the benefits of
+
+00:01:27.530 --> 00:01:29.930
+a data science-based approach and
+
+00:01:29.930 --> 00:01:34.240
+the additional return on investment that we would get via the data science path?
+
+00:01:34.240 --> 00:01:37.790
+The business case speaks to the strategic objectives of
+
+00:01:37.790 --> 00:01:41.240
+the company in a way that's particularly appealing to
+
+00:01:41.240 --> 00:01:44.240
+leaders and executives who need to consider
+
+00:01:44.240 --> 00:01:48.575
+the opportunity costs of any potential project.
+
+00:01:48.575 --> 00:01:52.520
+Finally, when we arrive at the execution phase,
+
+00:01:52.520 --> 00:01:54.560
+we want to undertake the development of
+
+00:01:54.560 --> 00:01:58.475
+the data science project using a rapid prototyping approach.
+
+00:01:58.475 --> 00:02:04.160
+Rapid prototyping is an iterative approach wherein we get user feedback often and do
+
+00:02:04.160 --> 00:02:06.020
+not allow ourselves to go very far
+
+00:02:06.020 --> 00:02:10.085
+afield without putting our model in front of potential users.
+
+00:02:10.085 --> 00:02:12.980
+I have a few examples from early in my career when I
+
+00:02:12.980 --> 00:02:15.845
+did not adopt a rapid prototyping approach.
+
+00:02:15.845 --> 00:02:20.825
+The key point involved here is that without regular feedback from users,
+
+00:02:20.825 --> 00:02:25.430
+the data science project may end up solving a problem other than the one most critical
+
+00:02:25.430 --> 00:02:27.860
+to users or may include features that are
+
+00:02:27.860 --> 00:02:32.130
+irrelevant or even counter to the aims of the model.
+
